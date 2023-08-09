@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "eu.md",
+                "file": "Alphabets/G.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "eu.md",
+                "file": "Alphabets/G.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "eu.md",
+                "file": "Alphabets/G.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "eu.md"
+                "file": "Alphabets/G.md"
               }
             }
           }
@@ -148,18 +148,26 @@
   },
   "active": "50fceeae35fcbcfe",
   "lastOpenFiles": [
-    "Umlaut/ö.md",
-    "eu.md",
-    "READ ME.md",
-    "au.md",
-    "ch.md",
-    "ie.md",
-    "ei.md",
-    "Umlaut/ä.md",
+    "Alphabets/F.md",
     "Alphabets/E.md",
-    "Umlaut/ß.md",
-    "Umlaut/ü.md",
+    "Alphabets/D.md",
+    "Alphabets/C.md",
+    "Alphabets/B.md",
     "Alphabets/A.md",
+    "READ ME.md",
+    "Letter Combinations/eh.md",
+    "Letter Combinations/uh.md",
+    "Letter Combinations/au.md",
+    "Letter Combinations",
+    "Letter Combinations/ig.md",
+    "Umlaut/ü.md",
+    "Umlaut/ö.md",
+    "Letter Combinations/ch.md",
+    "Letter Combinations/eu.md",
+    "Letter Combinations/ie.md",
+    "Letter Combinations/ei.md",
+    "Umlaut/ä.md",
+    "Umlaut/ß.md",
     "Umlaut",
     "Alphabets/Z.md",
     "Alphabets/Y.md",
@@ -168,13 +176,6 @@
     "Alphabets/V.md",
     "Alphabets/U.md",
     "Alphabets/T.md",
-    "Alphabets/S.md",
-    "Alphabets/R.md",
-    "Alphabets/Q.md",
-    "Alphabets/P.md",
-    "Alphabets/O.md",
-    "Alphabets/N.md",
-    "Alphabets/M.md",
     "Alphabets"
   ]
 }

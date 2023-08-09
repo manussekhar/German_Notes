@@ -10,5 +10,5 @@ Umlaut
 
 Letter Combinations
 ---------------------------------
-[[ei]] [[ie]] [[au]] [[eu]] [[ch]]
+[[ei]] [[ie]] [[au]] [[eu]] [[ch]] [[ig]] [[eh]] [[uh]]
 
