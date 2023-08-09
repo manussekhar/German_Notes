@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alphabets/G.md",
+                "file": "Umlaut/ß.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alphabets/G.md",
+                "file": "Umlaut/ß.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alphabets/G.md",
+                "file": "Umlaut/ß.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alphabets/G.md"
+                "file": "Umlaut/ß.md"
               }
             }
           }
@@ -148,26 +148,27 @@
   },
   "active": "50fceeae35fcbcfe",
   "lastOpenFiles": [
+    "Umlaut/ü.md",
+    "Umlaut/ß.md",
+    "READ ME.md",
+    "Umlaut/ö.md",
+    "Umlaut/ä.md",
+    "Alphabets/G.md",
     "Alphabets/F.md",
     "Alphabets/E.md",
     "Alphabets/D.md",
     "Alphabets/C.md",
     "Alphabets/B.md",
     "Alphabets/A.md",
-    "READ ME.md",
     "Letter Combinations/eh.md",
     "Letter Combinations/uh.md",
     "Letter Combinations/au.md",
     "Letter Combinations",
     "Letter Combinations/ig.md",
-    "Umlaut/ü.md",
-    "Umlaut/ö.md",
     "Letter Combinations/ch.md",
     "Letter Combinations/eu.md",
     "Letter Combinations/ie.md",
     "Letter Combinations/ei.md",
-    "Umlaut/ä.md",
-    "Umlaut/ß.md",
     "Umlaut",
     "Alphabets/Z.md",
     "Alphabets/Y.md",
@@ -175,7 +176,6 @@
     "Alphabets/W.md",
     "Alphabets/V.md",
     "Alphabets/U.md",
-    "Alphabets/T.md",
     "Alphabets"
   ]
 }
