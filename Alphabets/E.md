@@ -1,3 +1,3 @@
 Pronunciation - eh
 
-Ei - Ei - Egg ~
+Ei - Egg ~

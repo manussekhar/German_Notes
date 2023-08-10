@@ -1,4 +1,5 @@
 Pronunciation - beh
 
-das Buch - Bukh - Book ~
-bücher - books
+Buch - Bukh - Book ~
+bücher - books -
+Bahnhof = Railway station +

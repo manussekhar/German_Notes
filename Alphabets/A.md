@@ -1,3 +1,4 @@
 Pronunciation - ah
 
-der Apfel - Apfel - Apple +
+Apfel = Apple +
+Autobahn - Autoban - Highway -

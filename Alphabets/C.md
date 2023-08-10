@@ -1,2 +1,2 @@
 Pronunciation - tseh
-der Chef - shef - Boss +
+Chef - shef - Boss +
