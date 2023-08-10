@@ -5,7 +5,7 @@ Alphabets
 
 Umlaut
 ------------
-[[ä]] [[ö]] [[ü]] [[ß]]
+[[ä]] [[ö or äu]] [[ü]] [[ß]]
 
 
 Letter Combinations
