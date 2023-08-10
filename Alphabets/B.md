@@ -1,5 +1,5 @@
 Pronunciation - beh
 
 Buch - Bukh - Book ~
-bücher - books -
+bücher - byusher - books -
 Bahnhof = Railway station +
