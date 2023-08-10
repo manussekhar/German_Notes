@@ -1,3 +1,3 @@
 Pronunciation - deh
 
-Deutschland - Doyeshland [No article for places]
+Deutschland - Doyechland [No article for places]

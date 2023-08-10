@@ -1,3 +1,3 @@
 Pronunciation - ah
 
-Apfel - Apfel - Apple +
+der Apfel - Apfel - Apple +
