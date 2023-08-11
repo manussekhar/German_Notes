@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Numbers.md",
+                "file": "Alphabets/S.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Numbers.md",
+                "file": "Alphabets/S.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Numbers.md",
+                "file": "Alphabets/S.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Numbers.md"
+                "file": "Alphabets/S.md"
               }
             }
           }
@@ -148,32 +148,32 @@
   },
   "active": "f593087861a7dced",
   "lastOpenFiles": [
-    "Umlaut/ö or äu.md",
-    "Numbers.md",
+    "Alphabets/R.md",
+    "Alphabets/G.md",
+    "Letter Combinations/ch.md",
     "Umlaut/ü.md",
-    "READ ME.md",
+    "Alphabets/F.md",
+    "Alphabets/A.md",
+    "Alphabets/K.md",
+    "Alphabets/T.md",
+    "Alphabets/L.md",
+    "Alphabets/M.md",
+    "Alphabets/E.md",
+    "Alphabets/S.md",
+    "Alphabets/N.md",
+    "Alphabets/B.md",
+    "Alphabets/W.md",
+    "Alphabets/U.md",
     "Alphabets/Z.md",
+    "Umlaut/ß.md",
+    "Alphabets/V.md",
+    "Alphabets/D.md",
+    "Numbers.md",
+    "Umlaut/ö or äu.md",
+    "READ ME.md",
     "Alphabets/Y.md",
     "Alphabets/X.md",
-    "Alphabets/W.md",
-    "Alphabets/V.md",
-    "Alphabets/U.md",
-    "Alphabets/T.md",
-    "Alphabets/S.md",
-    "Alphabets/B.md",
-    "Alphabets/R.md",
     "Alphabets/Q.md",
-    "Alphabets/A.md",
-    "Letter Combinations/ch.md",
-    "Alphabets/C.md",
-    "Letter Combinations/sp.md",
-    "Alphabets/P.md",
-    "Alphabets/O.md",
-    "Alphabets/N.md",
-    "Alphabets/M.md",
-    "Alphabets/L.md",
-    "Alphabets/K.md",
-    "Alphabets/J.md",
     "Letter Combinations",
     "Umlaut",
     "Alphabets"
