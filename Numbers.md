@@ -1,0 +1,13 @@
+0 = null
+1 = eins
+2 = zwei
+3 = drei
+4 = vier
+5 = fünf
+6 = Sechs
+7 = Sieben
+8 = Acht
+9 = Neun
+10 = Zehn
+11 = elf
+12 = zwölf (zwelf)
