@@ -2,5 +2,5 @@ Pronunciation - eh
 
 Ei - Egg ~
 Eltern = Parents -
-ecke = Ekkua = Corner -
+ecke = Ekk= Corner -
 essen = Food ~
