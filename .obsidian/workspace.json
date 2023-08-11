@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Alphabets/B.md",
-                "mode": "preview",
+                "file": "Alphabets/Z.md",
+                "mode": "source",
                 "source": false
               }
             }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Alphabets/B.md",
+                "file": "Alphabets/Z.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Alphabets/B.md",
+                "file": "Alphabets/Z.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Alphabets/B.md"
+                "file": "Alphabets/Z.md"
               }
             }
           }
@@ -148,21 +148,22 @@
   },
   "active": "f593087861a7dced",
   "lastOpenFiles": [
-    "Alphabets/A.md",
-    "Alphabets/B.md",
-    "Letter Combinations/ch.md",
-    "Alphabets/C.md",
-    "READ ME.md",
-    "Letter Combinations/sp.md",
-    "Alphabets/Z.md",
     "Alphabets/Y.md",
+    "Alphabets/X.md",
     "Alphabets/W.md",
     "Alphabets/V.md",
     "Alphabets/U.md",
     "Alphabets/T.md",
     "Alphabets/S.md",
+    "Alphabets/B.md",
     "Alphabets/R.md",
     "Alphabets/Q.md",
+    "Alphabets/A.md",
+    "Letter Combinations/ch.md",
+    "Alphabets/C.md",
+    "READ ME.md",
+    "Letter Combinations/sp.md",
+    "Alphabets/Z.md",
     "Alphabets/P.md",
     "Alphabets/O.md",
     "Alphabets/N.md",
@@ -173,7 +174,6 @@
     "Alphabets/I.md",
     "Alphabets/H.md",
     "Alphabets/G.md",
-    "Alphabets/F.md",
     "Letter Combinations",
     "Umlaut",
     "Alphabets"
