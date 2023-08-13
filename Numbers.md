@@ -48,6 +48,7 @@ zahlen von eins bis hundert
 42 = zweiundvierzig
 43 = dreiundvierzig
 44 = vierundvierzig
-45 = füfund
+45 = füfundvierzig
+
 
 
