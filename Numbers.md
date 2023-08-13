@@ -38,4 +38,4 @@ zahlen von eins bis hundert
 32 = zweiunddreißig
 33 = dreiunddreißig
 34 = vierunddreißig
-
+35 = 
