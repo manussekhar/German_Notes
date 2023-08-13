@@ -46,3 +46,4 @@ zahlen von eins bis hundert
 **40 = vierzig**
 einundvierzig
 
+
