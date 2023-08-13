@@ -37,4 +37,4 @@ zahlen von eins bis hundert
 31 = einunddreißig
 32 = zweiunddreißig
 33 = dreiunddreißig
-34 = vier
+34 = vierund
