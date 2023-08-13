@@ -16,7 +16,7 @@ Der Zahlen
 14=vierzehn
 15=fünfzehn
 16=sechzehn
-17=siebze
+17=siebzehn
 18=
 19=
 20=
