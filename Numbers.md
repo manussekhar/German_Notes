@@ -44,3 +44,4 @@ zahlen von eins bis hundert
 38 = achtunddreißig
 39 = neununddreißig
 **40 = vierzig**
+
