@@ -54,7 +54,7 @@ zahlen von eins bis hundert
 48 = achtundvierzig
 49 = neunundvierzig
 **50 = fünfzig**
-51 = f
+51 = fï
 
 
 
