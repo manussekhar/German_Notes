@@ -34,4 +34,5 @@ zahlen von eins bis hundert
 28 = achtundzwanzig
 29 = neunundzwanzig
 **30 = dreißig**
-31 = einunddreißis
+31 = einunddreißig
+
