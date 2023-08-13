@@ -57,6 +57,7 @@ zahlen von eins bis hundert
 51 = einundfünfzig
 52 = zweiundfünfzig
 53 = dreiundfüngzig
+54 
 
 
 
