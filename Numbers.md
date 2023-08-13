@@ -53,6 +53,6 @@ zahlen von eins bis hundert
 47 = siebenundvierzig
 48 = achtundvierzig
 49 = neunundvierzig
-50 = 
+50 = f
 
 
