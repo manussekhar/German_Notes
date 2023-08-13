@@ -33,4 +33,4 @@ zahlen von eins bis hundert
 27 = siebenundzwanzig
 28 = achtundzwanzig
 29 = neunundzwanzig
-30 = dreißi
+30 = dreißig
