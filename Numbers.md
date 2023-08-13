@@ -40,4 +40,5 @@ zahlen von eins bis hundert
 34 = vierunddreißig
 35 = fünfunddreißig
 36 = sechsunddreißig
-37 = siebenunddreiß
+37 = siebenunddreißig
+
