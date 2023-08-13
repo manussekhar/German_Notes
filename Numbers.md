@@ -60,7 +60,7 @@ zahlen von eins bis hundert
 54 = vierundfünfzig
 55 = fünfundfünfzig
 56 = sechsundfünfzig
-57 = siebenundf"
+57 = siebenundfünf
 
 
 
