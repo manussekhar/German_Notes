@@ -23,4 +23,4 @@ zahlen von eins bis hundert
 17=siebzehn
 18=achtzehn
 19=neunzehn
-20=zwanzig
+20=**zwanzig**
