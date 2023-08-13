@@ -73,7 +73,7 @@ zahlen von eins bis hundert
 67 = siebenundsechzig
 68 = achtundsechzig
 69 = neunundsechzig
-70 = siebzig
+**70 = siebzig**
 
 
 
