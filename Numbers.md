@@ -59,7 +59,7 @@ zahlen von eins bis hundert
 53 = dreiundfünfzig
 54 = vierundfünfzig
 55 = fünfundfünfzig
-56 = sechsundf·
+56 = sechsundfünf
 
 
 
