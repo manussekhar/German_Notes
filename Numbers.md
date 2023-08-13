@@ -27,3 +27,4 @@ zahlen von eins bis hundert
 21 = einundzwanzig
 22 = zweiundzwanzig
 23 = dreiundzwanzig
+24 -
