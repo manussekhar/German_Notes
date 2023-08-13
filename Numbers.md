@@ -61,7 +61,7 @@ zahlen von eins bis hundert
 55 = fünfundfünfzig
 56 = sechsundfünfzig
 57 = siebenundfünfzig
-
+58 = 
 
 
 
