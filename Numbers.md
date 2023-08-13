@@ -50,6 +50,6 @@ zahlen von eins bis hundert
 44 = vierundvierzig
 45 = füfundvierzig
 46 = sechsundvierzig
-
+47 = 
 
 
