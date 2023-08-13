@@ -51,6 +51,6 @@ zahlen von eins bis hundert
 45 = füfundvierzig
 46 = sechsundvierzig
 47 = siebenundvierzig
-48 = 
+48 = acht
 
 
