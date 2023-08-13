@@ -4,4 +4,5 @@ Ei - Egg ~
 Eltern = Parents -
 ecke = Ekk= Corner -
 essen = Food ~
-euch =
+euch = show
+
