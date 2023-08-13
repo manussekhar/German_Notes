@@ -41,4 +41,4 @@ zahlen von eins bis hundert
 35 = fünfunddreißig
 36 = sechsunddreißig
 37 = siebenunddreißig
-38 = acht
+38 = achtundd
