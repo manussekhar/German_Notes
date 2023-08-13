@@ -17,6 +17,6 @@ Der Zahlen
 15=fünfzehn
 16=sechzehn
 17=siebzehn
-18=acht
+18=achtzeh
 19=
 20=
