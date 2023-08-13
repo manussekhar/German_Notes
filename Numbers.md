@@ -49,6 +49,6 @@ zahlen von eins bis hundert
 43 = dreiundvierzig
 44 = vierundvierzig
 45 = füfundvierzig
-46 = sechsun
+46 = sechsund
 
 
