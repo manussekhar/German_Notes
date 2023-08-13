@@ -55,7 +55,7 @@ zahlen von eins bis hundert
 49 = neunundvierzig
 **50 = fünfzig**
 51 = einundfünfzig
-52 = zer
+52 = z
 
 
 
