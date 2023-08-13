@@ -39,4 +39,4 @@ zahlen von eins bis hundert
 33 = dreiunddreißig
 34 = vierunddreißig
 35 = fünfunddreißig
-
+36 = 
