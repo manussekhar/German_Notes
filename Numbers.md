@@ -12,7 +12,7 @@ Der Zahlen
 10 = Zehn
 11 = elf
 12 = zwölf (zwelf)
-13=dreinzeh
+13=dreinzehn
 14=
 15=
 16=
