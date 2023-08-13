@@ -1,5 +1,5 @@
 **Der Zahlen**
-Nu
+Number - 
 
 0 = null
 1 = eins
