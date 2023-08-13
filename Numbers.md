@@ -18,5 +18,5 @@ Der Zahlen
 16=sechzehn
 17=siebzehn
 18=achtzehn
-19=
+19=ne
 20=
