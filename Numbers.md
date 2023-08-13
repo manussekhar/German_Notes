@@ -46,6 +46,6 @@ zahlen von eins bis hundert
 **40 = vierzig**
 41  = einundvierzig
 42 = zweiundvierzig
-43 = dreiund
+43 = dreiundvierzig
 
 
