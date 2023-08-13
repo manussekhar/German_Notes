@@ -62,7 +62,7 @@ zahlen von eins bis hundert
 56 = sechsundfünfzig
 57 = siebenundfünfzig
 58 = achtundfünfzig
-
+59 = 
 
 
 
