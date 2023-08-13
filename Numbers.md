@@ -68,7 +68,7 @@ zahlen von eins bis hundert
 62 = zweiundsechzig
 63 = dreiundsechzig
 64 = vierundsechzig
-65 = f
+65 = fü
 
 
 
