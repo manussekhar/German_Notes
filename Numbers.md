@@ -45,6 +45,6 @@ zahlen von eins bis hundert
 39 = neununddreißig
 **40 = vierzig**
 41  = einundvierzig
-42 = 
+42 = zer
 
 
