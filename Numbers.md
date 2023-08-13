@@ -42,4 +42,4 @@ zahlen von eins bis hundert
 36 = sechsunddreißig
 37 = siebenunddreißig
 38 = achtunddreißig
-39 = neununddr
+39 = neununddrei
