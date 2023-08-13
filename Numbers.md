@@ -56,7 +56,7 @@ zahlen von eins bis hundert
 **50 = fünfzig**
 51 = einundfünfzig
 52 = zweiundfünfzig
-53 = 
+53 = drei
 
 
 
