@@ -58,7 +58,7 @@ zahlen von eins bis hundert
 52 = zweiundfünfzig
 53 = dreiundfünfzig
 54 = vierundfünfzig
-55 = fünfundg
+55 = fünfundf
 
 
 
