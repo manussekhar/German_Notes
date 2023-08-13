@@ -15,7 +15,7 @@ zahlen von eins bis hundert
 9 = Neun
 10 = Zehn
 11 = elf
-12 = zwölf (zwelf)
+12 = zwölf (zwlf)
 13=dreizehn
 14=vierzehn
 15=fünfzehn
