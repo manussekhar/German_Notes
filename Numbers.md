@@ -13,7 +13,7 @@ Der Zahlen
 11 = elf
 12 = zwölf (zwelf)
 13=dreizehn
-14=vier
+14=vierze
 15=
 16=
 17=
