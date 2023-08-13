@@ -63,7 +63,7 @@ zahlen von eins bis hundert
 57 = siebenundfünfzig
 58 = achtundfünfzig
 59 = neunundfünfzig
-60 = sechzig
+**60 = sechzig**
 
 
 
