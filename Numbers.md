@@ -13,3 +13,4 @@ Der Zahlen
 11 = elf
 12 = zwölf (zwelf)
 13=
+14=
