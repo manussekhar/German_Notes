@@ -13,8 +13,8 @@ zahlen von eins bis hundert
 7 = Sieben
 8 = Acht
 9 = Neun
-10 = Zehn
-11 = elf
+10 = **Zehn**
+11 = **elf**
 12 = zwölf (zwoelf)
 13=dreizehn
 14=vierzehn
