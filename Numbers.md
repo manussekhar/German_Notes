@@ -30,4 +30,4 @@ zahlen von eins bis hundert
 24 = vierundzwanzig
 25 = fünfundzwanzig
 26 = sechsundzwanzig
-27 = sieben
+27 = siebenund
