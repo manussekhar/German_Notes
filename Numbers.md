@@ -32,4 +32,4 @@ zahlen von eins bis hundert
 26 = sechsundzwanzig
 27 = siebenundzwanzig
 28 = achtundzwanzig
-29 = neunin
+29 = neunund
