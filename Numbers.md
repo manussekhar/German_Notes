@@ -52,6 +52,7 @@ zahlen von eins bis hundert
 46 = sechsundvierzig
 47 = siebenundvierzig
 48 = achtundvierzig
-49 = neunundvierz
+49 = neunundvierzig
+
 
 
