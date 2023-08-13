@@ -72,7 +72,8 @@ zahlen von eins bis hundert
 66 = sechsunssechzig
 67 = siebenundsechzig
 68 = achtundsechzig
-69 = neunundsechzi
+69 = neunundsechzig
+70
 
 
 
