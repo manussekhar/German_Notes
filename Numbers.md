@@ -36,3 +36,4 @@ zahlen von eins bis hundert
 **30 = dreißig**
 31 = einunddreißig
 32 = zweiunddreißig
+33
