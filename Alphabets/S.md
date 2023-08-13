@@ -5,4 +5,4 @@ Spaß = Spazz = Fun +
 stehen = Steyn = stand
 schon = Already
 schön = beautiful
-so weiter = s
+so weiter = so on
