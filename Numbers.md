@@ -28,4 +28,4 @@ zahlen von eins bis hundert
 22 = zweiundzwanzig
 23 = dreiundzwanzig
 24 = vierundzwanzig
-25 = fünf
+25 = fünfund
