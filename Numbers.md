@@ -14,3 +14,4 @@ Der Zahlen
 12 = zwölf (zwelf)
 13=
 14=
+15
