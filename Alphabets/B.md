@@ -6,4 +6,4 @@ Bahnhof = Railway station +
 Blume = Flower -
 Badezimmer = Bathroom ~
 bequemes = Bequeemes =comfortable
-Bereit = Read
+Bereit = Ready
