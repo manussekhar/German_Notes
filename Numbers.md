@@ -1,7 +1,7 @@
 **Der Zahlen**
 Number  = Nummer
 
-zahlen von 
+zahlen von eins
 
 0 = null
 1 = eins
