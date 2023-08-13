@@ -19,4 +19,4 @@ Der Zahlen
 17=siebzehn
 18=achtzehn
 19=neunzehn
-20=zwa
+20=zwan
