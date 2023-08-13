@@ -14,7 +14,7 @@ Der Zahlen
 12 = zwölf (zwelf)
 13=dreizehn
 14=vierzehn
-15=fü
+15=fünfz
 16=
 17=
 18=
