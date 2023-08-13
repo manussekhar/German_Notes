@@ -25,4 +25,4 @@ zahlen von eins bis hundert
 19=neunzehn
 20=**zwanzig**
 21 = einundzwanzig
-22 = zweiundzwa
+22 = zweiundzwanzi
