@@ -65,7 +65,7 @@ zahlen von eins bis hundert
 59 = neunundfünfzig
 **60 = sechzig**
 61 = einundsechzig
-62 = zweiunds
+62 = zweiundsechzig
 
 
 
