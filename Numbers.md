@@ -29,4 +29,4 @@ zahlen von eins bis hundert
 23 = dreiundzwanzig
 24 = vierundzwanzig
 25 = fünfundzwanzig
-26 = sec
+26 = sechsu
