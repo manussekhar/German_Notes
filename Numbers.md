@@ -28,3 +28,4 @@ zahlen von eins bis hundert
 22 = zweiundzwanzig
 23 = dreiundzwanzig
 24 = vierundzwanzig
+24
