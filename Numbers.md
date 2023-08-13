@@ -35,4 +35,4 @@ zahlen von eins bis hundert
 29 = neunundzwanzig
 **30 = dreißig**
 31 = einunddreißig
-32 = zwei
+32 = zweiund
