@@ -64,7 +64,7 @@ zahlen von eins bis hundert
 58 = achtundfünfzig
 59 = neunundfünfzig
 **60 = sechzig**
-6
+61 = 
 
 
 
