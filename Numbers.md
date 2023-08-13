@@ -69,7 +69,7 @@ zahlen von eins bis hundert
 63 = dreiundsechzig
 64 = vierundsechzig
 65 = fünfundsechzig
-
+66 = se
 
 
 
