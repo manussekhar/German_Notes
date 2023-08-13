@@ -1,6 +1,8 @@
 **Der Zahlen**
 Number  = Nummer
 
+
+
 0 = null
 1 = eins
 2 = zwei
