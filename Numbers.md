@@ -31,3 +31,4 @@ zahlen von eins bis hundert
 25 = fünfundzwanzig
 26 = sechsundzwanzig
 27 = siebenundzwanzig
+2
