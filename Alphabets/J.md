@@ -1,3 +1,3 @@
 Pronunciation - yot
 Jacke =  Yake = Jacket = -
-Jetzt = 
+Jetzt = Yet
