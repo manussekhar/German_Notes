@@ -70,7 +70,8 @@ zahlen von eins bis hundert
 64 = vierundsechzig
 65 = fünfundsechzig
 66 = sechsunssechzig
-67 = siebenundsechz
+67 = siebenundsechzig
+
 
 
 
