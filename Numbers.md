@@ -24,4 +24,4 @@ zahlen von eins bis hundert
 18=achtzehn
 19=neunzehn
 20=**zwanzig**
-21 = einsund
+21 = einsundzwanzip
