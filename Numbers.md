@@ -47,5 +47,6 @@ zahlen von eins bis hundert
 41  = einundvierzig
 42 = zweiundvierzig
 43 = dreiundvierzig
+44
 
 
