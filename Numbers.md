@@ -12,3 +12,4 @@ Der Zahlen
 10 = Zehn
 11 = elf
 12 = zwölf (zwelf)
+13=
