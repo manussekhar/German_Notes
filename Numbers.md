@@ -15,7 +15,7 @@ Der Zahlen
 13=dreizehn
 14=vierzehn
 15=fünfzehn
-16=sech
+16=sechsze
 17=
 18=
 19=
