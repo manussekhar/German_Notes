@@ -71,7 +71,8 @@ zahlen von eins bis hundert
 65 = fünfundsechzig
 66 = sechsunssechzig
 67 = siebenundsechzig
-68 = achtundsech
+68 = achtundsechzig
+
 
 
 
