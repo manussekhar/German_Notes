@@ -66,7 +66,8 @@ zahlen von eins bis hundert
 **60 = sechzig**
 61 = einundsechzig
 62 = zweiundsechzig
-63 = dreiundsechzi
+63 = dreiundsechzig
+
 
 
 
