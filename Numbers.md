@@ -43,4 +43,4 @@ zahlen von eins bis hundert
 37 = siebenunddreißig
 38 = achtunddreißig
 39 = neununddreißig
-40 = vierzig
+**40 = vierzig**
