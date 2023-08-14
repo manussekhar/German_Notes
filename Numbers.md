@@ -89,8 +89,8 @@ zahlen von eins bis hundert
 83 = dreiundachtzig
 84 = vierundachtzig
 85 = fünfundachtzig
-86 = sechsundachtig
-87 = siebenundachtig
+86 = sechsundachtzig
+87 = siebenundachtzig
 88 = achtundachtig
 89 = neunundachtig
 90 = neuntig
