@@ -74,6 +74,24 @@ zahlen von eins bis hundert
 68 = achtundsechzig
 69 = neunundsechzig
 **70 = siebzig**
-
+71 = einundsiebzig
+72 = zweiundsiebzig
+73 = dreiundsienzig
+74 = vierundsiebzig
+75 = fünfundsiebzig
+76 = sechsundsiebzig
+77 = siebenundsiebzig
+78 = achtundsiebzig
+79 = neunundsiebzig
+**80 = achtzig**
+81 = einundachtig
+82 = zweiundachtig
+83 = dreiundachtig
+84 = vierundachtig
+85 = fünfundachtig
+86 = sechsundachtig
+87 = siebenundachtig
+88 = achtundachtig
+89 = 
 
 
