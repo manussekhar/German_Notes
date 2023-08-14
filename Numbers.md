@@ -92,6 +92,6 @@ zahlen von eins bis hundert
 86 = sechsundachtig
 87 = siebenundachtig
 88 = achtundachtig
-89 = neun
+89 = neunundachti
 
 
