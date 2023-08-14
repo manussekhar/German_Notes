@@ -96,6 +96,7 @@ zahlen von eins bis hundert
 90 = neuntzig
 91 = einundneuntzig
 92 = zweiundneuntzig
-93 = dreiundneun
+93 = dreiundneuntzig
+
 
 
