@@ -94,6 +94,7 @@ zahlen von eins bis hundert
 88 = achtundachtzig
 89 = neunundachtzig
 90 = neuntzig
-91 = einundneuntzig'
+91 = einundneuntzig
+9
 
 
