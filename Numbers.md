@@ -98,6 +98,6 @@ zahlen von eins bis hundert
 92 = zweiundneuntzig
 93 = dreiundneuntzig
 94 =  vierundneuntzig
-
+f·
 
 
