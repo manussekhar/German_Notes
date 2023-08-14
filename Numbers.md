@@ -102,6 +102,6 @@ zahlen von eins bis hundert
 96 = sechsundneuntzig
 97 = siebenundneuntzig
 98 = achtundneuntzig
-
+99  = 
 
 
