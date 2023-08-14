@@ -100,6 +100,7 @@ zahlen von eins bis hundert
 94 =  vierundneuntzig
 95 = fünfundneuntzlg
 96 = sechsundneuntzig
-97 = siebenundneuntz
+97 = siebenundneuntzig
+98
 
 
