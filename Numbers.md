@@ -104,6 +104,6 @@ zahlen von eins bis hundert
 98 = achtundneuntzig
 99  = neunundneuntzig
 100 = einhundert
-1000 = eintausenf
+1000 = eintausend
 
 
