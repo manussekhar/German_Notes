@@ -93,6 +93,6 @@ zahlen von eins bis hundert
 87 = siebenundachtzig
 88 = achtundachtzig
 89 = neunundachtzig
-90 = neuntig
+90 = neunt
 
 
