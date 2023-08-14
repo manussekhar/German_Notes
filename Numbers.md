@@ -95,6 +95,6 @@ zahlen von eins bis hundert
 89 = neunundachtzig
 90 = neuntzig
 91 = einundneuntzig
-92 = 
+92 = zwei
 
 
