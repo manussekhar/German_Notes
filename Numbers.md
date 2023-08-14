@@ -101,6 +101,7 @@ zahlen von eins bis hundert
 95 = fünfundneuntzlg
 96 = sechsundneuntzig
 97 = siebenundneuntzig
-98 = achtundneunt
+98 = achtundneuntzig
+
 
 
