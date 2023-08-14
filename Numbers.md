@@ -103,6 +103,6 @@ zahlen von eins bis hundert
 97 = siebenundneuntzig
 98 = achtundneuntzig
 99  = neunundneuntzig
-100 = einhunder
+100 = einhundert
 
 
