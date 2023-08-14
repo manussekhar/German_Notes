@@ -84,8 +84,8 @@ zahlen von eins bis hundert
 78 = achtundsiebzig
 79 = neunundsiebzig
 **80 = achtzig**
-81 = einundachtig
-82 = zweiundachtig
+81 = einundachtzig
+82 = zweiundachtzig
 83 = dreiundachtig
 84 = vierundachtig
 85 = fünfundachtig
