@@ -99,6 +99,6 @@ zahlen von eins bis hundert
 93 = dreiundneuntzig
 94 =  vierundneuntzig
 95 = fünfundneuntzlg
-
+96 = 
 
 
