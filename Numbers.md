@@ -91,7 +91,7 @@ zahlen von eins bis hundert
 85 = fünfundachtzig
 86 = sechsundachtzig
 87 = siebenundachtzig
-88 = achtundachtizg
+88 = achtundachtzig
 89 = neunundachtzig
 90 = neuntig
 
