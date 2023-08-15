@@ -1,4 +1,4 @@
-Wo
+Wock
 
 die Montag
 die Dienstag
