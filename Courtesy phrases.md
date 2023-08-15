@@ -9,3 +9,4 @@ bis bald = see you soon
 bis später  = see you later
 wie gehts = how is it going
 wie geht's dir (informal) = how are you
+wie geht's es ihnen
