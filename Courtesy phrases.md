@@ -14,4 +14,4 @@ mir geht's gut = I am doing well
 sehr gut = very good
 nacht good = not good
 und dir = and you ?
-
+und ihnen
