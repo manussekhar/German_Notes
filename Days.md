@@ -4,6 +4,8 @@ heute = today
 Morgen = morning
 vormittag = before noon
 mittag = noon
+nachmittag = afternoon
+
 übermorgen = the day after tomorrow
 
 
