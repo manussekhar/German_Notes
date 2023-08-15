@@ -1,3 +1,3 @@
 gestern = yesterday
 vorgestern = the day before yesterday
-übermorgen = 
+übermorgen = the day after tomorrow
