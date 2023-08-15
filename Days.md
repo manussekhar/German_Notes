@@ -1,2 +1,3 @@
 gestern = yesterday
 
+vorgestern = 
