@@ -1,1 +1,1 @@
-bitte = please
+bitte = please / t
