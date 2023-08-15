@@ -1,5 +1,5 @@
 Wock = week
-wochentag
+wochentage = 
 
 die Montag
 die Dienstag
