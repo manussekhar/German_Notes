@@ -1,2 +1,2 @@
 die Montag
-die 
+die Dienstag
