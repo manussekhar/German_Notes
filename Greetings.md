@@ -5,5 +5,5 @@ Guten Morgen = Good morning
 Guten Abend = Good evening
 Guten Nacht = Good night
 Tschüss = Bye (Casual)
-auf wiedersehen = Bye (F)
+auf wiedersehen = Bye (Formal)
 
