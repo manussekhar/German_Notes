@@ -1,3 +1,4 @@
 begrüßung
 
-Guten Morgen = Good mornining
+
+Guten Morgen = Good morning
