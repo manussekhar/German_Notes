@@ -10,4 +10,5 @@ bis später  = see you later
 wie gehts = how is it going
 wie geht's dir (informal) = how are you
 wie geht's es ihnen (formal) = how do you do
-mir geht's gut = I am doing 
+mir geht's gut = I am doing well
+
