@@ -3,4 +3,4 @@ Wilkkomen = Welcome
 Danke = Thanks
 vielen danke = thank you very much
 entschuldigung = excuse me / sorry
-es tut mir leid = I am sorryt
+es tut mir leid = I am sorry
