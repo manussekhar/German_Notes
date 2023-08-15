@@ -1,1 +1,1 @@
-bitte = pleas
+bitte = please
