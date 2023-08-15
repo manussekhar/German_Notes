@@ -6,5 +6,5 @@ vormittag = before noon
 mittag = noon
 übermorgen = the day after tomorrow
 
-nachmittag = afternoon
+
 
