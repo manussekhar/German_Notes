@@ -2,4 +2,4 @@ Month = Monat
 Months = Monate
 
 
-Janua
+Januar
