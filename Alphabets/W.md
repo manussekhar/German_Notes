@@ -5,3 +5,4 @@ Wein = wain = wine +
 Wir = Wier = We
 Wohnzimmer = living room ~
 Wohn = living
+wie = how
