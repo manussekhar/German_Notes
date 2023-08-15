@@ -2,6 +2,7 @@ Woch = week
 wochentage = week days
 Sonn = sun
 Freit = Free
+Donner = 
 
 der Sonntag
 der Montag
