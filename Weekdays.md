@@ -1,6 +1,6 @@
 Woch = week
 wochentage = week days
-
+Freit = F
 der Sonntag
 der Montag
 der Dienstag
