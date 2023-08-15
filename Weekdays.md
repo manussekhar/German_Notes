@@ -1,6 +1,6 @@
 Woch = week
 wochentage = week days
-Sonn
+Sonn = sun
 Freit = Free
 
 der Sonntag
