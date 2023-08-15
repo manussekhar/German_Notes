@@ -16,4 +16,4 @@ nacht good = not good
 und dir = and you ?
 und ihnen = and you ? (formal)
 Auch gut Dake = also good thank you.
-Es gehts = 
+Es gehts = its ok
