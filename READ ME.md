@@ -17,4 +17,5 @@ Letter Combinations
 [[Greetings]]
 [[Days]]
 [[Courtesy phrases]]
+[[weekdays]]
 
