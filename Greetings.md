@@ -1,4 +1,4 @@
 begrüßung
 
-Guten Tag = gud day
+Guten Tag = good day
 Guten Morgen = Good morning
