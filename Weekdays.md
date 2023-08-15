@@ -1,4 +1,4 @@
-Wock = week
+Woch = week
 wochentage = week days
 
 der Montag
