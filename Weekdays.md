@@ -1,5 +1,5 @@
 Wock = week
-wochentage = 
+wochentage = week days
 
 die Montag
 die Dienstag
