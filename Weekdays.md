@@ -3,4 +3,4 @@ wochentage = week days
 
 der Montag
 der Dienstag
-die 
+der M 
