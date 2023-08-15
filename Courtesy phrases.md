@@ -7,4 +7,4 @@ es tut mir leid = I am sorry
 bis morgen = see you in the morning
 bis bald = see you soon
 bis später  = see you later
-wie gehts = how is it foi
+wie gehts = how is it going
