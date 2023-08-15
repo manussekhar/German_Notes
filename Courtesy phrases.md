@@ -15,4 +15,5 @@ sehr gut = very good
 nacht good = not good
 und dir = and you ?
 und ihnen = and you ? (formal)
-Auch gut Dake = also good thank y
+Auch gut Dake = also good thank you.
+
