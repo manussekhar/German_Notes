@@ -4,6 +4,6 @@ Guten Tag = good day
 Guten Morgen = Good morning
 Guten Abend = Good evening
 Guten Nacht = Good night
-Tschüss = Bye ()
+Tschüss = Bye (Casual)
 auf wiedersehen = Bye
 
