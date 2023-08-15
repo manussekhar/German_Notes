@@ -13,4 +13,5 @@ wie geht's es ihnen (formal) = how do you do
 mir geht's gut = I am doing well
 sehr gut = very good
 nacht good = not good
-und dir = and 
+und dir = and you ?
+
