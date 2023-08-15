@@ -7,3 +7,4 @@ Blume = Flower -
 Badezimmer = Bathroom ~
 bequemes = Bequeemes =comfortable
 Bereit = Ready
+begrüßung = to greet
