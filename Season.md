@@ -2,4 +2,4 @@ Jahreszeit
 Jahres = year
 zeit = time
 
-Spring 
+Spring = Frühling
