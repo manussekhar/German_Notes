@@ -15,3 +15,4 @@ sehr gut = very good
 nacht good = not good
 und dir = and you ?
 und ihnen = and you ? (formal)
+
