@@ -4,4 +4,4 @@ Danke = Thanks
 vielen danke = thank you very much
 entschuldigung = excuse me / sorry
 es tut mir leid = I am sorry
-bis morgen = 
+bis morgen = see you in the morning
