@@ -1,7 +1,7 @@
 Woch = week
 wochentage = week days
 
-
+der 
 der Montag
 der Dienstag
 der Mittwoch
