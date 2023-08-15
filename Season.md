@@ -1,2 +1,2 @@
 Jahreszeit
-Jahres
+Jahres = year
