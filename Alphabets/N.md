@@ -4,4 +4,4 @@ Nacht = Naght = Night -
 Nomen = Noun ~
 neben = Neeben =  Next to
 nach = after
-vormittag = before n
+vormittag = before noon
