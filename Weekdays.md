@@ -6,5 +6,6 @@ der Dienstag
 der Mittwoch
 der Donnerstag
 der Freitag
+der Samstag
 
 
