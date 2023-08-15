@@ -1,4 +1,4 @@
 bitte = please / thank you
 Wilkkomen = Welcome
 Danke = Thanks
-vielen danke = thank you ver
+vielen danke = thank you very much
