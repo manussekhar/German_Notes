@@ -1,6 +1,7 @@
 Woch = week
 wochentage = week days
 Freit = Free
+
 der Sonntag
 der Montag
 der Dienstag
