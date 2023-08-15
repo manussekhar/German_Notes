@@ -1,5 +1,6 @@
 tag = day
-Tage = 
+Tage = days
+
 vorgestern = the day before yesterday
 gestern = yesterday
 heute = today
