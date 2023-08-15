@@ -5,3 +5,4 @@ zeit = time
 Spring = Frühling
 summer = Sommer
 winter = winter
+
