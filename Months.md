@@ -1,2 +1,2 @@
 Month = Monat
-Months = 
+Months = Monate
