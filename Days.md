@@ -5,7 +5,7 @@ Morgen = morning
 vormittag = before noon
 mittag = noon
 nachmittag = afternoon
-morgen =
+morgen = tomorrow
 übermorgen = the day after tomorrow
 
 
