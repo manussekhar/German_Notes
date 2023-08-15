@@ -6,4 +6,4 @@ Spring = Frühling
 summer = Sommer
 winter = winter
 Autumn = Herbst
-Rain 
+Rain = Regen
