@@ -8,4 +8,4 @@ bis morgen = see you in the morning
 bis bald = see you soon
 bis später  = see you later
 wie gehts = how is it going
-wie geht's dir
+wie geht's dir ()
