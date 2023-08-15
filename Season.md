@@ -1,2 +1,3 @@
 Jahreszeit
 Jahres = year
+zeit =
