@@ -16,5 +16,5 @@ Letter Combinations
 [[Numbers]]
 [[Greetings]]
 [[Days]]
-[[courtesy phrases]]
+[[Courtesy phrases]]
 
