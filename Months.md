@@ -12,4 +12,5 @@ der Juli
 der August
 der September
 der Oktober
+der November
 
