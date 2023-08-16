@@ -9,4 +9,4 @@ Kochen = to cook
 surfen = to surf
 fahrrad fahren = ride a bike
 Anglen = fishing
-fußball spielen = pla
+fußball spielen = play footb
