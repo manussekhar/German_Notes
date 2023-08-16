@@ -6,4 +6,5 @@ Reisen = to travel
 singen = to sing
 tanzen = to dance
 Kochen = to cook
-surfen = t
+surfen = to surf
+
