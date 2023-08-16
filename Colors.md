@@ -10,4 +10,4 @@ lila = violet / purple
 grau = grey
 dunkel = dark
 hell = light
-
+Punkte = dots
