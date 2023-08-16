@@ -12,4 +12,4 @@ dunkel = dark
 hell = light
 Punkte = dots
 braun = brown
-
+silber = 
