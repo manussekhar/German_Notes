@@ -4,4 +4,5 @@ fernsehen = to watch TV
 Malen = to paint
 Reisen = to travel
 singen = to sing
-tansen = to dance
+tanzen = to dance
+
