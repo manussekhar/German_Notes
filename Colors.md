@@ -4,4 +4,5 @@ Blau = blue
 Gelb = yellow
 weiß = white
 shwarz = black
+orange = orange
 
