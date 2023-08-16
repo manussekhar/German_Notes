@@ -12,4 +12,4 @@ Anglen = fishing
 fußball spielen = play football
 backen = to bake
 segel  = to sail
-Schwimmen = to s
+Schwimmen = to swim
