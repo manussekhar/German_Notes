@@ -1,2 +1,2 @@
 Rot - Red
-GrünGreen
+Grün = Green
