@@ -1,2 +1,2 @@
 chatten = to chat
-müsikhören = listening to 
+müsikhören = listening to music
