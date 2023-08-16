@@ -19,4 +19,5 @@ spazeren gehen = go for a stroll
 klettern = to climb
 grillen = to grill
 lesen =  to read
-wandern = 
+wandern = hiking
+
