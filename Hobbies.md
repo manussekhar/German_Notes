@@ -15,4 +15,5 @@ segel  = to sail
 Schwimmen = to swim
 Joggen = to jog
 Ins kino gehen = go to the cinema
-spazeren gehen = go for a 
+spazeren gehen = go for a stroll
+
