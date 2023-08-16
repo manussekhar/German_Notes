@@ -1,3 +1,4 @@
 Rot - Red
 Grün = Green
-Blau = 
+Blau = blue
+
