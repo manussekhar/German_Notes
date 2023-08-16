@@ -6,4 +6,5 @@ weiß = white
 shwarz = black
 orange = orange
 rosa = pink
-lila = violet / pu
+lila = violet / purple
+
