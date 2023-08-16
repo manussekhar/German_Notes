@@ -11,4 +11,4 @@ fahrrad fahren = ride a bike
 Anglen = fishing
 fußball spielen = play football
 backen = to bake
-segel  = to s
+segel  = to sail
