@@ -10,4 +10,5 @@ surfen = to surf
 fahrrad fahren = ride a bike
 Anglen = fishing
 fußball spielen = play football
-backe
+backen = to bake
+s
