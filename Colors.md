@@ -9,4 +9,4 @@ rosa = pink
 lila = violet / purple
 grau = grey
 dunkel = dark
-
+hell = lig
