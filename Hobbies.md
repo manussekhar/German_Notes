@@ -7,4 +7,5 @@ singen = to sing
 tanzen = to dance
 Kochen = to cook
 surfen = to surf
-fahrrad fahren = ride 
+fahrrad fahren = ride a bike
+
