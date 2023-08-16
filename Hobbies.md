@@ -5,4 +5,4 @@ Malen = to paint
 Reisen = to travel
 singen = to sing
 tanzen = to dance
-
+Kochen = 
