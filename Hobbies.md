@@ -15,4 +15,4 @@ segel  = to sail
 Schwimmen = to swim
 Joggen = to jog
 Ins kino gehen = go to the cinema
-
+spaz
