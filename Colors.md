@@ -13,4 +13,5 @@ hell = light
 Punkte = dots
 braun = brown
 silber = silver
-Gold = go
+Gold = gold
+
