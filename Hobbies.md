@@ -1,3 +1,3 @@
 chatten = to chat
 müsikhören = listening to music
-fernsehen = to 
+fernsehen = to watch TV
