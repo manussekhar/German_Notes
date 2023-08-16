@@ -17,4 +17,5 @@ Joggen = to jog
 Ins kino gehen = go to the cinema
 spazeren gehen = go for a stroll
 klettern = to climb
-grillen = t
+grillen = to grill
+
