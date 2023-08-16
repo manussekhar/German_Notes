@@ -11,4 +11,5 @@ grau = grey
 dunkel = dark
 hell = light
 Punkte = dots
-braun = b
+braun = brown
+
