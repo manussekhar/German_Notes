@@ -20,4 +20,4 @@ Letter Combinations
 [[Weekdays]]
 [[Months]]
 [[Season]]
-[[C]]
+[[Colors]]
