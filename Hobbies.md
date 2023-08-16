@@ -14,4 +14,5 @@ backen = to bake
 segel  = to sail
 Schwimmen = to swim
 Joggen = to jog
-Ins kino gehen = go to the 
+Ins kino gehen = go to the cinema
+
