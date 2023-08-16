@@ -5,4 +5,5 @@ Gelb = yellow
 weiß = white
 shwarz = black
 orange = orange
-rosa
+rosa = pink
+
