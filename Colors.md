@@ -8,4 +8,4 @@ orange = orange
 rosa = pink
 lila = violet / purple
 grau = grey
-
+dunkel = dar
