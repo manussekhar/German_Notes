@@ -7,4 +7,4 @@ shwarz = black
 orange = orange
 rosa = pink
 lila = violet / purple
-
+grau = gre
