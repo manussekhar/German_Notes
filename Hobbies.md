@@ -13,3 +13,4 @@ fußball spielen = play football
 backen = to bake
 segel  = to sail
 Schwimmen = to swim
+Jog
