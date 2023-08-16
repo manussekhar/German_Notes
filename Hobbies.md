@@ -9,4 +9,5 @@ Kochen = to cook
 surfen = to surf
 fahrrad fahren = ride a bike
 Anglen = fishing
-fußball spielen = play footb
+fußball spielen = play football
+
