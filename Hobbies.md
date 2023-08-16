@@ -20,4 +20,4 @@ klettern = to climb
 grillen = to grill
 lesen =  to read
 wandern = hiking
-restern
+Reiten = 
