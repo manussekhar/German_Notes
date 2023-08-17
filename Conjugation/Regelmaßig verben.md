@@ -9,7 +9,8 @@ Sie/sie -> same as verb (you or they)
 Wohnen = to Live
 Wohn + en
 ich wohne
-du wohn
+du wohnst
+
 
 
 
