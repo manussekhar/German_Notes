@@ -38,5 +38,5 @@ Variation 2
 if first word ends in ß, z, s
 du / er /sie / es /ihr -> remove s from st
 
-hei·
+heißen
 
