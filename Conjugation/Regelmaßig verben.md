@@ -50,7 +50,7 @@ du antwortest
 er/ sie /es /ihr antwortet
 wir / sie /Sie antworten
 
-
+warte
 
 Variation 2
 ------------------
