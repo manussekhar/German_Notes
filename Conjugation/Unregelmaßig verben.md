@@ -12,7 +12,7 @@ second part follows [[Regelmaßig verben]] rules
 |Subject|Ich|du|er/sie/es|wir|ihr|sie/Sie |
 |-------|---|--|---------|---|----|--------|
 |essen |esse|isst|isst|essen|esst|essen|
-|laufen|laufe|läufst|läufst||||
+|laufen|laufe|läufst|läufst|laufen||laufen|
 
 
 essen = to eat
