@@ -30,5 +30,5 @@ ich arbeite
 du arbeitest
 er / sie/es/ihr arbeitet
 wir arbeiten
-Sie /si
+Sie /sie 
 
