@@ -47,7 +47,7 @@ wir / sie /Sie Finden
 antworten = to answer
 Ich antworte
 du antwortest
-er/ sie /es /ihr an
+er/ sie /es /ihr antwortet
 
 Variation 2
 ------------------
