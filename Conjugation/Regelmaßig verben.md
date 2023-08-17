@@ -9,6 +9,6 @@ Sie/sie -> same as verb (you or they)
 
 Variation 1
 ------------------
-if first word in vern ends in t or d
+if first word in veb ends in t or d
 
 du
