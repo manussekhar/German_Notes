@@ -5,4 +5,4 @@ for du / er / sie / es
 1. i ->ei
 2. a -> ä
 3. au -> äu
-4. e -> ie 
+4. e -> ie (specia)
