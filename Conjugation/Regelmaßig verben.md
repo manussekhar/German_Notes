@@ -56,7 +56,8 @@ du wartest
 er/ sie /es /ihr wartet
 wir / sie /Sie warten
 
-Spielen 
+Spielen  = to play
+
 Variation 2
 ------------------
 if first word ends in ß, z, s
