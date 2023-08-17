@@ -34,7 +34,6 @@ brauchen = to need
 arbeiten = to work
 Melden  = to report
 Finden = to find
-
 antworten = to answer
 warten = to wait
 Ich warte
