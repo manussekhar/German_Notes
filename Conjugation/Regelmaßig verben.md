@@ -31,6 +31,7 @@ du / er /sie / es /ihr -> remove s from st*
 |Finden|Finde|Findest|Findet|Finden|Findet|Finden|
 |antworten|antworte|antwortest|antwortet|antworten|antwortet|antworten|
 |warten|warte|wartest|wartet|warten|wartet|warten|
+||||||||
 
 
 Wohnen = to live
