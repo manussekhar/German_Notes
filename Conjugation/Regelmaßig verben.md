@@ -38,7 +38,7 @@ du Meldest
 er/ sie/ es/ ihr Meldet
 wir/Sie/sie Melden
 
-
+Finden = to
 
 
 Variation 2
