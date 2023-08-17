@@ -50,7 +50,7 @@ du antwortest
 er/ sie /es /ihr antwortet
 wir / sie /Sie antworten
 
-warten = to
+warten = to wait
 
 Variation 2
 ------------------
