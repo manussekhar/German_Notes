@@ -23,7 +23,7 @@ er/ sie / es / ihr -> x+ et*
 |brauchen|brauche|brauchst|braucht|brauchen|braucht|brauchen|
 |arbeiten|arbeite|arbeitest|arbeitet|arbeiten|arbeitet|arbeiten|
 |Melden|Melde|Meldest|Meldet|Melden|Meldet|Melden|
-|Finden|||||||
+|Finden|Finde||||||
 
 
 Wohnen = to live
