@@ -41,6 +41,6 @@ du / er /sie / es /ihr -> remove s from st
 heißen = to be called
 ich heiße
 du heißt
-er / sie / es/ heißt
+er / sie / es/ ihr heißt
 
 
