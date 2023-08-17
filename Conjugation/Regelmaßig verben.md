@@ -44,7 +44,7 @@ du Findest
 er / sie /est /ihr Findet
 wir / sie /Sie Finden
 
-antworte
+antworten = 
 
 
 Variation 2
