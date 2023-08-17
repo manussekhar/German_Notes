@@ -28,7 +28,7 @@ er/ sie /es /ihr Kauft
 wir / sie /Sie Kaufen
 
 brauchen = to need
-Ich Kaufe
+Ich brauche
 du Kaufst
 er/ sie /es /ihr Kauft
 wir / sie /Sie Kaufen
