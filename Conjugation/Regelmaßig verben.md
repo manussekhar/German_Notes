@@ -36,6 +36,7 @@ du / er /sie / es /ihr -> remove s from st*
 
 
 
+
 Wohnen = to live
 Spielen = to play
 Kaufen = to buy
