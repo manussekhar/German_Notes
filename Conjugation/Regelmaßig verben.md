@@ -41,7 +41,7 @@ wir/Sie/sie Melden
 Finden = to find
 ich Finde
 du Findest
-
+er / sie
 
 Variation 2
 ------------------
