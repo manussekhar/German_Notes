@@ -56,6 +56,6 @@ beginnen = to begin
 Sagen = to say
 Springen = to jump
 Fragen = to ask
-gehen = to 
+gehen = to go
 
 
