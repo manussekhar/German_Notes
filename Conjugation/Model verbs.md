@@ -1,1 +1,1 @@
-können
+können = can
