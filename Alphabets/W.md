@@ -7,3 +7,4 @@ Wohnzimmer = living room ~
 Wohn = living
 wie = how
 Wohnen = to Live
+warten = to wait
