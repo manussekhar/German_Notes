@@ -1,1 +1,1 @@
-change both in first and second part 
+change both in first and second part of the 
