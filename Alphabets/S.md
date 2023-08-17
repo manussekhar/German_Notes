@@ -7,3 +7,4 @@ stehen = Steyn = stand
 schon = Already
 schön = beautiful
 so weiter = so on
+Sagen = to say
