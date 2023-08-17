@@ -13,30 +13,6 @@ Variation 1
 *du -> x+ est
 er/ sie / es / ihr -> x+ et*
 
-
-
-|Subject|Ich|du|er/sie/es|wir|ihr|sie/Sie |
-|-------|---|--|---------|---|----|--------|
-|Wohnen |wohne|wohnst|wohnt|wohnen|wohnt|wohnen|
-|Spielen|Spiele|Spielst|Spielt|Spielen|Spielt|Spielen|
-|Kaufen|Kaufe|Kaufst|Kauft|Kaufen|Kauft|Kaufen|
-|brauchen|brauche|brauchst|braucht|brauchen|braucht|brauchen|
-|arbeiten|arbeite|arbeitest|arbeitet|arbeiten|arbeitet|arbeiten|
-|Melden|Melde|Meldest|Meldet|Melden|Meldet|Melden|
-|Finden|Finde|Findest|Findet|Finden|Findet|Finden|
-|antworten|antworte|antwortest|antwortet|antworten|antwortet|antworten|
-|warten|warte|wartest|wartet|warten|wartet|warten|
-
-
-Wohnen = to live
-Spielen = to play
-Kaufen = to buy
-brauchen = to need
-arbeiten = to work
-Melden  = to report
-Finden = to find
-antworten = to answer
-warten = to wait
 Variation 2
 ------------------
 *if first word ends in ß, z, s
