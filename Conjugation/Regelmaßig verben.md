@@ -36,11 +36,6 @@ Melden  = to report
 Finden = to find
 
 antworten = to answer
-Ich antworte
-du antwortest
-er/ sie /es /ihr antwortet
-wir / sie /Sie antworten
-
 warten = to wait
 Ich warte
 du wartest
