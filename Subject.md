@@ -6,4 +6,4 @@ es = it
 wir = we
 ihr = you all
 Sie = you (formal), you all
-sie 
+sie = they
