@@ -82,7 +82,8 @@ er / sie / es/ ihr heißt
 wir heißen
 Sie/sie heißen
 
-machen  = to 
+machen  = to make
+
 
 
 
