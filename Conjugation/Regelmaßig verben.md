@@ -8,7 +8,7 @@ wir/Sie/sie -> same as verb (you or they)*
 
 |Subject|Ich|du|er/sie/es|wir|ihr|sie/Sie |
 |-------|---|--|---------|---|----|--------|
-|Wohnen |wohne|wohnst|wohnt|wohen|wohnt||
+|Wohnen |wohne|wohnst|wohnt|wohen|wohnt|wohen|
 
 
 Wohnen = to Live
