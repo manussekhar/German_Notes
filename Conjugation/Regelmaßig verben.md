@@ -86,7 +86,8 @@ machen  = to make
 Kommen = to come
 beginnen = to begin
 Sagen = to say
-Springen = 
+Springen = to jump\
+
 
 
 
