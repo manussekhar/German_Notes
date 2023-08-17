@@ -31,7 +31,7 @@ brauchen = to need
 Ich brauche
 du brauchst
 er/ sie /es /ihr braucht
-wir / sie /Sie Kaufen
+wir / sie /Sie brauchen
 Variation 1
 ------------------
 if first word in verb ends in t or d
