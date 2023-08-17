@@ -39,7 +39,7 @@ er/ sie/ es/ ihr Meldet
 wir/Sie/sie Melden
 
 Finden = to find
-
+ich 
 
 Variation 2
 ------------------
