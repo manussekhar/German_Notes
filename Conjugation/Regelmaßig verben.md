@@ -39,5 +39,6 @@ if first word ends in ß, z, s
 du / er /sie / es /ihr -> remove s from st
 
 heißen
-ich - hei
+ich - heiße
+
 
