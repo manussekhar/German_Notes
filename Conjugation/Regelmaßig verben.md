@@ -85,7 +85,8 @@ Sie/sie heißen
 machen  = to make
 Kommen = to come
 beginnen = to begin
-Sagen = 
+Sagen = to say
+
 
 
 
