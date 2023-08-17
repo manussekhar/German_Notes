@@ -36,7 +36,7 @@ du / er /sie / es /ihr -> remove s from st*
 |Kommen|komme|kommst|kommt|Kommen|kommt|Kommen|
 |beginnen|beginne|beginnst|beginnt|beginnen|beginnt|beginnen|
 |Sagen|sage|sagst|sagt|sagen|sagt|sagen|
-|springen|||||||
+|springen|springe||||||
 
 
 
