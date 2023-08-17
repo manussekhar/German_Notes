@@ -10,3 +10,4 @@ Sie/sie -> same as verb (you or they)
 Variation 1
 ------------------
 if verb ends in t or d
+
