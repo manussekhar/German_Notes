@@ -51,7 +51,7 @@ er/ sie /es /ihr antwortet
 wir / sie /Sie antworten
 
 warten = to wait
-Ich antworte
+Ich warte
 du antwortest
 er/ sie /es /ihr antwortet
 wir / sie /Sie antworten
