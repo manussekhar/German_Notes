@@ -39,7 +39,7 @@ if first word ends in ß, z, s
 du / er /sie / es /ihr -> remove s from st
 
 heißen = to be called
-ich - heiße
-du - heißt
+ich heiße
+du  heißt
 er / sie / es/ heißt
 
