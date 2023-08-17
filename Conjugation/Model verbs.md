@@ -12,3 +12,4 @@ dürfen = may / shall
 |moügen|moüge|moügst|moügt|moügen|moügt|moügen|
 |mussen|muss|musst|muss|mussen|müsst|mussen|
 |wollen|will|willst|will|wollen|wollt|wollen|
+||||||||
