@@ -40,6 +40,7 @@ wir/Sie/sie Melden
 
 
 
+
 Variation 2
 ------------------
 if first word ends in ß, z, s
