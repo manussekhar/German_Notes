@@ -32,10 +32,10 @@ er/ sie /es /ihr braucht
 wir / sie /Sie brauchen
 Variation 1
 ------------------
-if first word in verb ends in t or d
+*if first word in verb ends in t or d
 
 du -> x+ est
-er/ sie / es / ihr -> x+ et
+er/ sie / es / ihr -> x+ et*
 
 arbeiten = to work
 
