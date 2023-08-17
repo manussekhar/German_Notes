@@ -14,7 +14,7 @@ second part follows [[Regelmaßig verben]] rules
 |essen |esse|isst|isst|essen|esst|essen|
 |laufen|laufe|läufst|läufst|laufen|lauft|laufen|
 |schlafen|schlafe|schläfst|schläft|schlafen|schlaft|schlafen|
-|sprechen|spreche|sprichst|sprichst|sprechen||sprechen|
+|sprechen|spreche|sprichst|sprichst|sprechen|sprecht|sprechen|
 
 
 essen = to eat
