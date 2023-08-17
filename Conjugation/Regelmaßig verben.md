@@ -25,7 +25,7 @@ Kaufen = to buy
 Ich Kaufe
 du Kaufst
 er/ sie /es /ihr Kauft
-wir / sie /Sie Spielen
+wir / sie /Sie Kaufen
 Variation 1
 ------------------
 if first word in verb ends in t or d
