@@ -15,5 +15,6 @@ second part follows [[Regelmaßig verben]] rules
 |laufen|laufe|läufst|läufst|laufen|lauft|laufen|
 
 
+
 essen = to eat
 laufen = to run
