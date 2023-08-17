@@ -16,7 +16,7 @@ Sie/sie -> same as verb *
 
 
 Wohnen = to live
-Spielen = to pla
+Spielen = to play
 Kaufen = to buy
 
 brauchen = to need
