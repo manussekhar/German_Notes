@@ -40,5 +40,5 @@ du / er /sie / es /ihr -> remove s from st
 
 heißen
 ich - heiße
-
+du
 
