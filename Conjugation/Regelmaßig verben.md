@@ -21,7 +21,7 @@ du Spielst
 er/ sie /es /ihr Spielt
 wir / sie /Sie Spielen
 
-Kaufen = to bu
+Kaufen = to buy
 
 Variation 1
 ------------------
