@@ -5,4 +5,4 @@ Farbe = Color -
 Freund = Friend +
 Freunde = Frinend (Female)
 Freit = Free
-
+Finden = to find
