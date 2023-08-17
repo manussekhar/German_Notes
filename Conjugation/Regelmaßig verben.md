@@ -24,7 +24,7 @@ wir / sie /Sie Spielen
 Kaufen = to buy
 Ich Kaufe
 du Kaufst
-er/ sie /es /ihr Kauf
+er/ sie /es /ihr Kauft
 wir / sie /Sie Spielen
 Variation 1
 ------------------
