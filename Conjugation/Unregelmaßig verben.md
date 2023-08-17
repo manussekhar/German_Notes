@@ -20,4 +20,4 @@ second part follows [[Regelmaßig verben]] rules
 essen = to eat
 laufen = to run
 schlafen = to sleep
-sprechen = t
+sprechen = to spaek
