@@ -42,5 +42,5 @@ heißen = to be called
 ich heiße
 du heißt
 er / sie / es/ ihr heißt
-wir heß
+wir heiße
 
