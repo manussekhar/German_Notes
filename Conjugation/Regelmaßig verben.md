@@ -43,5 +43,5 @@ ich heiße
 du heißt
 er / sie / es/ ihr heißt
 wir heißen
-Sie/sie hei
+Sie/sie heißen
 
