@@ -22,7 +22,7 @@ er/ sie /es /ihr Spielt
 wir / sie /Sie Spielen
 
 Kaufen = to buy
-Ich Spiele
+Ich Kaufe
 du Spielst
 er/ sie /es /ihr Spielt
 wir / sie /Sie Spielen
