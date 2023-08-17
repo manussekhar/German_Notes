@@ -29,7 +29,7 @@ wir / sie /Sie Kaufen
 
 brauchen = to need
 Ich brauche
-du Kaufst
+du brauchen
 er/ sie /es /ihr Kauft
 wir / sie /Sie Kaufen
 Variation 1
