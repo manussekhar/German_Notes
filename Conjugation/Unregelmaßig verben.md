@@ -6,3 +6,4 @@ for du / er / sie / es
 2. a -> ä
 3. au -> äu
 4. e -> ie (special cases only)
+
