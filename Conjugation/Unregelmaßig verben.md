@@ -23,5 +23,5 @@ laufen = to run
 schlafen = to sleep
 sprechen = to speak
 geben = to give
-fahre
+fahren = to 
 nehmen = to take
