@@ -22,4 +22,4 @@ laufen = to run
 schlafen = to sleep
 sprechen = to speak
 geben = to give
-nehmen = 
+nehmen = to take
