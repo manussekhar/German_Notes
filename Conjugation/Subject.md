@@ -5,5 +5,5 @@ sie = she
 es = it
 wir = we
 ihr = you all
-Sie = you (formal), you all
+Sie = you (formal)
 sie = they
