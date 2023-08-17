@@ -12,7 +12,7 @@ ich wohne
 du wohnst
 er / sie/ es wohnt
 wir wohnen
-ihr
+ihr wohnt
 
 
 
