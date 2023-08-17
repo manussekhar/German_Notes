@@ -20,8 +20,6 @@ du / er /sie / es /ihr -> remove s from st*
 
 
 
-
-
 |Subject|Ich|du|er/sie/es|wir|ihr|sie/Sie |
 |-------|---|--|---------|---|----|--------|
 |Wohnen |wohne|wohnst|wohnt|wohnen|wohnt|wohnen|
