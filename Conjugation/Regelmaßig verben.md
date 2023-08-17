@@ -17,10 +17,6 @@ Sie/sie -> same as verb *
 
 
 Kaufen = to buy
-Ich Kaufe
-du Kaufst
-er/ sie /es /ihr Kauft
-wir / sie /Sie Kaufen
 
 brauchen = to need
 Ich brauche
