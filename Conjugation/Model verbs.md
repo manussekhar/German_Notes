@@ -7,4 +7,4 @@ dürfen = may / shall
 
 |Subject|Ich|du|er/sie/es|wir|ihr|sie/Sie |
 |-------|---|--|---------|---|----|--------|
-|können |kann|wohnst|wohnt|wohnen|wohnt|wohnen|
+|können |kann|kannst|wohnt|wohnen|wohnt|wohnen|
