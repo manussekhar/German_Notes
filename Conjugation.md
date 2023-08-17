@@ -1,5 +1,5 @@
 [[Subject]]
 
-On a 
+On a verb there ar
 Regel maßig verben
 
