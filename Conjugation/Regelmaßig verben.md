@@ -15,7 +15,7 @@ Sie/sie -> same as verb *
 |Kaufen|Kaufe|Kaufst|Kauft|Kaufen|Kauft|Kaufen|
 
 
-
+Wohnen = to
 Kaufen = to buy
 
 brauchen = to need
