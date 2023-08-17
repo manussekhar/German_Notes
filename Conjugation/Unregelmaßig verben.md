@@ -26,4 +26,5 @@ sprechen = to speak
 geben = to give
 fahren = to drive
 nehmen = to take
-Sehen = to 
+Sehen = to see
+
