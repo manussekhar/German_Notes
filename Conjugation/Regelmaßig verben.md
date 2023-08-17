@@ -25,3 +25,5 @@ du -> x+ est
 er/ sie / es / ihr -> x+ et
 
 arbeiten = to work
+
+
