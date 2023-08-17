@@ -1,7 +1,7 @@
 verb's second part = x
 ich -> x+e
 du -> x+st
-er/sie/es  / ihr-> x+t (3rd person)
+er/sie/es (3rd person) / ihr-> x+t 
 wir -> same as verb
 ihr -> x+t
 Sie/sie -> same as verb (you or they)
