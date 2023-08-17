@@ -7,3 +7,4 @@ Mich = Me
 Mit = With
 Mitte = Middle -
 Melden  = to report
+machen  = to make
