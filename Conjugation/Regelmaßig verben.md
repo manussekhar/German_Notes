@@ -28,8 +28,6 @@ Wohnen = to live
 Spielen = to play
 Kaufen = to buy
 brauchen = to need
-
-
 arbeiten = to work
 
 ich arbeite
