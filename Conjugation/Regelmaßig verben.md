@@ -30,12 +30,6 @@ Kaufen = to buy
 brauchen = to need
 arbeiten = to work
 
-ich arbeite
-du arbeitest
-er / sie/es/ihr arbeitet
-wir arbeiten
-Sie /sie arbeiten
-
 Melden  = to report
 ich Melde
 du Meldest
