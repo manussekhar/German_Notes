@@ -15,7 +15,7 @@ second part follows [[Regelmaßig verben]] rules
 |laufen|laufe|läufst|läufst|laufen|lauft|laufen|
 |schlafen|schlafe|schläfst|schläft|schlafen|schlaft|schlafen|
 |sprechen|spreche|sprichst|sprichst|sprechen|sprecht|sprechen|
-|geben|gebe|gibst|||||
+|geben|gebe|gibst|gibt||||
 
 essen = to eat
 laufen = to run
