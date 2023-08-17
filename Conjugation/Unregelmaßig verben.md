@@ -16,7 +16,7 @@ second part follows [[Regelmaßig verben]] rules
 |schlafen|schlafe|schläfst|schläft|schlafen|schlaft|schlafen|
 |sprechen|spreche|sprichst|sprichst|sprechen|sprecht|sprechen|
 |geben|gebe|gibst|gibt|geben|gebt|geben|
-|fahren|fahre|fährst|fährt||||
+|fahren|fahre|fährst|fährt|fahren||fahren|
 |nehmen|nehme|nimmst|nimmt|nehmen|nehmt|nehmen|
 
 essen = to eat
