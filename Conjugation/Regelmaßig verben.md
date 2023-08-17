@@ -44,12 +44,6 @@ Finden = to find
 antworten = to answer
 warten = to wait
 heißen = to be called
-ich heiße
-du heißt
-er / sie / es/ ihr heißt
-wir heißen
-Sie/sie heißen
-
 machen  = to make
 Kommen = to come
 beginnen = to begin
