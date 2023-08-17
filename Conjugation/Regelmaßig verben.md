@@ -22,7 +22,7 @@ er/ sie / es / ihr -> x+ et*
 |Kaufen|Kaufe|Kaufst|Kauft|Kaufen|Kauft|Kaufen|
 |brauchen|brauche|brauchst|braucht|brauchen|braucht|brauchen|
 |arbeiten|arbeite|arbeitest|arbeitet|arbeiten|arbeitet|arbeiten|
-|Melden|Melde|Meldest|||||
+|Melden|Melde|Meldest|Meldet||||
 
 
 Wohnen = to live
