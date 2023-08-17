@@ -57,7 +57,7 @@ er/ sie /es /ihr wartet
 wir / sie /Sie warten
 
 Spielen  = to play
-Ich warte
+Ich Spiele
 du wartest
 er/ sie /es /ihr wartet
 wir / sie /Sie warten
