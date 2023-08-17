@@ -12,7 +12,7 @@ Sie/sie -> same as verb *
 |-------|---|--|---------|---|----|--------|
 |Wohnen |wohne|wohnst|wohnt|wohnen|wohnt|wohnen|
 |Spielen|Spiele|Spielst|Spielt|Spielen|Spielt|Spielen|
-|Kaufen|Kaufe|Kaufst|Kauft|Kaufen|Kauft||
+|Kaufen|Kaufe|Kaufst|Kauft|Kaufen|Kauft|Kaufen|
 
 
 
