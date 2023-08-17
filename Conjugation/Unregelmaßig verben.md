@@ -5,7 +5,7 @@ second part follows [[Regelmaßig verben]] rules
 
 *1. e -> i *
 *2. i ->ei*
-*2. a -> ä*
+*3. a -> ä*
 *3. au -> äu*
 *4. e -> ie (special cases only)*
 
