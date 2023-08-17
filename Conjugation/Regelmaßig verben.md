@@ -6,7 +6,7 @@ wir/Sie/sie -> same as verb (you or they)*
 
 
 
-
+|H|
 
 Wohnen = to Live
 Wohn + en
