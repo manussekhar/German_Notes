@@ -32,6 +32,9 @@ er / sie/es/ihr arbeitet
 wir arbeiten
 Sie /sie arbeiten
 
+Melden  = to report
+ich Melde
+du Meldst
 
 Variation 2
 ------------------
