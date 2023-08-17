@@ -19,7 +19,7 @@ Spielen  = to play
 Ich Spiele
 du Spielst
 er/ sie /es /ihr Spielt
-wir / sie /Sie warten
+wir / sie /Sie Spielen
 
 Variation 1
 ------------------
