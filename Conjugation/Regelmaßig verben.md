@@ -37,7 +37,7 @@ du / er /sie / es /ihr -> remove s from st*
 |beginnen|beginne|beginnst|beginnt|beginnen|beginnt|beginnen|
 |Sagen|sage|sagst|sagt|sagen|sagt|sagen|
 |springen|springe|springst|springt|springen|springt|springen|
-|Fragen|frage|fragst|fragt|fragen|||
+|Fragen|frage|fragst|fragt|fragen|fragt||
 
 
 Wohnen = to live
