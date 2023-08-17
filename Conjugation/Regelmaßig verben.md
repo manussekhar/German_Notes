@@ -16,6 +16,7 @@ ihr wohnt
 Sie/sie wohnen
 
 Melden  = to report
+ich
 
 
 Variation 1
