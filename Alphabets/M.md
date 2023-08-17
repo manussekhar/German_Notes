@@ -6,3 +6,4 @@ Macht = Power -
 Mich = Me
 Mit = With
 Mitte = Middle -
+Melden  = to report
