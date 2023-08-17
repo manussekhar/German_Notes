@@ -45,7 +45,7 @@ er / sie /est /ihr Findet
 wir / sie /Sie Finden
 
 antworten = to answer
-Ich 
+Ich antwort
 
 Variation 2
 ------------------
