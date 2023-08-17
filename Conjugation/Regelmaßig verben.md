@@ -56,7 +56,7 @@ du wartest
 er/ sie /es /ihr wartet
 wir / sie /Sie warten
 
-
+Spie
 Variation 2
 ------------------
 if first word ends in ß, z, s
