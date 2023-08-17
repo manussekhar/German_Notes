@@ -6,3 +6,4 @@ Kommen = Komm + en
 
 Regel maßig verben (regular verb) = no change in first part based on subject
 
+Regel maßig verben (regular verb) = no change in first part based on subject
