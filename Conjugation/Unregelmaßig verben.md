@@ -16,3 +16,4 @@ second part follows [[Regelmaßig verben]] rules
 
 
 essen = to eat
+laufen 
