@@ -6,6 +6,8 @@ wir -> same as verb
 ihr -> x+t
 Sie/sie -> same as verb (you or they)
 
+W
+
 
 Variation 1
 ------------------
