@@ -13,3 +13,6 @@ second part follows [[Regelmaßig verben]] rules
 |-------|---|--|---------|---|----|--------|
 |essen |esse|isst|isst|essen|esst|essen|
 ||||||||
+
+
+ess
