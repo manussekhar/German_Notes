@@ -1,2 +1,2 @@
 können = can
-sollen = sh
+sollen = should
