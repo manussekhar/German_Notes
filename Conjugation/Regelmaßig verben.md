@@ -27,7 +27,7 @@ du Kaufst
 er/ sie /es /ihr Kauft
 wir / sie /Sie Kaufen
 
-brauchen 
+brauchen = to need
 
 Variation 1
 ------------------
