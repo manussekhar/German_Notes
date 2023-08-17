@@ -4,7 +4,7 @@ du -> x+st
 er/sie/es (3rd person) / ihr-> x+t 
 wir -> same as verb
 ihr -> x+t
-Sie/sie -> same as verb (you or they)
+wir/Sie/sie -> same as verb (you or they)
 
 Wohnen = to Live
 Wohn + en
