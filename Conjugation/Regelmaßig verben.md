@@ -72,8 +72,8 @@ wir / sie /Sie warten
 
 Variation 2
 ------------------
-if first word ends in ß, z, s
-du / er /sie / es /ihr -> remove s from st
+*if first word ends in ß, z, s
+du / er /sie / es /ihr -> remove s from st*
 
 heißen = to be called
 ich heiße
