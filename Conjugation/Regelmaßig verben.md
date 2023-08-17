@@ -44,6 +44,7 @@ Finden = to find
 antworten = to answer
 warten = to wait
 heißen = to be called
+
 machen  = to make
 Kommen = to come
 beginnen = to begin
