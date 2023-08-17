@@ -14,11 +14,6 @@ Sie/sie -> same as verb *
 |Spielen|Spiele|Spielst|Spielt|Spielen|Spielt|Spielen|
 
 
-Spielen  = to play
-Ich Spiele
-du Spielst
-er/ sie /es /ihr Spielt
-wir / sie /Sie Spielen
 
 Kaufen = to buy
 Ich Kaufe
