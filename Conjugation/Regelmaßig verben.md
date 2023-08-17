@@ -83,7 +83,8 @@ wir heißen
 Sie/sie heißen
 
 machen  = to make
-Kommen = 
+Kommen = to come
+
 
 
 
