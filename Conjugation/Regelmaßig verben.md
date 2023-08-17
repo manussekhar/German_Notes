@@ -30,3 +30,4 @@ ich arbeite
 du arbeitest
 er / sie/es/ihr arbeitet
 wir wrbeiten
+
