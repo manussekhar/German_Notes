@@ -6,7 +6,7 @@ wir -> same as verb
 ihr -> x+t
 Sie/sie -> same as verb (you or they)
 
-Wohnen
+Wohnen = to Liv
 
 
 Variation 1
