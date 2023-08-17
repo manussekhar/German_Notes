@@ -15,4 +15,4 @@ second part follows [[Regelmaßig verben]] rules
 ||||||||
 
 
-ess
+essen = to ea
