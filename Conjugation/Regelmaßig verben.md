@@ -34,7 +34,7 @@ du / er /sie / es /ihr -> remove s from st*
 |heißen|heiße|heißt|heißt|heißen|heißt|heißen|
 |machen|mache|machst|macht|machen|macht|machen|
 |Kommen|komme|kommst|kommt|Kommen|kommt|Kommen|
-|beginnen|||||||
+|beginnen|beginne||||||
 
 
 
