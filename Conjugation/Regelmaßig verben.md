@@ -6,7 +6,7 @@ wir/Sie/sie -> same as verb (you or they)*
 
 
 
-|Ich|Header 2|Header 13| | | |
+|Ich|du|Header 13| | | |
 |------- |--------|---------|----- | ----|---- |
 
 
