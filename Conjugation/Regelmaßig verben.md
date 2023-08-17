@@ -35,5 +35,5 @@ Sie /sie arbeiten
 
 Variation 2
 ------------------
-if first word ends in 
+if first word ends in ß, 
 
