@@ -8,3 +8,4 @@ Badezimmer = Bathroom ~
 bequemes = Bequeemes =comfortable
 Bereit = Ready
 begrüßung = to greet
+brauchen = to need
