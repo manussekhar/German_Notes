@@ -52,7 +52,7 @@ wir / sie /Sie antworten
 
 warten = to wait
 Ich warte
-du antwortest
+du wartest
 er/ sie /es /ihr antwortet
 wir / sie /Sie antworten
 Variation 2
