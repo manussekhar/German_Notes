@@ -5,4 +5,4 @@ sie = she
 es = it
 wir = we
 ihr = you all
-Sie = you (fo)
+Sie = you (formal)
