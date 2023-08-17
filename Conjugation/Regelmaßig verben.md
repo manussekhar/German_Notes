@@ -17,7 +17,7 @@ Sie/sie wohnen
 
 Melden  = to report
 ich Melde
-du 
+du Mel
 
 
 Variation 1
