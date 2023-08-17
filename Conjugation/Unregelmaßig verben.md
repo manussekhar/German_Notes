@@ -11,4 +11,4 @@ second part follows [[Regelmaßig verben]] rules
 
 |Subject|Ich|du|er/sie/es|wir|ihr|sie/Sie |
 |-------|---|--|---------|---|----|--------|
-|Wohnen |wohne|wohnst|wohnt|wohnen|wohnt|wohnen|
+|# essen |wohne|wohnst|wohnt|wohnen|wohnt|wohnen|
