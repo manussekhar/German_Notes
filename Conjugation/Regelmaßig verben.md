@@ -28,4 +28,4 @@ arbeiten = to work
 
 ich arbeite
 du arbeitest
-er / sie/es/ihr 
+er / sie/es/ihr arbei
