@@ -43,8 +43,6 @@ Melden  = to report
 Finden = to find
 antworten = to answer
 warten = to wait
-
-
 heißen = to be called
 ich heiße
 du heißt
