@@ -15,9 +15,6 @@ wir wohnen
 ihr wohnt
 Sie/sie wohnen
 
-Melden  = to report
-ich Melde
-du Meldst
 
 
 Variation 1
