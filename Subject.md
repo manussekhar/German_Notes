@@ -3,4 +3,4 @@ du = you (casual)
 er = he
 sie = she
 es = it
-wi
+wir = we
