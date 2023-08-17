@@ -33,7 +33,7 @@ du / er /sie / es /ihr -> remove s from st*
 |warten|warte|wartest|wartet|warten|wartet|warten|
 |heißen|heiße|heißt|heißt|heißen|heißt|heißen|
 |machen|mache|machst|macht|machen|macht|machen|
-|Kommen|kommst|||Kommen||Kommen|
+|Kommen|kommst|kommt||Kommen||Kommen|
 
 
 
