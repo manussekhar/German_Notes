@@ -1,2 +1,2 @@
 Ich = I
-du = 
+du = you (ca)
