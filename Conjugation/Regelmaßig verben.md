@@ -18,7 +18,7 @@ Sie/sie wohnen
 Spielen  = to play
 Ich Spiele
 du Spielst
-er/ sie /es /ihr wartet
+er/ sie /es /ihr Spielt
 wir / sie /Sie warten
 
 Variation 1
