@@ -3,4 +3,4 @@ sollen = should
 moügen = like
 mussen = must
 wollen = want
-dürfen = may
+dürfen = may / shall
