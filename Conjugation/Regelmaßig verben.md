@@ -26,4 +26,4 @@ er/ sie / es / ihr -> x+ et
 
 arbeiten = to work
 
-ich 
+ich arbeit
