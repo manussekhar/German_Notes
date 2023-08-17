@@ -6,3 +6,4 @@ Wir = Wier = We
 Wohnzimmer = living room ~
 Wohn = living
 wie = how
+Wohnen = to Live
