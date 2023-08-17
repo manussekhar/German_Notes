@@ -46,7 +46,8 @@ wir / sie /Sie Finden
 
 antworten = to answer
 Ich antworte
-du antwo
+du antwortest
+
 
 Variation 2
 ------------------
