@@ -3,7 +3,7 @@ second part follows [[Regelmaßig verben]] rules
 
 *for du / er / sie / es* 
 
-*
+*1. e
 1. i ->ei*
 *2. a -> ä*
 *3. au -> äu*
