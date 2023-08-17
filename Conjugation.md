@@ -2,6 +2,6 @@
 
 On a verb there are 2 parts
 
-Kommen = Komm
+Kommen = Komm + en
 Regel maßig verben
 
