@@ -1,1 +1,1 @@
-verb's second pa 
+verb's second part =  
