@@ -15,7 +15,7 @@ wir wohnen
 ihr wohnt
 Sie/sie wohnen
 
-Melden 
+Melden  = to report
 
 Variation 1
 ------------------
