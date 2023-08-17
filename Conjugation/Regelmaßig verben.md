@@ -11,7 +11,8 @@ Wohn + en
 ich wohne
 du wohnst
 er / sie/ es wohnt
-wir
+wir wohnen
+ih
 
 
 
