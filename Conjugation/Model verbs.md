@@ -9,4 +9,4 @@ dürfen = may / shall
 |-------|---|--|---------|---|----|--------|
 |können |kann|kannst|kann|können|könnt|können|
 |sollen|soll|sollst|soll|sollen|sollt|sollen|
-||
+||||||||
