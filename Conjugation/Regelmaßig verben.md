@@ -35,7 +35,7 @@ Sie /sie arbeiten
 Melden  = to report
 ich Melde
 du Meldest
-er/ sie
+er/ sie/ es/
 
 
 Variation 2
