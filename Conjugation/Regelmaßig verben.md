@@ -10,7 +10,8 @@ Wohnen = to Live
 Wohn + en
 ich wohne
 du wohnst
-er / sie/ es wohn
+er / sie/ es wohnt
+
 
 
 
