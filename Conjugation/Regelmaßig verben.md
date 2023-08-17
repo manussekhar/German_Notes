@@ -53,7 +53,7 @@ wir / sie /Sie antworten
 warten = to wait
 Ich warte
 du wartest
-er/ sie /es /ihr antwortet
+er/ sie /es /ihr wartet
 wir / sie /Sie antworten
 Variation 2
 ------------------
