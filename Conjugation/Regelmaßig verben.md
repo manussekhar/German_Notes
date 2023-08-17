@@ -40,6 +40,7 @@ wir/Sie/sie Melden
 
 Finden = to find
 ich Finde
+du
 
 Variation 2
 ------------------
