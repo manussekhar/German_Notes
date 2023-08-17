@@ -1,2 +1,2 @@
 verb's second part = x
-ich -
+ich -> x+
