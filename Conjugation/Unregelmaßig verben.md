@@ -15,4 +15,4 @@ second part follows [[Regelmaßig verben]] rules
 ||||||||
 
 
-essen = to ea
+essen = to eat
