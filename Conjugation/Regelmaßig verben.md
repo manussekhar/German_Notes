@@ -48,7 +48,7 @@ antworten = to answer
 Ich antworte
 du antwortest
 er/ sie /es /ihr antwortet
-
+wir / sie /Sie
 
 Variation 2
 ------------------
