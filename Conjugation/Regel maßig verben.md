@@ -1,1 +1,1 @@
-verb's s 
+verb's second pa 
