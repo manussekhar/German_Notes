@@ -36,7 +36,8 @@ Melden  = to report
 ich Melde
 du Meldest
 er/ sie/ es/ ihr Meldet
-wir 
+wir Melden
+
 
 
 Variation 2
