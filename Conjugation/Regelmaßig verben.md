@@ -87,7 +87,7 @@ Kommen = to come
 beginnen = to begin
 Sagen = to say
 Springen = to jump
-
+Fragen = 
 
 
 
