@@ -25,7 +25,7 @@ er/ sie / es / ihr -> x+ et*
 |Melden|Melde|Meldest|Meldet|Melden|Meldet|Melden|
 |Finden|Finde|Findest|Findet|Finden|Findet|Finden|
 |antworten|antworte|antwortest|antwortet|antworten|antwortet|antworten|
-|warten|warte|wartest|||||
+|warten|warte|wartest|wartet||wartet||
 
 
 Wohnen = to live
