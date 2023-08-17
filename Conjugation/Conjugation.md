@@ -1,4 +1,4 @@
-Sentence structre is Subject + verb + object + optional 
+Sentence structre is Subject + verb + object + optional adjective
 [[Subject]]
 
 On a verb there are 2 parts
