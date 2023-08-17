@@ -22,7 +22,10 @@ er/ sie /es /ihr Spielt
 wir / sie /Sie Spielen
 
 Kaufen = to buy
-
+Ich Spiele
+du Spielst
+er/ sie /es /ihr Spielt
+wir / sie /Sie Spielen
 Variation 1
 ------------------
 if first word in verb ends in t or d
