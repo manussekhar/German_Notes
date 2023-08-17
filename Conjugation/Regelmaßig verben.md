@@ -34,8 +34,8 @@ Variation 1
 ------------------
 if first word in verb ends in t or d
 
-du -> x+ est
-er/ sie / es / ihr -> x+ et
+*du -> x+ est
+er/ sie / es / ihr -> x+ et*
 
 arbeiten = to work
 
