@@ -13,7 +13,7 @@ du wohnst
 er / sie/ es wohnt
 wir wohnen
 ihr wohnt
-Sie/sie
+Sie/sie wohnen
 
 
 
