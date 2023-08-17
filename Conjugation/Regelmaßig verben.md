@@ -42,6 +42,7 @@ Finden = to find
 ich Finde
 du Findest
 
+
 Variation 2
 ------------------
 if first word ends in ß, z, s
