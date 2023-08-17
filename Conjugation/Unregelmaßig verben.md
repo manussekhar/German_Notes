@@ -5,7 +5,7 @@ second part follows [[Regelmaßig verben]] rules
 *1. i ->ei*
 *2. a -> ä*
 *3. au -> äu*
-4. e -> ie (special cases only)
+*4. e -> ie (special cases only)*
 
 
 |Subject|Ich|du|er/sie/es|wir|ihr|sie/Sie |
