@@ -51,7 +51,10 @@ er/ sie /es /ihr antwortet
 wir / sie /Sie antworten
 
 warten = to wait
-
+Ich antworte
+du antwortest
+er/ sie /es /ihr antwortet
+wir / sie /Sie antworten
 Variation 2
 ------------------
 if first word ends in ß, z, s
