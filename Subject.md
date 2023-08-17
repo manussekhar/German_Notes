@@ -4,3 +4,4 @@ er = he
 sie = she
 es = it
 wir = we
+ihr = 
