@@ -11,7 +11,7 @@ Sie/sie -> same as verb *
 |Subject|Ich|du|er/sie/es|wir|ihr|sie/Sie |
 |-------|---|--|---------|---|----|--------|
 |Wohnen |wohne|wohnst|wohnt|wohnen|wohnt|wohnen|
-|Spielen|Spiele|Spielst|||||
+|Spielen|Spiele|Spielst|Spielt||||
 
 
 Spielen  = to play
