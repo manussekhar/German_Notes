@@ -84,7 +84,7 @@ Sie/sie heißen
 
 machen  = to make
 Kommen = to come
-
+beginnen
 
 
 
