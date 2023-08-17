@@ -1,3 +1,3 @@
 verb's second part = x
 ich -> x+e
-du x+st
+du -> x+st
