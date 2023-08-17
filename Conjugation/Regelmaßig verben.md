@@ -30,12 +30,7 @@ Spielen = to play
 Kaufen = to buy
 brauchen = to need
 arbeiten = to work
-
 Melden  = to report
-ich Melde
-du Meldest
-er/ sie/ es/ ihr Meldet
-wir/Sie/sie Melden
 
 Finden = to find
 ich Finde
