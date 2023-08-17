@@ -7,4 +7,4 @@ ihr -> x+t
 Sie/sie -> same as verb (you or they)
 
 
-Variation 
+Variation 1
