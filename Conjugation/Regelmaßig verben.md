@@ -13,15 +13,6 @@ Sie/sie -> same as verb *
 |Wohnen |wohne|wohnst|wohnt|wohnen|wohnt|wohnen|
 
 
-Wohnen = to Live
-Wohn + en
-ich wohne
-du wohnst
-er / sie/ es wohnt
-wir wohnen
-ihr wohnt
-Sie/sie wohnen
-
 Spielen  = to play
 Ich Spiele
 du Spielst
