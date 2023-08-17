@@ -21,4 +21,4 @@ essen = to eat
 laufen = to run
 schlafen = to sleep
 sprechen = to speak
-geben = 
+geben = to give
