@@ -32,7 +32,7 @@ du / er /sie / es /ihr -> remove s from st*
 |antworten|antworte|antwortest|antwortet|antworten|antwortet|antworten|
 |warten|warte|wartest|wartet|warten|wartet|warten|
 |heißen|heiße|heißt|heißt|heißen|heißt|heißen|
-|machen|mache|machst|macht|machen|macht||
+|machen|mache|machst|macht|machen|macht|machen|
 
 
 Wohnen = to live
