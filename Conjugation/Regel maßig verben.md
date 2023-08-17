@@ -4,4 +4,4 @@ du -> x+st
 er/sie/es -> x+t
 wir -> same as verb
 ihr -> x+t
-Sie/sie -> same as verg
+Sie/sie -> same as verb
