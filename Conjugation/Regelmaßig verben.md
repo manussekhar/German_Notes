@@ -5,6 +5,7 @@ er/sie/es (3rd person)-> x+t
 wir ->  same as verb 
 ihr -> x+t 
 Sie/sie -> same as verb *
+
 Variation 1
 ------------------
 *if first word in verb ends in t or d*
