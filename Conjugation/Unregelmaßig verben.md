@@ -18,4 +18,5 @@ second part follows [[Regelmaßig verben]] rules
 
 essen = to eat
 laufen = to run
-schlafen = to 
+schlafen = to sleep
+
