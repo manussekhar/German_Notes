@@ -7,7 +7,9 @@ ihr -> x+t
 Sie/sie -> same as verb (you or they)
 
 Wohnen = to Live
-Wohn +
+Wohn + en
+
+
 
 
 Variation 1
