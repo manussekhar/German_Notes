@@ -27,4 +27,4 @@ er/ sie / es / ihr -> x+ et
 arbeiten = to work
 
 ich arbeite
-du
+du arb
