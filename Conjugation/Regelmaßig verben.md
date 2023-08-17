@@ -14,6 +14,22 @@ Variation 1
 *du -> x+ est
 er/ sie / es / ihr -> x+ et*
 
+
+
+|Subject|Ich|du|er/sie/es|wir|ihr|sie/Sie |
+|-------|---|--|---------|---|----|--------|
+|Wohnen |wohne|wohnst|wohnt|wohnen|wohnt|wohnen|
+|Spielen|Spiele|Spielst|Spielt|Spielen|Spielt|Spielen|
+|Kaufen|Kaufe|Kaufst|Kauft|Kaufen|Kauft|Kaufen|
+|brauchen|brauche|brauchst|braucht|brauchen|braucht|brauchen|
+
+
+Wohnen = to live
+Spielen = to play
+Kaufen = to buy
+brauchen = to need
+
+
 arbeiten = to work
 
 ich arbeite
