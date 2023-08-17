@@ -15,7 +15,11 @@ wir wohnen
 ihr wohnt
 Sie/sie wohnen
 
-
+Spielen  = to play
+Ich Spiele
+du Spielest
+er/ sie /es /ihr wartet
+wir / sie /Sie warten
 
 Variation 1
 ------------------
