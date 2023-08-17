@@ -11,3 +11,4 @@ Variation 1
 ------------------
 if verb ends in t or d
 
+du
