@@ -42,7 +42,7 @@ Finden = to find
 ich Finde
 du Findest
 er / sie /est /ihr Findet
-
+wir / 
 
 
 Variation 2
