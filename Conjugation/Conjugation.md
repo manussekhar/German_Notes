@@ -1,4 +1,5 @@
 Sentence structure is Subject + verb + object + optional adjective
+
 [[Subject]]
 
 On a verb there are 2 parts
