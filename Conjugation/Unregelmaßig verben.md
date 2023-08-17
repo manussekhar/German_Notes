@@ -19,6 +19,7 @@ second part follows [[Regelmaßig verben]] rules
 |fahren|fahre|fährst|fährt|fahren|fahrt|fahren|
 |nehmen|nehme|nimmst|nimmt|nehmen|nehmt|nehmen|
 |Sehen|sehe|siehst|sieht|sehen|seht|sehen|
+||||||||
 
 essen = to eat
 laufen = to run
