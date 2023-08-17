@@ -49,6 +49,7 @@ Ich antworte
 du antwortest
 er/ sie /es /ihr antwortet
 
+
 Variation 2
 ------------------
 if first word ends in ß, z, s
