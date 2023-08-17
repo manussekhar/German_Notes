@@ -4,7 +4,7 @@ second part follows [[Regelmaßig verben]] rules
 *for du / er / sie / es* 
 
 *1. e -> i *
-1. i ->ei*
+*2*. i ->ei*
 *2. a -> ä*
 *3. au -> äu*
 *4. e -> ie (special cases only)*
