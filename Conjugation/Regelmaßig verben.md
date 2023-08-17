@@ -21,6 +21,8 @@ du Spielst
 er/ sie /es /ihr Spielt
 wir / sie /Sie Spielen
 
+Kaufe
+
 Variation 1
 ------------------
 if first word in verb ends in t or d
