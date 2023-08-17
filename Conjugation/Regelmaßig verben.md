@@ -7,19 +7,6 @@ ihr -> x+t
 Sie/sie -> same as verb *
 
 
-
-|Subject|Ich|du|er/sie/es|wir|ihr|sie/Sie |
-|-------|---|--|---------|---|----|--------|
-|Wohnen |wohne|wohnst|wohnt|wohnen|wohnt|wohnen|
-|Spielen|Spiele|Spielst|Spielt|Spielen|Spielt|Spielen|
-|Kaufen|Kaufe|Kaufst|Kauft|Kaufen|Kauft|Kaufen|
-|brauchen|brauche|brauchst|braucht|brauchen|braucht|brauchen|
-
-
-Wohnen = to live
-Spielen = to play
-Kaufen = to buy
-brauchen = to need
 Variation 1
 ------------------
 *if first word in verb ends in t or d*
