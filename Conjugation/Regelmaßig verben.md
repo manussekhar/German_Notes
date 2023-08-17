@@ -33,10 +33,6 @@ brauchen = to need
 arbeiten = to work
 Melden  = to report
 Finden = to find
-ich Finde
-du Findest
-er / sie /est /ihr Findet
-wir / sie /Sie Finden
 
 antworten = to answer
 Ich antworte
