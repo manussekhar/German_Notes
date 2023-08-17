@@ -27,6 +27,7 @@ du Kaufst
 er/ sie /es /ihr Kauft
 wir / sie /Sie Kaufen
 
+brau
 
 Variation 1
 ------------------
