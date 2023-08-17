@@ -42,7 +42,8 @@ Finden = to find
 ich Finde
 du Findest
 er / sie /est /ihr Findet
-wir / sie /Sie
+wir / sie /Sie Finden
+
 
 
 Variation 2
