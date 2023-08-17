@@ -5,3 +5,6 @@ er/sie/es -> x+t (3rd person)
 wir -> same as verb
 ihr -> x+t
 Sie/sie -> same as verb (you or they)
+
+
+V
