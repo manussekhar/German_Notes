@@ -11,3 +11,4 @@ begrüßung = to greet
 brauchen = to need
 beginnen = to begin
 Bulgarisch = bulgarian
+Butterbrot
