@@ -1,5 +1,5 @@
 Pronunciation - deh
-Deu
+Deutsch
 Deutschland - Doyechland [No article for places]
 Dann = Then
 Das = That
