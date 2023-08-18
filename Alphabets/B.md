@@ -13,4 +13,4 @@ beginnen = to begin
 Bulgarisch = bulgarian
 Butterbrot = sandwitch ~
 bis = to
-bis bald
+bis bald = see you soon
