@@ -2,4 +2,5 @@ Pronunciation - teh
 Tisch = Tish = Table +
 Teppich - Carpet +
 Türkisch = Turkish
-Tschüs = by
+Tschüs = bye
+
