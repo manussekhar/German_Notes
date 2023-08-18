@@ -9,5 +9,6 @@ Anzug = suit
 Apfelstrudel = apple cake
 andere = other
 auch= also
-Auf Wiedersehen = 
+Auf Wiedersehen = good bye
+
 
