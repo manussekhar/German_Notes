@@ -8,3 +8,4 @@ antworten = to answer
 Anzug = suit
 Apfelstrudel = apple cake
 andere = other
+auch
