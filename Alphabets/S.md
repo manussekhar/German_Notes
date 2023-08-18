@@ -13,7 +13,8 @@ sammlen = to collect
 sein = to be
 Sie = you (formal)
 sprechen = to speak
-sie
+sie = she
+
 
 
 
