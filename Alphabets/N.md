@@ -5,4 +5,4 @@ Nomen = Noun ~
 neben = Neeben =  Next to
 nach = after
 Name = Name -
-notieren 
+notieren = to note
