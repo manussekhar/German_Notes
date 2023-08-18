@@ -5,3 +5,4 @@ Hallo = Hello
 heißen = to be called
 hören = to hear
 Herr = gentleman +
+Hausnummer
