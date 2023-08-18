@@ -7,4 +7,4 @@ Freunde = Frinend (Female)
 Freit = Free
 Finden = to find
 Fragen = to ask
-Frühstück = breakfas
+Frühstück = breakfast ~
