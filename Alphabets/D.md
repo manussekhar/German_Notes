@@ -5,4 +5,4 @@ Dann = Then
 Das = That
 Dien = serve
 Donner = thunder
-danke = 
+danke = thank you
