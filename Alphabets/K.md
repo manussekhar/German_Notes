@@ -4,4 +4,4 @@ Kuli = Pen +
 Kommen = to come
 Kaufen = to buy
 Kommen = to come
-Kranke = sick per
+Kranke = sick person
