@@ -7,4 +7,4 @@ gibt es = there is
 Gemütlich - Gemeutlikh - comfortable
 Gute Nacht = Good night
 Guten Abend = Good evening
-Guten 
+Guten Morge
