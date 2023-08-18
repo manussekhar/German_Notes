@@ -3,4 +3,5 @@ Tisch = Tish = Table +
 Teppich - Carpet +
 Türkisch = Turkish
 Tschüs = bye
-Telefone = Telephone
+Telefon = Telephone ~
+
