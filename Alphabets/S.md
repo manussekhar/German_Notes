@@ -12,6 +12,6 @@ Springen = to jump
 sammlen = to collect
 sein = to be
 Sie = you (formal)
-sprechen
+sprechen = to spe
 
 
