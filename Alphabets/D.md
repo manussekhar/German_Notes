@@ -6,3 +6,4 @@ Das = That
 Dien = serve
 Donner = thunder
 danke = thank you
+dir = 
