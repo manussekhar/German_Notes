@@ -8,4 +8,5 @@ Donner = thunder
 danke = thank you
 dir = you
 du = you
-das = this
+das = this/that
+
