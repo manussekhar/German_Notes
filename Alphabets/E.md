@@ -6,5 +6,7 @@ ecke = Ekk= Corner -
 essen = Food ~
 euch = show
 Englisch = English
+er= he
+
 
 
