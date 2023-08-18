@@ -6,4 +6,4 @@ Arzt - Doctor +
 Aus = From
 antworten = to answer
 Anzug = suit
-Apfelstrudel = apple ca
+Apfelstrudel = apple cake
