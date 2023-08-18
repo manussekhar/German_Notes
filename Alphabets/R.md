@@ -3,4 +3,4 @@ Rose  = Rosay = -
 Rucksack = backpack +
 Russich = Russian
 Reiseführer = Travel guide +
-raten, r·
+raten, rät 
