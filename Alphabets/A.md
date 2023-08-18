@@ -6,3 +6,4 @@ Arzt - Doctor +
 Aus = From
 antworten = to answer
 Anzug = suit
+pfelstrudel
