@@ -5,4 +5,4 @@ Grüß - good
 Gehen - go  
 gibt es = there is
 Gemütlich - Gemeutlikh - comfortable
-Gute N
+Gute Nacht 
