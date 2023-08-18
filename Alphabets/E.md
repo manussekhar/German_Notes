@@ -7,6 +7,7 @@ essen = Food ~
 euch = show
 Englisch = English
 er= he
-ergänzen = to 
+ergänzen = to complete
+
 
 
