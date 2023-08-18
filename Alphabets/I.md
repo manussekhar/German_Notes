@@ -1,4 +1,4 @@
 Pronunciation - ee
 Insel =Inse= Island  -
 Ihr - Ia^r - you
-international = internatsional = interna
+international = internatsional = international 
