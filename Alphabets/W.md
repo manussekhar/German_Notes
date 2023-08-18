@@ -11,4 +11,4 @@ warten = to wait
 Walzer = waltz (dance in Titanic)
 Würstchen = sausage
 Würstel = sausage
-
+wer = 
