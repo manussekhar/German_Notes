@@ -9,4 +9,4 @@ danke = thank you
 dir = you
 du = you
 das = this/that
-dialogue
+dialogue = dialog
