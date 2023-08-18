@@ -9,5 +9,6 @@ Finden = to find
 Fragen = to ask
 Frühstück = breakfast ~
 Französisch =French ~
-Frau = woman 
+Frau = woman -
+
 
