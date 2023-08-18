@@ -5,5 +5,6 @@ Eltern = Parents -
 ecke = Ekk= Corner -
 essen = Food ~
 euch = show
-Englisch = Engli
+Englisch = English
+
 
