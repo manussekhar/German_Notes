@@ -12,4 +12,5 @@ Walzer = waltz (dance in Titanic)
 Würstchen = sausage
 Würstel = sausage
 wer = who
-wie = ho
+wie = how
+
