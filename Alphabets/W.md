@@ -15,6 +15,7 @@ wer = who
 wie = how
 wie gehts = how is it going
 welche = which
-welches
+welches = which
+
 
 
