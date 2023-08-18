@@ -8,4 +8,5 @@ Freit = Free
 Finden = to find
 Fragen = to ask
 Frühstück = breakfast ~
-Französisch =French
+Französisch =French ~
+
