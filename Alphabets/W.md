@@ -17,6 +17,6 @@ wie gehts = how is it going
 welche = which
 welches = which
 wo = where
-woher = 
+woher = from where
 
 
