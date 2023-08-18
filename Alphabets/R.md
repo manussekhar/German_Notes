@@ -1,3 +1,3 @@
 Pronunciation - err
 Rose  = Rosay = -
-Rucksack = 
+Rucksack = backpack 
