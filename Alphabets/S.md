@@ -11,3 +11,4 @@ Sagen = to say
 Springen = to jump
 sammlen = to collect
 sein = to be
+
