@@ -10,4 +10,4 @@ Bereit = Ready
 begrüßung = to greet
 brauchen = to need
 beginnen = to begin
-Bulgarisch = bu
+Bulgarisch = bulgaria
