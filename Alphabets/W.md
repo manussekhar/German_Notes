@@ -8,3 +8,4 @@ Wohn = living
 wie = how
 Wohnen = to Live
 warten = to wait
+Walzer =
