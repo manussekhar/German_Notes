@@ -13,4 +13,4 @@ Würstchen = sausage
 Würstel = sausage
 wer = who
 wie = how
-wie gehts = how is o
+wie gehts = how is ot going
