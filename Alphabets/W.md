@@ -14,4 +14,5 @@ Würstel = sausage
 wer = who
 wie = how
 wie gehts = how is it going
+welche
 
