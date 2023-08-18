@@ -2,4 +2,4 @@ Pronunciation - haa
 Haus - House ~
 heißen = to be called
 Hallo = Hello
-heißen =
+heißen = to be cal
