@@ -7,4 +7,4 @@ Dien = serve
 Donner = thunder
 danke = thank you
 dir = you
-du = 
+du = you
