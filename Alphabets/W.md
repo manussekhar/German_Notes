@@ -18,7 +18,8 @@ welche = which
 welches = which
 wo = where
 woher = from where
-Webseite = website 
+Webseite = website -
+
 
 
 
