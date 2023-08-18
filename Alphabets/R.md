@@ -1,4 +1,4 @@
 Pronunciation - err
 Rose  = Rosay = -
 Rucksack = backpack +
-Russich = 
+Russich = RUss
