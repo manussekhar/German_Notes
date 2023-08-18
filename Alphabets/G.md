@@ -6,4 +6,4 @@ Gehen - go
 gibt es = there is
 Gemütlich - Gemeutlikh - comfortable
 Gute Nacht = Good night
-Guten Abend = 
+Guten Abend = G
