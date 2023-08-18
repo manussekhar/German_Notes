@@ -9,3 +9,4 @@ wie = how
 Wohnen = to Live
 warten = to wait
 Walzer = waltz (dance in Titanic)
+Würstchen
