@@ -10,5 +10,6 @@ Kommen = Komm + en
 
 [[Unregelmaßig verben]] (irregular verb) = change in first part based on subject
 
-[[Model verbs]]
-
+[[Modal verbs]]
+[[Helping verb]]
+[[Sein Verb]]
