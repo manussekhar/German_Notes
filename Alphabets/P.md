@@ -1,4 +1,4 @@
 Pronunciation - peh
 Preis = Preis = Price +
 Person -
-Postleitzahl = 
+Postleitzahl = zip code 
