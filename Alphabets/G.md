@@ -8,3 +8,4 @@ Gemütlich - Gemeutlikh - comfortable
 Gute Nacht = Good night
 Guten Abend = Good evening
 Guten Morgen = Good morning
+Guten Tag
