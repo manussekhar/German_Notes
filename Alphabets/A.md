@@ -9,5 +9,5 @@ Anzug = suit
 Apfelstrudel = apple cake
 andere = other
 auch= also
-A
+Auf 
 
