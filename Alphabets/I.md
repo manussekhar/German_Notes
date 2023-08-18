@@ -4,5 +4,6 @@ Ihr - Ia^r - you
 international = internatsional = international 
 Italienisch = Italian
 ich = I
-ihnen
+ihnen = you
+
 
