@@ -4,4 +4,4 @@ Rucksack = backpack +
 Russich = Russian
 Reiseführer = Travel guide +
 raten, rät = rat
-
+Radschlah = cartwheel

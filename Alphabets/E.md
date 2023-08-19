@@ -8,6 +8,6 @@ euch = show
 Englisch = English
 er= he
 ergänzen = to complete
-
+entspannen = relax
 
 
