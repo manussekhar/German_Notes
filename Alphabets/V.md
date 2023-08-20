@@ -3,3 +3,4 @@ Voll ; foll  Full
 Viel ; Fiel  much
 Von  ; From
 vor ; before
+vorstellen ; to introduce

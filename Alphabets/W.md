@@ -19,7 +19,3 @@ welches ; which
 wo ; where
 woher ; from where
 Webseite ; website -
-
-
-
-

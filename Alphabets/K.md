@@ -7,4 +7,3 @@ Kommen ; to come
 Kranke ; sick person
 kennen ; to know
 Kollegin ; Colleague -
-

@@ -1,0 +1,204 @@
+A;Ah
+Apfel ; Apple +
+Autobahn ; Autoban - Highway -
+Arzt ; Doctor +
+Aus ; From
+antworten ; to answer
+Anzug ; suit
+Apfelstrudel ; apple cake
+andere ; other
+auch; also
+Auf Wiedersehen ; good bye
+Affe ; Ape
+B;beh
+Buch ; Bukh - Book 
+bücher ; byusher - books -
+Bahnhof ; Railway station +
+Blume ; Flower -
+Badezimmer ; Bathroom ~
+bequemes ; Bequeemes ;comfortable
+Bereit ; Ready
+begrüßung ; to greet
+brauchen ; to need
+beginnen ; to begin
+Bulgarisch ; bulgarian
+Butterbrot ; sandwitch ~
+bis ; to
+bis bald ; see you soon
+Beispiele ; examples
+C;tseh
+Chef ; shef - Boss +
+D;deh
+Deutsch ; German
+Deutschland - Doyechland [No article for places]
+Dann ; Then
+Das ; That
+Dien ; serve
+Donner ; thunder
+danke ; thank you
+dir ; you
+du ; you
+das ; this/that
+dialog ; dialogue +E; eh
+Ei ; Egg ~
+Eltern ; Parents -
+ecke ; Ekk; Corner -
+essen ; Food ~
+euch ; show
+Englisch ; English
+er; he
+ergänzen ; to complete
+entspannen ; relaxF;eff
+Film ; Film ~
+Farbe ; Color -
+Freund ; Friend +
+Freunde ; Frinend (Female)
+Freit ; Free
+Finden ; to find
+Fragen ; to ask
+Frühstück ; breakfast ~
+Französisch ;French ~
+Frau ; woman -
+Fahrad ; bycycleG;Gay
+Geld ; Geld - Money ~
+Groß ; Big
+Grüß ; good
+Gehen ; go  
+gibt es ; there is
+Gemütlich ; Gemeutlikh - comfortable
+Gute Nacht ; Good night
+Guten Abend ; Good evening
+Guten Morgen ; Good morning
+Guten Tag ; good day
+H;haa
+Haus ; House ~
+heißen ; to be called
+Hallo ; Hello
+heißen ; to be called
+hören ; to hear
+Herr ; gentleman +
+Hausnummer ; house number -
+hübsch ; pretty
+helfen ; help
+I;ee
+Insel ;Inse; Island  -
+Ihr ; Ia^r - you
+international ; internatsional = international 
+Italienisch ; Italian
+ich ; I
+ihnen ; you
+in ; in
+interview ; interview ~J;yot
+Jacke ;  Yake = Jacket = -
+Jetzt ; Yetst = Now
+Jahres ; year
+Japanisch ; Japanese
+K ; kah
+Katze ; Katze - Female Cat {-}
+Kuli ; Pen +
+Kommen ; to come
+Kaufen ; to buy
+Kommen ; to come
+Kranke ; sick person
+kennen ; to know
+Kollegin ; Colleague -L ; el
+Löwe ; Loove ; Lion {+}
+liegt ; Leegt ; to lay
+M ; em
+Maus ; Maus = Mouse {-}
+Mehr  ; Mea^r = More ~
+Manchmal ; Sometimes
+Macht ; Power -
+Mich ; Me
+Mit ; With
+Mitte ; Middle -
+Melden  ; to report
+machen  ; to make
+mein/meine ; my
+N ; en
+Nacht ; Naght = Night -
+Nomen ; Noun ~
+neben ; Neeben =  Next to
+nach ; after
+Name ; Name -
+notieren ; to note
+Neffe ; Nephew
+O ; oh
+Orange ; Oaranje - Orange color -
+Orange ; Oranje - Orange fruit ~
+Obst ; Obst - Fruit ~
+P ; peh
+Preis ; Preis = Price +
+Person ; Person
+Postleitzahl ; zip code -
+Partner / Parnerin ; partner
+Präsident ; President
+K ; kuh
+Qualle ; Quale = Jellyfish {-}R ; err
+Rose  ; Rosay  -
+Rucksack ; backpack +
+Russich ; Russian
+Reiseführer ; Travel guide +
+raten, rät ; rat
+Radschlah ; cartwheel
+S ; ess
+Sehr ; Sea^r - Very
+Sonne ; Sun -
+Sonn ; sun
+Spaß ; Spazz = Fun +
+stehen ; Steyn = stand
+schon ; Already
+schön ; beautiful
+so weiter ; so on
+Sagen ; to say
+Springen ; to jump
+sammlen ; to collect
+sein ; to be
+Sie ; you (formal)
+sprechen ; to speak
+sie ; sheT ; teh
+Tisch ; Tish Table +
+Teppich ; Carpet +
+Türkisch ; Turkish
+Tschüs ; bye
+Telefon ; Telephone ~U ; uh
+Uhr ; Ua^r - Clock -
+Uns ; Our
+Ungarisch ; Hungarian
+und ; and
+V ; fow
+Voll ; foll  Full
+Viel ; Fiel  much
+Von  ; From
+vor ; before
+vorstellen ; to introduceW ; weh
+Wort ; Words ~
+Wörter ; Vyorter  Words
+Wein ; wain  wine +
+Wir ; Wier  We
+Wohnzimmer ; living room ~
+Wohn ; living
+wie ; how
+Wohnen ; to Live
+warten ; to wait
+Walzer ; waltz (dance in Titanic)
+Würstchen ; sausage
+Würstel ; sausage
+wer ; who
+wie ; how
+wie gehts ; how is it going
+welche ; which
+welches ; which
+wo ; where
+woher ; from where
+Webseite ; website -X ; iks
+Xylophon ; iksilophone  ~
+Y ; yupsilon
+Yoga ;Yoga ~
+Z ; tset
+Zeit ; sait  time -
+Zu ; to
+Zimmer ; room ~
+zuordnen ; to assign
+zeigen ; show
+zusammen ; together

@@ -1,5 +1,4 @@
-Pronunciation - en
-
+N ; en
 Nacht ; Naght = Night -
 Nomen ; Noun ~
 neben ; Neeben =  Next to

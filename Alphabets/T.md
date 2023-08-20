@@ -4,4 +4,3 @@ Teppich ; Carpet +
 Türkisch ; Turkish
 Tschüs ; bye
 Telefon ; Telephone ~
-

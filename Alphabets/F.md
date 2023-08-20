@@ -10,4 +10,3 @@ Frühstück ; breakfast ~
 Französisch ;French ~
 Frau ; woman -
 Fahrad ; bycycle
-
