@@ -6,3 +6,4 @@ neben = Neeben =  Next to
 nach = after
 Name = Name -
 notieren = to note
+Neffe = Nephew

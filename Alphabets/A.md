@@ -10,5 +10,5 @@ Apfelstrudel = apple cake
 andere = other
 auch= also
 Auf Wiedersehen = good bye
-
+Affe = Ape
 
