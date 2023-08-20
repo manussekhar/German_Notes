@@ -9,9 +9,8 @@ Apfelstrudel ; apple cake
 andere ; other
 auch; also
 Auf Wiedersehen ; good bye
-Affe ; Ape
-B;beh
-Buch ; Bukh - Book 
+Affe ; ApeB;beh
+Buch ; Bukh - Book ~
 bücher ; byusher - books -
 Bahnhof ; Railway station +
 Blume ; Flower -
