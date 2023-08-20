@@ -1,5 +1,5 @@
-Pronunciation - fow
-Voll = foll = Full
-Viel = Fiel = much
-Von  = From
-vor = before
+V ; fow
+Voll ; foll  Full
+Viel ; Fiel  much
+Von  ; From
+vor ; before

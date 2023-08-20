@@ -1,3 +1,3 @@
-Pronunciation - el
-Löwe = Loove = Lion {+}
-liegt = Leegt = to lay
+L ; el
+Löwe ; Loove ; Lion {+}
+liegt ; Leegt ; to lay

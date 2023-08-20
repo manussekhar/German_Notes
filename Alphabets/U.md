@@ -1,5 +1,5 @@
-Pronunciation - uh
-Uhr - Ua^r - Clock -
-Uns = Our
-Ungarisch = Hungarian
-und = and
+U ; uh
+Uhr ; Ua^r - Clock -
+Uns ; Our
+Ungarisch ; Hungarian
+und ; and

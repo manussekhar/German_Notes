@@ -1,2 +1,2 @@
-Pronunciation - kuh
-Qualle = Quale = Jellyfish {-}
+K ; kuh
+Qualle ; Quale = Jellyfish {-}

@@ -1,7 +1,7 @@
-Pronunciation - tset
-Zeit = sait = time -
-Zu = to
-Zimmer = room ~
-zuordnen = to assign
-zeigen = show
-zusammen = together
+Z ; tset
+Zeit ; sait  time -
+Zu ; to
+Zimmer ; room ~
+zuordnen ; to assign
+zeigen ; show
+zusammen ; together

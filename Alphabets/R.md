@@ -1,7 +1,7 @@
-Pronunciation - err
-Rose  = Rosay = -
-Rucksack = backpack +
-Russich = Russian
-Reiseführer = Travel guide +
-raten, rät = rat
-Radschlah = cartwheel
+R ; err
+Rose  ; Rosay  -
+Rucksack ; backpack +
+Russich ; Russian
+Reiseführer ; Travel guide +
+raten, rät ; rat
+Radschlah ; cartwheel

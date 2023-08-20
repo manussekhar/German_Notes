@@ -1,10 +1,10 @@
-Pronunciation - haa
-Haus - House ~
-heißen = to be called
-Hallo = Hello
-heißen = to be called
-hören = to hear
-Herr = gentleman +
-Hausnummer = house number -
-hübsch = pretty
-helfen = help
+H;haa
+Haus ; House ~
+heißen ; to be called
+Hallo ; Hello
+heißen ; to be called
+hören ; to hear
+Herr ; gentleman +
+Hausnummer ; house number -
+hübsch ; pretty
+helfen ; help

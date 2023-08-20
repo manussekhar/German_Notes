@@ -1,2 +1,2 @@
-Pronunciation - yupsilon
-Yoga ~
+Y ; yupsilon
+Yoga ;Yoga ~

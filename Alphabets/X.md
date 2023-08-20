@@ -1,2 +1,2 @@
-Pronunciation - iks
-Xylophon = iksilophone = ~
+X ; iks
+Xylophon ; iksilophone  ~
