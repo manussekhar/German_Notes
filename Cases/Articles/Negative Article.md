@@ -1,1 +1,2 @@
 Negationsartikel
+![[negative.png]]
