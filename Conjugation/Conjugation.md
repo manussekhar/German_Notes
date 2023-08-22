@@ -13,6 +13,6 @@ Kommen = Komm + en
 [[Modal verbs]]
 [[Helping verb]]
 [[Sein Verb]]
-[[Cases]]
+
 
 [[Negative Articles]]
