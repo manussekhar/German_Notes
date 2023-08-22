@@ -25,4 +25,4 @@ Letter Combinations
 
 [[Cases]]
 [[Conjugation]] - Deals with verbs
-[[Declensions]] - Deals with pron
+[[Declensions]] - Deals with pronouns
