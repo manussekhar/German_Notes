@@ -15,4 +15,3 @@ Kommen = Komm + en
 [[Sein Verb]]
 
 
-[[Negative Articles]]
