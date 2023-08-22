@@ -1,4 +1,4 @@
-Ho
+How verb 
 
 Sentence structure is Subject + verb + object + optional adjective
 
