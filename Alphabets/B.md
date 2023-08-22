@@ -14,4 +14,4 @@ Butterbrot ; sandwitch ~
 bis ; to
 bis bald ; see you soon
 Beispiele ; examples
-Buchtabe; letter of the
+Buchtabe; letter of the alp
