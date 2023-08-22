@@ -1,2 +1,2 @@
 Definite
-Indefin
+Indefinite
