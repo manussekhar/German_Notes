@@ -3,7 +3,7 @@ The woman sings her little baby a song.
 
 Nominative nouns- subject noun (usually comes as first noun in English, **who**)  - Die Faru
 Dative noun - indirect noun (**For whome**) - ihrem kleinen baby
-Accusative nouns - object noun (**whome**)- ein Lied
+Accusative nouns - object noun (**whome/ what**)- ein Lied
 
 He sees a student 
 N - He sees
