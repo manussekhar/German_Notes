@@ -1,4 +1,4 @@
-How verb changes based on sub
+How verb changes based on subjec
 
 Sentence structure is Subject + verb + object + optional adjective
 
