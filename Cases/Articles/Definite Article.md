@@ -3,4 +3,4 @@ bestimmte artikel - the
 ![[definite.png]]
 
 
-Der Tisch ist groß - TY
+Der Tisch ist groß - The ta
