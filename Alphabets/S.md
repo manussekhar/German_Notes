@@ -14,3 +14,4 @@ sein ; to be
 Sie ; you (formal)
 sprechen ; to speak
 sie ; she
+ss
