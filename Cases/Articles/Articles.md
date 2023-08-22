@@ -1,3 +1,3 @@
-Definite
+[[Definite]]
 Indefinite
 Negative
