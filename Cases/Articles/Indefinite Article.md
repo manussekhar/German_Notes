@@ -1,1 +1,1 @@
-unbestimmter artikel
+unbestimmter artikel - a o
