@@ -1,4 +1,3 @@
-Declensions
 - helps to move around nouns in a sentence so that it makes sense.
 - comes in front of nouns to identify which nominative, dative and accusative nouns.
 - changes pronouns(they, them) and adjectives(big, tall) based on certain rules.
