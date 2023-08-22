@@ -2,4 +2,4 @@ Negationsartikel
 ![[negative.png]]
 
 
-**Kein** Apfel ist rot. 
+**Kein** Apfel ist rot. (N)
