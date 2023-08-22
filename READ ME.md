@@ -23,6 +23,6 @@ Letter Combinations
 [[Colors]]
 [[Hobbies]]
 
-[[Cas]]
+[[Cases]]
 [[Conjugation]] - Deals with verbs
 [[Declensions]] - Deals with nouns ?
