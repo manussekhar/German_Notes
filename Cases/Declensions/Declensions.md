@@ -1,6 +1,6 @@
 - helps to move around nouns in a sentence so that it makes sense.
 - comes in front of nouns to identify which nominative, dative and accusative nouns.
-- changes pronouns(they, them, he ,) and adjectives(big, tall) based on certain rules.
+- changes pronouns(they, them, he ,she) and adjectives(big, tall) based on certain rules.
 ![[Declensions.png]]
 ![[Declensions-2.png]]
 
