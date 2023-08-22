@@ -4,4 +4,4 @@ bestimmte artikel - the
 
 
 Der Tisch ist groß - The table is big (N)
-Ich sehe
+Ich sehe 
