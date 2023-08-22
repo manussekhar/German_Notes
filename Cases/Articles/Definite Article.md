@@ -3,4 +3,4 @@ bestimmte artikel - the
 ![[definite.png]]
 
 
-Der Tisch ist 
+Der Tisch ist gro·
