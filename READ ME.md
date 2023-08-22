@@ -25,4 +25,4 @@ Letter Combinations
 
 [[Cases]]
 [[Conjugation]] - Deals with verbs
-[[Declensions]] - Deals with pronouns(he,she,they) and adjectives (old , s)
+[[Declensions]] - Deals with pronouns(he,she,they) and adjectives (old , smart,big)
