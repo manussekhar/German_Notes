@@ -1,4 +1,4 @@
-How verb changes bas
+How verb changes based on sub
 
 Sentence structure is Subject + verb + object + optional adjective
 
