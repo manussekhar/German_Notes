@@ -1,2 +1,2 @@
-bestimmte artikel - a, an, the (der / ein)
+bestimmte artikel - the
 ![[definite-article-2.jpeg]]
