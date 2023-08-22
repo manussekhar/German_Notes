@@ -8,4 +8,4 @@ Englisch ; English
 er; he
 ergänzen ; to complete
 entspannen ; relax
-erst
+erst;first
