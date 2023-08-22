@@ -58,7 +58,8 @@ Fragen ; to ask
 Frühstück ; breakfast ~
 Französisch ;French ~
 Frau ; woman -
-Fahrad ; bycycleG;Gay
+Fahrad ; bycycle
+G;Gay
 Geld ; Geld - Money ~
 Groß ; Big
 Grüß ; good
