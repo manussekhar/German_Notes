@@ -8,4 +8,4 @@ Herr ; gentleman +
 Hausnummer ; house number -
 hübsch ; pretty
 helfen ; help
-handynumber;
+handynumber;cellphone
