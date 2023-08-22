@@ -1,1 +1,1 @@
-Negationsarticle
+Negationsartikel
