@@ -3,6 +3,6 @@ bestimmte artikel - the
 ![[definite.png]]
 
 
-Der Tisch ist groß - The table is big (N)
-Ich sehe den Tich - I see the table(A)
+**Der** Tisch ist groß - The table is big (N)
+Ich sehe **den** Tich - I see the table(A)
 Ich gebe dem
