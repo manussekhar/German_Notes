@@ -6,4 +6,4 @@ zuordnen ; to assign
 zeigen ; show
 zusammen ; together
 Zeitung; News paper
-Z
+Zahl;
