@@ -3,4 +3,4 @@ unbestimmter artikel - a or an
 
 **Ein** Hund läuft. (N)
 Ich sehe **einen** Hund. (A)
-Ich gebe **einem** Hund einen Knochen (A)
+Ich gebe **einem** Hund einen Knochen (D)
