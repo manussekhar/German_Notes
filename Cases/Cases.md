@@ -29,9 +29,8 @@ Meine Schwster wohnt mit einenm Affen suzammen
 
 
 
-
-
-
+[[Conjugation]] - Deals with verbs
+[[Declensions]] - Deals with pronouns(he,she,they) and adjectives (old , smart,big)
 
 
 
