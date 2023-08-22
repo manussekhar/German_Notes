@@ -3,3 +3,4 @@ unbestimmter artikel - a or an
 
 Ein Hund läuft.
 Ich sehe einen Hund.
+Ich gebe einem Hund einen Knochen
