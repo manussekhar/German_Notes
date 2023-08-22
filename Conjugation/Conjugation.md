@@ -1,4 +1,4 @@
-How verb 
+How verb changes bas
 
 Sentence structure is Subject + verb + object + optional adjective
 
