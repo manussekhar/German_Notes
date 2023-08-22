@@ -10,3 +10,4 @@ andere ; other
 auch; also
 Auf Wiedersehen ; good bye
 Affe ; Ape
+Alph
