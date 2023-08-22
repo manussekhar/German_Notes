@@ -1,3 +1,3 @@
 [[Definite Article]]
 Indefinite Article
-Negative
+Negative Article
