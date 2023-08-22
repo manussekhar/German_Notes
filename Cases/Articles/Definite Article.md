@@ -1,4 +1,4 @@
 bestimmte artikel - the 
 
 ![[definite.png]]
-Der Tisch 
+Der Tisch ist 
