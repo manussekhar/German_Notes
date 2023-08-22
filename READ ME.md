@@ -24,4 +24,4 @@ Letter Combinations
 [[Hobbies]]
 
 
-[[Conjugation]] - Delas w
+[[Conjugation]] - Deals w
