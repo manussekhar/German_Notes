@@ -5,4 +5,4 @@ bestimmte artikel - the
 
 **Der** Tisch ist groß - The table is big (N)
 Ich sehe **den** Tisch - I see the table(A)
-Ich gebe **dem** Tisch 
+Ich gebe **dem** Tisch eine 
