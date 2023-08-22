@@ -28,7 +28,7 @@ My Sister lives together with a monkey
 Meine Schwster wohnt mit einenm Affen suzammen
 
 
-[[Conjugation]] - Deals with verb changes based on n
+[[Conjugation]] - Deals with verb changes based on nouns
 [[Declensions]] - Deals with pronouns(he,she,they) and adjectives (old , smart,big)
 Articles - 
 
