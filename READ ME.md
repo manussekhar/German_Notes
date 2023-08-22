@@ -24,4 +24,4 @@ Letter Combinations
 [[Hobbies]]
 
 
-[[Conjugation]] - Deals w
+[[Conjugation]] - Deals with ver
