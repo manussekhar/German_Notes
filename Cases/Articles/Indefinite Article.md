@@ -1,1 +1,2 @@
-unbestimmter artikel - a o
+unbestimmter artikel - a or an
+
