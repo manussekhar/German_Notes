@@ -1,2 +1,2 @@
-bestimmte artikel - the - 
+bestimmte artikel - the 
 ![[definite-article-2.jpeg]]
