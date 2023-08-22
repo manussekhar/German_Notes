@@ -3,4 +3,4 @@ bestimmte artikel - the
 ![[definite.png]]
 
 
-Der Tisch ist groß - The table is big
+Der Tisch ist groß - The table is big (N)
