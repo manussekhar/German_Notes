@@ -1,3 +1,3 @@
-[[Definite]]
+[[Definite Article]]
 Indefinite
 Negative
