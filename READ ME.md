@@ -25,3 +25,4 @@ Letter Combinations
 
 
 [[Conjugation]] - Deals with verbs
+[[Declensions]]
