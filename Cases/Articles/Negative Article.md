@@ -1,1 +1,1 @@
-Negation
+Negations
