@@ -1,2 +1,2 @@
-Definit
+Definite
 Indefin
