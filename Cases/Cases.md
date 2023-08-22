@@ -2,7 +2,7 @@ Die Frau singt ihrem kleinen Baby ein Lied.
 The woman sings her little baby a song.
 
 Nominative nouns- subject noun (usually comes as first noun in English, **who**)  - Die Faru
-Accusative nouns - object noun (**whome/ what**)- ein Lied
+Accusative nouns - object noun (**whom/ what**)- ein Lied
 Dative noun - indirect noun (**For whome**) - ihrem kleinen baby
 
 1. **Nominative Case (Nominativ):**
