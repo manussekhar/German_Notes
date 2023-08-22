@@ -1,3 +1,3 @@
-bestimmte artikel - a, an, the ()
+bestimmte artikel - a, an, the (der )
 
 ![[definite-article.jpeg]]
