@@ -3,3 +3,4 @@ Negationsartikel
 
 
 **Kein** Apfel ist rot. (N)
+Ich sehe keinen Apfel.
