@@ -1,1 +1,1 @@
-Negations
+Negationsartikle
