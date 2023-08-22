@@ -5,3 +5,4 @@ Zimmer ; room ~
 zuordnen ; to assign
 zeigen ; show
 zusammen ; together
+Zeitung
