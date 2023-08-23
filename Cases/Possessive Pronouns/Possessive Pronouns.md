@@ -1,3 +1,4 @@
 ![[pp.jpg]]
 
-based on object that it is a
+based on object that it is associated to
+
