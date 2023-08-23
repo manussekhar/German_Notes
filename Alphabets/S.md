@@ -15,3 +15,5 @@ Sie ; you (formal)
 sprechen ; to speak
 sie ; she
 schreiben; to write
+
+
