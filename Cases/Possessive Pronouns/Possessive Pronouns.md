@@ -6,4 +6,4 @@ mein Vater
 meine Mutter
 
 ihr - iya
-ihre
+ihre - iyaha
