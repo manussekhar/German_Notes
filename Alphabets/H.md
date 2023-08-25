@@ -9,6 +9,7 @@ Hausnummer ; house number -
 hübsch ; pretty
 helfen ; help
 handynumber;cellphone number -
-Haben;to
+Haben;to have
+
 
 
