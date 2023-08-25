@@ -20,4 +20,4 @@ eg: Ich habe hunger -> Ich habe kinen hunger
 
 Usage of Nicht
 ------------------------
-1. Before definite articvle
+1. Before definite articl
