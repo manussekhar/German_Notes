@@ -12,6 +12,6 @@ im - at month
 am  - at date, week
 
 I play for my Newzealand
-Ich spiele für meinen N
+Ich spiele für meinen Newzealan
 
  
