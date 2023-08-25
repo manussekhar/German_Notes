@@ -2,3 +2,4 @@ O ; oh
 Orange ; Oaranje - Orange color -
 Orange ; Oranje - Orange fruit ~
 Obst ; Obst - Fruit ~
+Ohne;without
