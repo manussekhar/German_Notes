@@ -19,5 +19,5 @@ Fragen; to ask
 anrufen;to call
 einladen;to invite
 besuchen;to visit
-bitten;
+bitten;to re
 
