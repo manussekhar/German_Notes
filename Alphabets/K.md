@@ -8,3 +8,4 @@ Kranke ; sick person
 kennen ; to know
 Kollegin ; Colleague -
 knochen ; bone +
+klar
