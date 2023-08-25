@@ -15,4 +15,4 @@ Akkusative verb that denotes a person
 wissen;to know
 treffen;to meet
 kennen learnen; to get to know
-Frage
+Fragen; to
