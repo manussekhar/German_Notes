@@ -11,3 +11,4 @@ auch; also
 Auf Wiedersehen ; good bye
 Affe ; Ape
 Alphabet;Alphabet ~
+anrufen;to call
