@@ -11,6 +11,7 @@ um - at time
 im - at month 
 am  - at date, week
 
-I play for my Deutchlanf
+I play for my Deutchland
+
 
  
