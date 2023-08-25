@@ -24,3 +24,4 @@ Usage of Nicht
 eg: Ich seh den Mann -> Ich seh nicht den Mann
 2. Before adjective (describes a noun)
 eg: Maria ist schön -> Maria is nicht schön
+3. 
