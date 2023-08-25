@@ -3,4 +3,4 @@ gestern; yesterday
 vorgestern; day before yesterday
 Früher; early
 gegenvert;present
-heute
+heute;today
