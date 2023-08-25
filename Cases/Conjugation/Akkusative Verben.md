@@ -16,4 +16,4 @@ wissen;to know
 treffen;to meet
 kennen learnen; to get to know
 Fragen; to ask
-anrufen
+anrufen;
