@@ -1,3 +1,3 @@
 von + dem -> 
 zu + dem -> zum
-zu+ der ->
+zu+ der -> z
