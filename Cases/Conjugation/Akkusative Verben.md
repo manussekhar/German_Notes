@@ -1,5 +1,5 @@
 brauchen;to need
-Haben;
+Haben; to have
 Machen;
 Kochen;
 Essen;
