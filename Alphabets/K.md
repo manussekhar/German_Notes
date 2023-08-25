@@ -9,4 +9,5 @@ kennen ; to know
 Kollegin ; Colleague -
 knochen ; bone +
 klar;clear
+kennen learnen; to get to know
 
