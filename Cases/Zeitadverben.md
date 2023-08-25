@@ -18,6 +18,7 @@ Sentence structure
 ZA + v + Subj
 or
 Sub + v+ za
+Manchmal gehe ich ins Kino 
 
 
 
