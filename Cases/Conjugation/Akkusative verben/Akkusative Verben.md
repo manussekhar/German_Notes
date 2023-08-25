@@ -3,4 +3,4 @@ Haben;
 Machen;
 Kochen;
 Essen;
-Kauften
+Kaufen;
