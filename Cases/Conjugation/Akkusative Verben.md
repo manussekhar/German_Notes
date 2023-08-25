@@ -1,4 +1,4 @@
-brauchen;
+brauchen;to need
 Haben;
 Machen;
 Kochen;
