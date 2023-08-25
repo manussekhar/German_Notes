@@ -4,4 +4,4 @@ mit - with
 nach - after / to (places)
 von - of / from /buy
 zu - to 
-Gegenüber - opposi
+Gegenüber - opposite
