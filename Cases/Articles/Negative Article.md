@@ -12,4 +12,4 @@ Ich trinke aus **keinem** Glas. (D)
 
 Usage of Kein
 ----------------------
-1. In order t
+1. In order to nega
