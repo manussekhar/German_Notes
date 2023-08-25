@@ -6,4 +6,5 @@ gehören;to belong
 gefallen;to like
 antworten;to answer
 schmecken;to taste
+S
 
