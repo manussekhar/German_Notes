@@ -14,4 +14,4 @@ Usage of Kein
 ----------------------
 1. In order to negate an indefinite article
 eg: Ich habe einen Kuli -> Ich habe keinen Kuli
-2. 
+2. Before a n
