@@ -1,3 +1,3 @@
 Passen; to match
 Helfen; to help
-Danken;
+Danken;to thank
