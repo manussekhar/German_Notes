@@ -5,4 +5,4 @@ Für;For
 Um;at
 Bis; still / upto
 
-For my mother - Fü
+For my mother - Für 
