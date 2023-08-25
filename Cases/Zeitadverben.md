@@ -17,7 +17,6 @@ Sentence structure
 
 ZA + v + Subj
 or
-
 Sub + v+ za
 
 
