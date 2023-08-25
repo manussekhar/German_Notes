@@ -4,7 +4,7 @@ Machen;to make
 Kochen;to cook
 Essen;to eat
 Kaufen;to buy
-Nehmen;
+Nehmen;tot a
 
 
 Ich brauche dich
