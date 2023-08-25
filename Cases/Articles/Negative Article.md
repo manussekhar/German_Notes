@@ -25,4 +25,4 @@ eg: Ich seh den Mann -> Ich seh nicht den Mann
 2. Before adjective (describes a noun)
 eg: Maria ist schön -> Maria is nicht schön
 3. Before adveb (on timebased ones)
-eg: Manchmal gehe ich ins Kino -> Nicht manchmal gehe ich i
+eg: Manchmal gehe ich ins Kino -> Nicht manchmal gehe ich ins Kino
