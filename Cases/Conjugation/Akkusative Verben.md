@@ -12,4 +12,4 @@ Ich danke dir
 
 Akkusative verb that denotes a person
 :
-wissen;to
+wissen;to know
