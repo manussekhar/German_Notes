@@ -2,4 +2,4 @@ Aus - From
 bei - with
 mit - with
 nach - 
-von - of / from 
+von - of / from /buy
