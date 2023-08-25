@@ -1,6 +1,6 @@
 brauchen;to need
 Haben; to have
-Machen;
+Machen;to make
 Kochen;
 Essen;
 Kaufen;
