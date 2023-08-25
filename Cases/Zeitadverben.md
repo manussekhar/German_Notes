@@ -5,4 +5,4 @@ Früher; early
 gegenvert;present
 heute;today
 Jetzt;now
-moment;
+moment;moment
