@@ -10,4 +10,5 @@ Was;what
 Wie;how
 Wo;Where
 Wer;Who
-Welche;Wich
+Welche;Which
+
