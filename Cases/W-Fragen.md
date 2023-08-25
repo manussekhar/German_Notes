@@ -7,4 +7,5 @@ or
 
 
 Was;what
-We;how
+Wie;how
+Wo
