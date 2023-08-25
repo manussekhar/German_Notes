@@ -11,7 +11,7 @@ um - at time
 im - at month 
 am  - at date, week
 
-I play for my Newzealand
+I play for my Newzealand -> 
 Ich spiele für mein Neusseland
 
 
