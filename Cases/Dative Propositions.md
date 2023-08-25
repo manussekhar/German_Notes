@@ -20,7 +20,7 @@ von                      -> I am teacher by profession. -> Ich bin lehrerin von 
 							-> The book of William Shakespshere -> Das Buch von William Shakesphere
 zu                        -> I am at house -> Ich bin zu Hause (In dative Haus is Hause) (at)
 							-> I am going to house -> Ich gehe nach Hause
-							-> I am going to the party -> 
+							-> I am going to the party -> Ich
 
 
 
