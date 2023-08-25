@@ -7,4 +7,4 @@ heute;today
 Jetzt;now
 moment;moment
 sofort;immediately
-gerade
+gerade;just n
