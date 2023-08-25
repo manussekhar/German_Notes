@@ -5,3 +5,5 @@ Kochen;to cook
 Essen;to eat
 Kaufen;to buy
 Nehmen;
+
+
