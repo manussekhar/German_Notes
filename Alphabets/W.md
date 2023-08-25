@@ -19,3 +19,4 @@ welches ; which
 wo ; where
 woher ; from where
 Webseite ; website -
+wissen;to know
