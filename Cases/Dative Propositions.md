@@ -6,3 +6,4 @@ von - of / from /buy
 zu - to 
 Gegenüber - opposite
 Seit - Since
+ab - S
