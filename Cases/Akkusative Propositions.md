@@ -13,6 +13,6 @@ am  - at date, week
 
 I play for my Newzealand -> Ich spiele für mein Neusseland
 I am playing -> Ich spiele
-We are playing without him -> Ihn spielen ohne 
+We are playing without him -> Wi spielen ohne 
 
  
