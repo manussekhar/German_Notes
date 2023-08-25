@@ -1,1 +1,1 @@
-verga
+vergangen
