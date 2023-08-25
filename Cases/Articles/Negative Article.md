@@ -26,4 +26,4 @@ eg: Ich seh den Mann -> Ich seh nicht den Mann
 eg: Maria ist schön -> Maria is nicht schön
 3. Before adveb (on timebased ones)
 eg: Manchmal gehe ich ins Kino -> Nicht manchmal gehe ich ins Kino / Ich gehe nicht manchmal ins Kino
-4. When 2 verb comes
+4. When 2 verb comes put before
