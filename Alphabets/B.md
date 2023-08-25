@@ -16,5 +16,4 @@ bis bald ; see you soon
 Beispiele ; examples
 Buchtabe; letter of the alphabet +
 buchstabieren;to spell
-brauchen;
 
