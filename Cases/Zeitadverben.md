@@ -13,7 +13,7 @@ Morgen;tomorrow
 oft;often
 seltern;rare
 
-Sentence str
+Sentence structure
 ZA + v + Subj
 
 or
