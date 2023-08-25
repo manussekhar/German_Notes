@@ -1,1 +1,1 @@
-W - element + V + Subject 
+W - element + V + Subject + object
