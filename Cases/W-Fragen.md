@@ -13,4 +13,4 @@ Wer;Who
 Welche;Which
 wie viet; how much
 wie viele; how many
-wie
+wie oft;h
