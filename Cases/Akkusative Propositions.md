@@ -7,5 +7,5 @@ Bis; still / upto
 
 For my mother -> Für meine Mutter (Dative to Akkusative)
 
-
+um
  
