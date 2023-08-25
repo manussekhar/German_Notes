@@ -21,5 +21,5 @@ einladen;to invite
 besuchen;to visit
 bitten;to request
 lieben;to love
-leben;
+leben;to live
 
