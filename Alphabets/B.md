@@ -18,4 +18,4 @@ Buchtabe; letter of the alphabet +
 buchstabieren;to spell
 besuchen;to visit
 bitten;to request
-
+leben;to live
