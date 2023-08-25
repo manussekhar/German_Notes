@@ -9,7 +9,6 @@ Seit - Since
 ab - Starting from
 
 Aus (From Place)
--------
 Ich komme aus Adoor.
 
 
