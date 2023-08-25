@@ -1,3 +1,3 @@
 vergangenhtit - past
 gestern; yesterday
-vorgestern; day before yesterda
+vorgestern; day before yesterday
