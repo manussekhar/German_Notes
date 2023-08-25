@@ -4,3 +4,4 @@ Machen;
 Kochen;
 Essen;
 Kaufen;
+Ne
