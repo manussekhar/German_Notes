@@ -18,6 +18,6 @@ warum;why
 woher;From where
 Wohin;to where
 
-What do you eat -> (casua)
+What do you eat -> (casual + formal)
 Where do you live ->
 What is your favourite film ->
