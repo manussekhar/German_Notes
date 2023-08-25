@@ -1,4 +1,4 @@
-Brachen;
+brauchen;
 Haben;
 Machen;
 Kochen;
