@@ -32,3 +32,4 @@ nehmen = to take
 Sehen = to see
 lesen = to read
 triffen = to meet
+
