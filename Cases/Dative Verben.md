@@ -3,7 +3,7 @@ Helfen; to help
 Danken;to thank
 Gratulieren;to congratulate
 gehören;to belong
-gefallen;t
+gefallen;to like
 antworten;to answer
 schmecken;to taste
 
