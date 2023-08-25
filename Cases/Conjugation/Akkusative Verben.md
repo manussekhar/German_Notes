@@ -7,4 +7,4 @@ Kaufen;to buy
 Nehmen;
 
 
-Ich
+Ich brau
