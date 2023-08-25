@@ -8,4 +8,4 @@ Ich trinke aus **keinem** Glas. (D)
 
 
 
-Kein
+Kein vs Nic
