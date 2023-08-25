@@ -1,1 +1,1 @@
-vergangenhtit
+vergangenhtit - past
