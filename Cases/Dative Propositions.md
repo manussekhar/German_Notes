@@ -10,5 +10,5 @@ ab - Starting from
 
 Aus (From Place)
 -------
-I
+Ich ko
 
