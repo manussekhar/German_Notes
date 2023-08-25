@@ -10,5 +10,5 @@ sofort;immediately
 gerade;just now
 Zukurust / futurst ;future
 Morgen;tomorrow
-
+oft
 
