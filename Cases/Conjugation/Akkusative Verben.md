@@ -20,5 +20,5 @@ anrufen;to call
 einladen;to invite
 besuchen;to visit
 bitten;to request
-
+lieben;
 
