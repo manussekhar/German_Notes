@@ -10,5 +10,5 @@ ab - Starting from
 
 Aus (From Place)
 -------
-Ich komme au
+Ich komme aus Adoor
 
