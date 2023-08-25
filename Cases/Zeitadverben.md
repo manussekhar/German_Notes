@@ -6,4 +6,4 @@ gegenvert;present
 heute;today
 Jetzt;now
 moment;moment
-sofort;
+sofort;immediately
