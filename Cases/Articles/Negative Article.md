@@ -12,4 +12,4 @@ Ich trinke aus **keinem** Glas. (D)
 
 Usage of Kein
 ----------------------
-1. In order to negate an indedfenite article
+1. In order to negate an indefinite article
