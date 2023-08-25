@@ -7,3 +7,4 @@ Kaufen;to buy
 Nehmen;
 
 
+Ich
