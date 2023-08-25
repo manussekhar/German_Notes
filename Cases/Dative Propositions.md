@@ -17,7 +17,7 @@ Nach (to places) -> I am going to German -> Ich gehe nach Berlin
 							-> After the meeting -> Nach der Termin
 von                      -> I am teacher by profession. -> Ich bin lehrerin von dem beruf. (by)
 						   -> I work from Monday to Saturday -> Ich arbeite von Monttag bis Sonnstag. (from)
-							-> The book of William Shakespshere -> Von Buck 
+							-> The book of William Shakespshere -> Das Buch von William Shakesphere
 
 
 
