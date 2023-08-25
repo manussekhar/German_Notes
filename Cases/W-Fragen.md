@@ -8,4 +8,4 @@ or
 
 Was;what
 Wie;how
-Wo;Whr
+Wo;Where
