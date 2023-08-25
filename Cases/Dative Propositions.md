@@ -10,7 +10,7 @@ ab - Starting from
 
 Aus (From Place) -> Ich komme aus Adoor.
 bei (professional) -> Ich habe einen Termin bei minem Chef.
-							 -> Maria have an appointment with her Doctor -> Maria 
+							 -> Maria have an appointment with her Doctor -> Maria habt
 							 -> I buy clothes with my son -> 
 							 -> My brother give an apple for me ->
 
