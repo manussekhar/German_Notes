@@ -12,6 +12,6 @@ im - at month
 am  - at date, week
 
 I play for my Deutchland
-I spi
+I spiele 
 
  
