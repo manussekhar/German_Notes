@@ -4,4 +4,4 @@ Danken;to thank
 Gratulieren;to congratulate
 gehören;to belong
 antworten;to answer
-schmecken;
+schmecken;to ts
