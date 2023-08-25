@@ -8,4 +8,4 @@ Jetzt;now
 moment;moment
 sofort;immediately
 gerade;just now
-Zukurust / futurs
+Zukurust / futurst 
