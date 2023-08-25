@@ -10,4 +10,4 @@ Nehmen;to take
 Ich brauche dich
 Ich danke dir
 
-deno
+Akkus
