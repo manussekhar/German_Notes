@@ -14,7 +14,7 @@ bei (professional) -> Ich habe einen Termin bei minem Chef.
 							 -> I buy clothes with my son -> Ich kaufe Kleidung mit meinem Sohn. 
 							 -> My brother gives an apple for me -> Mein Bruder gibt von einem Apfel. If verb is dative, dative verb should be first.
 Nach (to places) -> I am going to German -> Ich gehe nach Berlin
-							-> After the meeting -> Nach der beru
+							-> After the meeting -> Nach der 
 
 
 
