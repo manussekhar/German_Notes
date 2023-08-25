@@ -1,3 +1,3 @@
 vergangenhtit - past
 gestern; yesterday
-vorgestern; 
+vorgestern; day be
