@@ -20,7 +20,8 @@ I am going -> Ich gehe
 She is going to make food -> Sie geht eessen machen
 We are playing without Messi -> Wir spielen ohne Messi
 I am happy for her -> Ich bin gluck für sie
-I am playing against India -> Ich spele gegen Indie
+I am playing against India -> Ich spele gegen Indien
+
 
 
  
