@@ -1,4 +1,4 @@
 vergangenhtit - past
 gestern; yesterday
 vorgestern; day before yesterday
-Fruher; early
+Früher; early
