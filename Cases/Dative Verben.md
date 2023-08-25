@@ -1,4 +1,4 @@
 Passen; to fit
 Helfen; to help
 Danken;to thank
-Gratulieren;to co
+Gratulieren;to congratu
