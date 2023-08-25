@@ -4,4 +4,4 @@ vorgestern; day before yesterday
 Früher; early
 gegenvert;present
 heute;today
-Jet
+Jetzt;
