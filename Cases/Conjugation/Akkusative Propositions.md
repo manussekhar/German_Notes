@@ -1,4 +1,5 @@
 Gegen;against
 Ohne;without
 Durch;through
-Für:
+Für:For
+
