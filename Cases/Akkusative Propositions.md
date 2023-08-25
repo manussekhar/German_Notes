@@ -12,6 +12,7 @@ im - at month
 am  - at date, week
 
 I play for my Newzealand -> Ich spiele für mein Neusseland
-I am playing -> Ich sp
+I am playing -> Ich spiele
+
 
  
