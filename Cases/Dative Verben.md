@@ -3,4 +3,4 @@ Helfen; to help
 Danken;to thank
 Gratulieren;to congratulate
 gehören;to belong
-antwo
+antworten;to an
