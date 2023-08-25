@@ -2,7 +2,7 @@ Aus - From
 bei - with / at
 mit - with
 nach - after / to (places)
-von - of / from /buy
+von - of / from /by
 zu - to 
 Gegenüber - opposite
 Seit - Since
