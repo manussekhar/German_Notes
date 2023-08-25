@@ -6,3 +6,4 @@ nach ; after
 Name ; Name -
 notieren ; to note
 Neffe ; Nephew
+Nehmen
