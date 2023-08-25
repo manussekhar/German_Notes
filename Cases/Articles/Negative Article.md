@@ -23,4 +23,4 @@ Usage of Nicht
 1. Before definite article (the)
 eg: Ich seh den Mann -> Ich seh nicht den Mann
 2. Before adjective (describes a noun)
-eg: Maria i
+eg: Maria ist s
