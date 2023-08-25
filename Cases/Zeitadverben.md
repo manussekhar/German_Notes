@@ -2,4 +2,4 @@ vergangenhtit - past
 gestern; yesterday
 vorgestern; day before yesterday
 Früher; early
-gegenvert
+gegenvert;presen
