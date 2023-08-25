@@ -28,4 +28,4 @@ eg: Maria ist schön -> Maria is nicht schön
 eg: Manchmal gehe ich ins Kino -> Nicht manchmal gehe ich ins Kino / Ich gehe nicht manchmal ins Kino
 4. When 2 verb comes put before 2nd verb which is in infinitive form [[Helping verb]]
 eg: I can't find you -> Ich kann dich nicht finden
-5. To make a sentence negative
+5. To make a sentence negative put 
