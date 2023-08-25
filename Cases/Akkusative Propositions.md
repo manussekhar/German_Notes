@@ -18,6 +18,7 @@ He is going -> Er geht
 The river is going to Aluva->Der Fluss geht dursch Aluva(am, is , are dont write)
 I am going -> Ich gehe
 She is going to make food -> Sie geht eessen machen
+W
 
 
  
