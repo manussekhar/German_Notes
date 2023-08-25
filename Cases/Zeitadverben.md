@@ -12,3 +12,4 @@ Zukurust / futurst ;future
 Morgen;tomorrow
 oft;often
 
+
