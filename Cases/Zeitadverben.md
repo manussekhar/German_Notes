@@ -11,5 +11,5 @@ gerade;just now
 Zukurust / futurst ;future
 Morgen;tomorrow
 oft;often
-
+seltern
 
