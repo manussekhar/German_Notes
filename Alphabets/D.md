@@ -11,3 +11,4 @@ du ; you
 das ; this/that
 dialog ; dialogue +
 dein,deine; your
+Durch;through
