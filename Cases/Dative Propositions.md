@@ -10,7 +10,7 @@ ab - Starting from
 
 Aus (From Place)
 Ich komme aus Adoor.
-bei (professional) -> Ich habe dem 
+bei (professional) -> Ich habe ei 
 
 
 
