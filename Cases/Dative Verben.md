@@ -7,4 +7,5 @@ gefallen;to like
 antworten;to answer
 schmecken;to taste
 schaden;to damage
+stehen;
 
