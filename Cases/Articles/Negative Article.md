@@ -19,4 +19,4 @@ eg: Ich habe hunger -> Ich habe kinen hunger
 
 
 Usage of Nicht
--
+------------------------
