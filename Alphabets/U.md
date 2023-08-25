@@ -3,3 +3,4 @@ Uhr ; Ua^r - Clock -
 Uns ; Our
 Ungarisch ; Hungarian
 und ; and
+Um;at
