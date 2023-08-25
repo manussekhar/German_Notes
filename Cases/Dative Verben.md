@@ -8,5 +8,5 @@ antworten;to answer
 schmecken;to taste
 schaden;to damage
 stehen;to stand
-folgen:to folloe
+folgen:to follow
 
