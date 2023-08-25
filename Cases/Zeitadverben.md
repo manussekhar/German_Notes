@@ -13,6 +13,7 @@ Morgen;tomorrow
 oft;often
 seltern;rare
 
+Sente
 ZA + v + Subj
 
 or
