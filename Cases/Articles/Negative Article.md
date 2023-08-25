@@ -30,3 +30,4 @@ eg: Manchmal gehe ich ins Kino -> Nicht manchmal gehe ich ins Kino / Ich gehe ni
 eg: I can't find you -> Ich kann dich nicht finden
 5. To make a sentence negative put it in the end
 eg : Ich esse das Essen -> Ich esse das Essen nicht
+6. 
