@@ -15,7 +15,7 @@ I play for my Newzealand -> Ich spiele für mein Neusseland
 I am playing -> Ich spiele
 We are playing without him -> Wir spielen ohne 
 He is going -> Er geht
-The river is going to Aluva->Der Fluss geht dursch Aluva(am, is dont write)
+The river is going to Aluva->Der Fluss geht dursch Aluva(am, is , are dont write)
 
 
  
