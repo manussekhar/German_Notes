@@ -15,4 +15,4 @@ wie viet; how much
 wie viele; how many
 wie oft;how often
 warum;why
-woher
+woher;From where
