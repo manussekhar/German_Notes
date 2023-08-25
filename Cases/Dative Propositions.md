@@ -1,6 +1,6 @@
 Aus - From
 bei - with
 mit - with
-nach - after
+nach - after / to 
 von - of / from /buy
 zu - to 
