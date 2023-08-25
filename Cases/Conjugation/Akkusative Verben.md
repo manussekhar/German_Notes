@@ -2,6 +2,6 @@ brauchen;to need
 Haben; to have
 Machen;to make
 Kochen;to cook
-Essen;
+Essen;to 
 Kaufen;
 Nehmen;
