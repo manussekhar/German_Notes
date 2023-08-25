@@ -18,5 +18,5 @@ kennen learnen; to get to know
 Fragen; to ask
 anrufen;to call
 einladen;to invite
-besuchen;
+besuchen;to visit
 
