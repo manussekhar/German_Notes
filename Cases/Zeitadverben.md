@@ -9,5 +9,6 @@ moment;moment
 sofort;immediately
 gerade;just now
 Zukurust / futurst ;future
-Morgen
+Morgen;tomorrow
+
 
