@@ -17,5 +17,7 @@ ZA + v + Subj
 
 or
 
-Sub + v+ z
+Sub + v+ za
+
+
 
