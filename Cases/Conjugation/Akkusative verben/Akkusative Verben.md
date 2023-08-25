@@ -1,3 +1,4 @@
 Brachen
 Haben;
 Machen;
+Kochen;
