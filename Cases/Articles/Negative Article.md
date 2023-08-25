@@ -16,3 +16,6 @@ Usage of Kein
 eg: Ich habe einen Kuli -> Ich habe keinen Kuli
 2. Before a noun without an article
 eg: Ich habe hunger -> Ich habe kinen hunger
+
+
+Us
