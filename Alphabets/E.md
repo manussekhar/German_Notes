@@ -10,3 +10,4 @@ ergänzen ; to complete
 entspannen ; relax
 erst;first
 ein bisschen; a little
+einladen;to invite
