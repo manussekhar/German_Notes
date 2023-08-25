@@ -1,6 +1,6 @@
 W - element + V + Subject + object
 or
-W- eleme + 
+W- eleme + S+O
 
 
 
