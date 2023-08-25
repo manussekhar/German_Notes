@@ -28,7 +28,7 @@ Dative noun - indirect noun (**For whom**) - ihrem kleinen baby
 [[Personal Pronoun]]
 [[Possessive Pronouns]]
 [[Akkusative Verben]]
-[[A]]
+[[Akkusative Propositions]]
 
 
 
