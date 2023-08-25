@@ -18,4 +18,5 @@ eg: Ich habe einen Kuli -> Ich habe keinen Kuli
 eg: Ich habe hunger -> Ich habe kinen hunger
 
 
-Usage of N
+Usage of Nicht
+-
