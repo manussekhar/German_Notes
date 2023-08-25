@@ -1,2 +1,2 @@
 vergangenhtit - past
-gestern - y
+gestern; 
