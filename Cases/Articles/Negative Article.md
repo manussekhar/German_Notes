@@ -21,4 +21,4 @@ eg: Ich habe hunger -> Ich habe kinen hunger
 Usage of Nicht
 ------------------------
 1. Before definite article (the)
-eg: Ich seh den Mann -> I
+eg: Ich seh den Mann -> Ich seh 
