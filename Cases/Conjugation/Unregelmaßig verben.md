@@ -31,3 +31,4 @@ fahren = to drive
 nehmen = to take
 Sehen = to see
 lesen = to read
+tre
