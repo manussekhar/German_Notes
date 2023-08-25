@@ -10,4 +10,4 @@ Nehmen;to take
 Ich brauche dich
 Ich danke dir
 
-Akkusative verb that denotes a pers
+Akkusative verb that denotes a person
