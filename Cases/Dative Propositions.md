@@ -12,7 +12,7 @@ Aus (From Place) -> Ich komme aus Adoor.
 bei (professional) -> Ich habe einen Termin bei minem Chef.
 							 -> Maria have an appointment with her Doctor -> Maria hat eine Berufung bei ihrem Arzt
 							 -> I buy clothes with my son -> Ich kaufe Kleidung mit meinem Sohn. 
-							 -> My brother give an apple for me -> Meine 
+							 -> My brother give an apple for me -> Mein Brude
 
 
 
