@@ -15,3 +15,6 @@ seltern;rare
 
 ZA + v + Subj
 
+or
+
+
