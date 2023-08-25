@@ -13,7 +13,7 @@ bei (professional) -> Ich habe einen Termin bei minem Chef.
 							 -> Maria have an appointment with her Doctor -> Maria hat eine Berufung bei ihrem Arzt
 							 -> I buy clothes with my son -> Ich kaufe Kleidung mit meinem Sohn. 
 							 -> My brother gives an apple for me -> Mein Bruder gibt von einem Apfel. If verb is dative, dative verb should be first.
-Nach (pl)
+Nach (places)
 
 
 
