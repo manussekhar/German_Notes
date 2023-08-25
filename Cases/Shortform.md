@@ -1,2 +1,2 @@
 von + dem -> 
-zu + dem -> 
+zu + dem -> zum
