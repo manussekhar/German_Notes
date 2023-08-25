@@ -1,5 +1,5 @@
 Aus - From
 bei - with
 mit - with
-nach - 
+nach - after
 von - of / from /buy
