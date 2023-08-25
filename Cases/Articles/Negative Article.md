@@ -12,3 +12,4 @@ Ich trinke aus **keinem** Glas. (D)
 
 Usage of Kein
 ----------------------
+1. 
