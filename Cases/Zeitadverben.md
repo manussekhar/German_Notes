@@ -13,5 +13,5 @@ Morgen;tomorrow
 oft;often
 seltern;rare
 
-ZA + v +
+ZA + v + Su
 
