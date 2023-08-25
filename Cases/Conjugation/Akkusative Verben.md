@@ -13,4 +13,5 @@ Ich danke dir
 Akkusative verb that denotes a person
 :
 wissen;to know
-treffen;to 
+treffen;to meet
+
