@@ -14,4 +14,4 @@ Welche;Which
 wie viet; how much
 wie viele; how many
 wie oft;how often
-
+warum
