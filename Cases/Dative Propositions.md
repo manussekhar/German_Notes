@@ -19,7 +19,7 @@ von                      -> I am teacher by profession. -> Ich bin lehrerin von 
 						   -> I work from Monday to Saturday -> Ich arbeite von Monttag bis Sonnstag. (from)
 							-> The book of William Shakespshere -> Das Buch von William Shakesphere
 zu                        -> I am at house -> Ich bin zu Hause (In dative Haus is Hause) (at)
-							-> I am going to house -> Ich gehe zu
+							-> I am going to house -> Ich gehe zu 
 
 
 
