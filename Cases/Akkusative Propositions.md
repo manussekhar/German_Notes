@@ -11,7 +11,7 @@ um - at time
 im - at month 
 am  - at date, week
 
-I play for my Deutchland
+I play for my New
 I spiele f
 
  
