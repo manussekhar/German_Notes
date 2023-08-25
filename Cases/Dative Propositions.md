@@ -1,1 +1,1 @@
-Aus - Fr
+Aus - From
