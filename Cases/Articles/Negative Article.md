@@ -13,4 +13,4 @@ Ich trinke aus **keinem** Glas. (D)
 Usage of Kein
 ----------------------
 1. In order to negate an indefinite article
-eg: Ich habe einen
+eg: Ich habe einen Kuli
