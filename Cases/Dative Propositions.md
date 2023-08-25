@@ -8,7 +8,7 @@ Gegenüber - opposite
 Seit - Since
 ab - Starting from
 
-1Aus (From Place)
+Aus (From Place)
 Ich komme aus Adoor.
 
 
