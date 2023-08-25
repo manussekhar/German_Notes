@@ -31,4 +31,4 @@ eg: I can't find you -> Ich kann dich nicht finden
 5. To make a sentence negative put it in the end
 eg : Ich esse das Essen -> Ich esse das Essen nicht
 6. Before personal pronouns, prepostions, passive pronouns etc
-Ich hefe dir
+Ich hefe dir -> I
