@@ -23,4 +23,4 @@ bitten;to request
 lieben;to love
 leben;to live
 
-I need a pen -> Ich brache einen
+I need a pen -> Ich brache einen Kuli
