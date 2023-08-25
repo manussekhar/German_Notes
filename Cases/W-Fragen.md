@@ -20,4 +20,4 @@ Wohin;to where
 
 What do you eat -> (casual + formal)
 Where do you live ->
-What is your favourite film ->
+What is your favorite film ->
