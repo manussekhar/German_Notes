@@ -16,4 +16,4 @@ wie viele; how many
 wie oft;how often
 warum;why
 woher;From where
-
+Wohin;
