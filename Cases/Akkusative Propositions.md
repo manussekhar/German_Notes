@@ -16,6 +16,6 @@ I am playing -> Ich spiele
 We are playing without him -> Wir spielen ohne 
 He is going -> Er geht
 The river is going to Aluva
-Der Fluss geht zu Aluva
+Der Fluss geht dursch Aluva
 
  
