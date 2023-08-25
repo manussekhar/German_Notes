@@ -14,6 +14,7 @@ oft;often
 seltern;rare
 
 Sentence structure
+
 ZA + v + Subj
 
 or
