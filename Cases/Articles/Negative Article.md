@@ -20,4 +20,4 @@ eg: Ich habe hunger -> Ich habe kinen hunger
 
 Usage of Nicht
 ------------------------
-1. Be
+1. Before be
