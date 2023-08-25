@@ -19,3 +19,4 @@ buchstabieren;to spell
 besuchen;to visit
 bitten;to request
 leben;to live
+Bis; still / upto
