@@ -8,7 +8,7 @@ Gegenüber - opposite
 Seit - Since
 ab - Starting from
 
-Aus ()
+Aus (From Place)
 -------
-
+I
 
