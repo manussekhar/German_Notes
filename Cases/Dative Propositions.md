@@ -3,7 +3,7 @@ bei - with / at
 mit - with
 nach - after / to (places)
 von - of / from /by
-zu - to / for 
+zu - to / for / at
 Gegenüber - opposite
 Seit - Since
 ab - Starting from
