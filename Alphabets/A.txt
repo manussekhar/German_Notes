@@ -36,7 +36,7 @@ Auf Wiedersehen :" good bye"
 Affe :"
 Ape
 +
-Ich hatte ein Affe. - I had a monkey.
+Ich hatte ein Affe. - I have a monkey.
 "
 Alphabet:"Alphabet ~"
 anrufen:"to call - Sie anrufen. - Calling her"
