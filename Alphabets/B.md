@@ -62,5 +62,8 @@ bitten:"
 to request
 Frag bitte, was los ist. - Ask them what they want.
 "
-leben:"to live"
+leben:"
+to live
+Das Leben ist schwer. - Living's hard.
+"
 Bis:" still / upto"
