@@ -1,0 +1,114 @@
+A:"Ah"
+Apfel :" Apple 
++
+Einen Apfel, sonst nichts - An apple, nothing else.
+"
+Autobahn :"Highway 
+-
+Ich springe nicht auf einer Autobahn! - I'm not jumping on a motorway!
+"
+Arzt :" Doctor 
++
+Du meinst, wie ein Arzt? -You mean, like a doctor?
+"
+Aus :" From
+Ich komme aus Indien - I'm from India
+"
+antworten :" to answer
+und die Antworten ignorieren? - and ignore the answers?
+"
+Anzug :"
+suit 
++
+Schöner Anzug = Nice suit.
+Anzüge (pl)
+"
+Apfelstrudel :" apple cake"
+andere :"
+other
+Der Andere - The other one. 
+"
+auch:"
+also
+Auch wahr - Also true
+"
+Auf Wiedersehen :" good bye"
+Affe :"
+Ape
++
+Ich hatte ein Affe. - I had a monkey.
+"
+Alphabet:"Alphabet ~"
+anrufen:"to call - Sie anrufen. - Calling her"
+B:"beh"
+Buch :"
+Book
+~
+bücher (pl)
+Ihr Buch, Sir! - Oh, sir, your book!
+"
+Bahnhof :"
+Railway station
++
+Es gab da einen Bahnhof - There was a station down there.
+"
+Blume :"
+Flower
+-
+Blüht deine rote Blume noch? - Is your red flower still blooming?
+"
+Badezimmer :"
+Bathroom
+~
+Ins Badezimmer - To the bathroom.
+"
+bequemes :"
+comfortable
+Diese sind so bequem. - These are so comfortable."
+Bereit :"
+Ready
+Ist Papa bereit für so etwas? - Is Papa ready for that?
+"
+begrüßung :"
+to greet
+Eine Lüge ist keine gute Begrüßung. - A lie is a very poor way to say hello."
+brauchen :"
+to need
+Wir brauchen mehr als Fensterlicht, Herman. - We need more than window light, Herman."
+beginnen :" 
+to begin
+Soll ich beginnen? - Shall I begin?"
+Bulgarisch :" bulgarian"
+Butterbrot :" sandwitch ~"
+bis :"
+to
+Laut dieser Ephemeride ist die nächste Konjunktion von Januar bis Juni. - According to the ephemeris the next conjunction is due January to June."
+bis bald :" see you soon"
+Beispiel :"
+example
+-
+Beispiele(pl)
+Nenn mir ein Beispiel. - Give me one example.
+"
+Buchtabe:"
+letter of the alphabet +"
+buchstabieren:"
+to spell
+Ich bin fertig mit dem Buchstabieren. - I'm done with spelling.
+"
+besuchen:"
+to visit
+Sie wird zu besuchen. - She'll visit.
+"
+bitten:"
+to request
+Frag bitte, was los ist. - Ask them what they want.
+"
+leben:"
+to live
+Das Leben ist schwer. - Living's hard.
+"
+Bis:"
+still / upto
+Es ist bis zu Ihnen. - It's up to you.
+"
