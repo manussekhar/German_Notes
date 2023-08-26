@@ -66,4 +66,7 @@ leben:"
 to live
 Das Leben ist schwer. - Living's hard.
 "
-Bis:" still / upto"
+Bis:"
+still / upto
+Es ist bis zu Ihnen. - It's up to you.
+"
