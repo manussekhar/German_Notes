@@ -24,5 +24,10 @@ dialog :"
 dialogue 
 +
 Aber es benötigt mehr Dialog. - What it needs is maybe a little more dialog."
-dein,deine:" your"
-Durch:"through
+dein:"
+your
+Was wollte dein geschätzter Chef so dringend? - And what did your esteemed chief want so urgently?
+"
+Durch:"
+through
+Bist du mit dem schon mal durch den Zoll gekommen? - You get through customs in this before?"
