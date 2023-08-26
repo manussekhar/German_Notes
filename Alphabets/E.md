@@ -21,7 +21,7 @@ Englisch :"English"
 er:"
 he
 +
-Er sagt: "Die Vereinigten Staaten befinden sich im Krieg mit Japan." - He says, "The U.S.A.'s in a war with Japan."
+Er sagt: "Die Vereinigten Staaten befinden sich im Krieg mit Japan." - He says, The U.S.A.'s in a war with Japan."
 "
 ergänzen :"
 to complement
