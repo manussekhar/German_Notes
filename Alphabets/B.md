@@ -48,12 +48,16 @@ example
 Beispiele(pl)
 Nenn mir ein Beispiel. - Give me one example.
 "
-Buchtabe:" letter of the alphabet +"
+Buchtabe:"
+letter of the alphabet +"
 buchstabieren:"
 to spell
 Ich bin fertig mit dem Buchstabieren. - I'm done with spelling.
 "
-besuchen:"to visit"
+besuchen:"
+to visit
+Sie wird zu besuchen. - She'll visit.
+"
 bitten:"to request"
 leben:"to live"
 Bis:" still / upto"
