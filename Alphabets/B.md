@@ -58,6 +58,9 @@ besuchen:"
 to visit
 Sie wird zu besuchen. - She'll visit.
 "
-bitten:"to request"
+bitten:"
+to request
+Frag bitte, was los ist. - Ask them what they want.
+"
 leben:"to live"
 Bis:" still / upto"
