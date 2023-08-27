@@ -15,8 +15,11 @@ Herr :"
 gentleman
 +
 Ein Herr ist noch auf der Toilette. - One gentleman is in the bathroom."
-Hausnummer :" house number -"
-hübsch :" pretty"
+Hausnummer :"house number
+-"
+hübsch :"
+pretty
+Du siehst hübsch aus. - You look pretty."
 helfen :" help"
 handynumber:"cellphone number -"
 Haben:"to have"
