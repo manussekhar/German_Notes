@@ -4,7 +4,10 @@ Money
 ~
 Monica, gib ihm Geld. - Monica, give him cash.
 "
-Groß :" Big"
+Groß :"
+Big
+Es war recht groß. - It was quite large.
+"
 Grüß :" good"
 Gehen :" go  "
 gibt es :" there is"
