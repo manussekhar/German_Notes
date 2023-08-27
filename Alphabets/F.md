@@ -24,7 +24,10 @@ Finden :"
 to find
 Wenn wir das Armband orten können, finden wir Viktor. - If we can track the bracelet... we can find Viktor.
 "
-Fragen :" to ask"
+Fragen :"
+to ask
+Ich frage mich, ob Sie sich das fragen. - I wonder if you wonder.
+"
 Frühstück :" breakfast ~"
 Französisch :"French ~"
 Frau :" woman -"
