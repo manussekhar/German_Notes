@@ -11,7 +11,10 @@ Hallo :"Hello"
 hören :"
 to hear
 Hören Sie, Joey. - Listen, Joey."
-Herr :"gentleman +"
+Herr :"
+gentleman
++
+Ein Herr ist noch auf der Toilette. - One gentleman is in the bathroom."
 Hausnummer :" house number -"
 hübsch :" pretty"
 helfen :" help"
