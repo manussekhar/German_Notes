@@ -1,5 +1,9 @@
-J;yot
-Jacke ;  Yake = Jacket = -
-Jetzt ; Yetst = Now
-Jahres ; year
-Japanisch ; Japanese
+J:"yot"
+Jacke :"
+Jacket
+-"
+Jetzt :"
+Now
+Jetzt zurück zu Tom Hitchinson.- Now back to Tom Hitchingson."
+Jahres :"year"
+Japanisch :" Japanese"
