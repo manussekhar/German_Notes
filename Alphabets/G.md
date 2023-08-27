@@ -1,5 +1,9 @@
 G:"Gay"
-Geld :" Geld - Money ~"
+Geld :"
+Money 
+~
+Monica, gib ihm Geld. - Monica, give him cash.
+"
 Groß :" Big"
 Grüß :" good"
 Gehen :" go  "
