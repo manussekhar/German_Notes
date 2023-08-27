@@ -28,8 +28,22 @@ Fragen :"
 to ask
 Ich frage mich, ob Sie sich das fragen. - I wonder if you wonder.
 "
-Frühstück :" breakfast ~"
+Frühstück :"
+breakfast 
+~
+Danke fürs Frühstück. - Thanks for breakfast.
+"
 Französisch :"French ~"
-Frau :" woman -"
-Fahrad :" bycycle"
-Für:"For"
+Frau :"
+woman
+-
+Pass auf, Frau! - Watch it, lady!
+"
+fahrrad :"
+bycycle
+Mein erstes Fahrrad! - My first bike!
+"
+Für:"
+For
+Hör mal, ich bezahle keine 70 Smidgens für einen kaputten Defrakulator. - Look, I'm not paying 70 smidgens for a broken defraculator.
+"
