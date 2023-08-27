@@ -20,6 +20,12 @@ Hausnummer :"house number
 hübsch :"
 pretty
 Du siehst hübsch aus. - You look pretty."
-helfen :" help"
-handynumber:"cellphone number -"
-Haben:"to have"
+helfen :"
+help
+Anfangen, Leuten zu helfen. - Start helping people."
+handynumber:"cellphone number 
+-"
+Haben:"
+to have
+Kann Ich meinen später haben und vielleicht meinen Pudding jetzt haben und das später? - Can I have mine later and maybe have pudding now and have this later?
+"
