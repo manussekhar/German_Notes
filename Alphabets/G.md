@@ -2,7 +2,8 @@ G:"Gay"
 Geld :"
 Money 
 ~
-Monica, gib ihm Geld. - Monica, give him cash."
+Monica, gib ihm Geld. - Monica, give him cash.
+"
 Groß :"
 Big
 Es war recht groß. - It was quite large."
