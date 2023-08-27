@@ -10,9 +10,8 @@ Sie heißen Frauen. - They're called women."
 Hallo :"Hello"
 hören :"
 to hear
-Hören Sie, Joey. - Listen, Joey.
-"
-Herr :" gentleman +"
+Hören Sie, Joey. - Listen, Joey."
+Herr :"gentleman +"
 Hausnummer :" house number -"
 hübsch :" pretty"
 helfen :" help"
