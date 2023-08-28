@@ -35,6 +35,9 @@ Melden :"
 to report
 Ich sollte Sie melden. - I ought to report you.
 "
-machen :"to make"
+machen :"
+to make
+Chekov wollte mich zum Chief machen. - Mr Chekov was going to make me a chief.
+"
 mein:"my"
 
