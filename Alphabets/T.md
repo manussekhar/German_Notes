@@ -1,6 +1,14 @@
 T:"teh"
-Tisch:"Tish Table +"
-Teppich:"Carpet +"
+Tisch:"
+Table
++
+Unter dem Tisch. -Under the table.
+"
+Teppich:"
+Carpet
++
+Ich mag den Teppich.
+"
 Türkisch:"Turkish"
 Tschüs:"bye"
 Telefon:"Telephone ~"
