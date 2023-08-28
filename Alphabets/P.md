@@ -1,7 +1,18 @@
 P:"peh"
-Preis:"Price +"
+Preis:"Price
++
+"
 Person:"Person"
-Postleitzahl:"zip code -"
-Partner:"partner"
-Parnerin:"partner"
+Postleitzahl:"
+zip code
+-"
+Partner:"
+partner
++
+Einst waren wir Partner.
+"
+Parnerin:"
+partner
+-
+"
 Präsident:"President"
