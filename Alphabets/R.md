@@ -15,5 +15,4 @@ Travel guide
 +
 "
 raten, rät:"rat"
-Radschlah:"cartwheel"
 
