@@ -26,7 +26,10 @@ beautiful
 Oh, schön? - Oh, beautiful?
 "
 so weiter:"so on"
-Sagen:"to say"
+Sagen:"
+to say
+Sagen Sie bitte, Sie sind da, Hallo? - Please say you're there. hello?
+"
 Springen:"to jump"
 sammlen:"to collect"
 sein:"to be"
