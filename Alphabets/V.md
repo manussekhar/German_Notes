@@ -1,6 +1,6 @@
-V ; fow
-Voll ; foll  Full
-Viel ; Fiel  much
-Von  ; From
-vor ; before
-vorstellen ; to introduce
+V:"fow"
+Voll:"foll  Full"
+Viel:"Fiel  much"
+Von :"From"
+vor:"before"
+vorstellen:"to introduce"
