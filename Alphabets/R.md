@@ -1,7 +1,11 @@
-R ; err
-Rose  ; Rosay  -
-Rucksack ; backpack +
-Russich ; Russian
-Reiseführer ; Travel guide +
-raten, rät ; rat
-Radschlah ; cartwheel
+R:"err"
+Rose :"
+Rose
+-
+Eine blaue Rose. - Blue roses?
+"
+Rucksack:"backpack +"
+Russich:"Russian"
+Reiseführer:"Travel guide +"
+raten, rät:"rat"
+Radschlah:"cartwheel"
