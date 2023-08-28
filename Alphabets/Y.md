@@ -1,2 +1,4 @@
-Y ; yupsilon
-Yoga ;Yoga ~
+Y:"yupsilon"
+Yoga:"Yoga
+~
+"
