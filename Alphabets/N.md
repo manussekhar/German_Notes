@@ -17,7 +17,11 @@ nach:"
 after
 Nach dem Sturz im Klo... zeichnete ich das hier. - After I fell off my toilet I drew this.
 "
-Name:"Name -"
+Name:"
+Name
+-
+Sein Name ist Elliot Kupferburg. - His name is Elliot Kupferburg.
+"
 notieren:"to note"
 Neffe:"Nephew"
 Nehmen: to take"
