@@ -18,7 +18,10 @@ Power
 -
 Und Feuer ist Macht. - And fire is power.
 "
-Mich:"Me"
+Mich:"
+Me
+Sie wagen es, mich 'Hapooda' zu nennen? -  You dare to call me 'hapooda'?
+"
 Mit:"With"
 Mitte:"Middle -"
 Melden :"to report"
