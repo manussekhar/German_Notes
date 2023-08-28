@@ -23,7 +23,8 @@ Wir waren zusammen am Theater. -We worked in a few theatres together.
 "
 Zeitung:"
 News paper
-Lies die Zeitung. - Read the paper."
+Lies die Zeitung. - Read the paper.
+"
 Zahl:"
 number
 Wählen Sie eine Zahl! -Pick a number! 
