@@ -13,7 +13,10 @@ zuordnen:"
 to assign
 Können sie mich nicht etwas besserem zuordnen? -Can't you assign me something good?
 "
-zeigen:"show"
+zeigen:"
+show
+Zeigen Sie mir Ihre Prothesencreme. - Show me your denture cream.
+"
 zusammen:"together"
 Zeitung; News paper"
 Zahl;number"
