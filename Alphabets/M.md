@@ -13,7 +13,11 @@ Manchmal:"
 Sometimes
 Lügen kann manchmal richtig sein, richtig? - Lying is sometimes good, right?
 "
-Macht:"Power -"
+Macht:"
+Power
+-
+Und Feuer ist Macht. - And fire is power.
+"
 Mich:"Me"
 Mit:"With"
 Mitte:"Middle -"
