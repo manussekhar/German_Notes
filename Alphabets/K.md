@@ -21,4 +21,4 @@ klar:"
 clear
 Vollkommen klar. - Perfectly clear.
 "
-kennen learnen:" to get to know"
+kennen learnen:"to get to know"
