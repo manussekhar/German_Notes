@@ -41,5 +41,8 @@ sprechen:"
 to speak
 Lasst uns offen sprechen. - Let us speak truth here.
 "
-sie:"she"
+sie:"
+she
+Sie war auf der Suche nach Desmond. - She was looking fodesmond.
+"
 schreiben; to write"
