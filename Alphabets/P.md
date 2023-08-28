@@ -1,5 +1,5 @@
 P:"peh"
-Preis:"Preis = Price +"
+Preis:"Price +"
 Person:"Person"
 Postleitzahl:"zip code -"
 Partner:"partner"
