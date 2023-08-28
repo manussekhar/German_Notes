@@ -8,7 +8,11 @@ sun
 +
 Und wenn die Sonn' im Dunkel niederschwebt, - Even with the violent darkening of the sun
 "
-Spaß:"Spazz = Fun +"
+Spaß:"
+Fun
++
+Angeln kann Spaß machen. - Lake fishing can be fun.
+"
 stehen:"Steyn = stand"
 schon:"Already"
 schön:"beautiful"
