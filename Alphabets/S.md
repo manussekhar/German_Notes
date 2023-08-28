@@ -30,7 +30,10 @@ Sagen:"
 to say
 Sagen Sie bitte, Sie sind da, Hallo? - Please say you're there. hello?
 "
-Springen:"to jump"
+Springen:"
+to jump
+Wir springen alle. - We all jump.
+"
 sammlen:"to collect"
 sein:"to be"
 Sie:"you (formal)"
