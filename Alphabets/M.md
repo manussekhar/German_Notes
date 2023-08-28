@@ -26,7 +26,11 @@ Mit:"
 With
 Sinric, du kommst mit uns. - Sinric, you're coming with us.
 "
-Mitte:"Middle -"
+Mitte:"
+Middle
+-
+Hier in der Mitte. - Here in the middle.
+"
 Melden :"to report"
 machen :"to make"
 mein:"my"
