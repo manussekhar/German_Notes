@@ -9,7 +9,10 @@ More
 ~
 Wir haben gerade mehr als 100 Männer. - We have just over 100 men.
 "
-Manchmal:"Sometimes"
+Manchmal:"
+Sometimes
+Lügen kann manchmal richtig sein, richtig? - Lying is sometimes good, right?
+"
 Macht:"Power -"
 Mich:"Me"
 Mit:"With"
