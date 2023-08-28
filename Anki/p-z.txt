@@ -1,0 +1,215 @@
+P:"peh"
+Preis:"Price
++
+"
+Person:"Person"
+Postleitzahl:"
+zip code
+-"
+Partner:"
+partner
++
+Einst waren wir Partner.
+"
+Parnerin:"
+partner
+-
+"
+Präsident:"President"
+K:"kuh"
+Qualle:"Jellyfish
+-
+Musste eine Qualle essen. - Had to eat a jellyfish.
+"R:"err"
+Rose :"
+Rose
+-
+Eine blaue Rose. - Blue roses?
+"
+Rucksack:"
+backpack
++
+Was ist das da in deinem Rucksack? - What is this in your backpack?
+"
+Russich:"Russian"
+Reiseführer:"
+Travel guide
++
+"
+raten, rät:"rat"
+
+S:"ess"
+Sehr:"
+Very
+Sehr unwahrscheinlich. - Highly unlikely.
+"
+Sonn:"
+sun
++
+Und wenn die Sonn' im Dunkel niederschwebt, - Even with the violent darkening of the sun
+"
+Spaß:"
+Fun
++
+Angeln kann Spaß machen. - Lake fishing can be fun.
+"
+stehen:"
+stand
+Und bitte immer gerade stehen. - Stand up straight.
+"
+schon:"
+Already
+Ich bezahle schon Chessani. - I'm already paying Chessani.
+"
+schön:"
+beautiful
+Oh, schön? - Oh, beautiful?
+"
+so weiter:"so on"
+Sagen:"
+to say
+Sagen Sie bitte, Sie sind da, Hallo? - Please say you're there. hello?
+"
+Springen:"
+to jump
+Wir springen alle. - We all jump.
+"
+sammlen:"to collect"
+sein:"to be"
+Sie:"you (formal)"
+sprechen:"
+to speak
+Lasst uns offen sprechen. - Let us speak truth here.
+"
+sie:"
+she
+Sie war auf der Suche nach Desmond. - She was looking fodesmond.
+"
+schreiben:"
+to write
+Haben Sie es schreiben? - Did you write it?
+"
+T:"teh"
+Tisch:"
+Table
++
+Unter dem Tisch. -Under the table.
+"
+Teppich:"
+Carpet
++
+Ich mag den Teppich.
+"
+Türkisch:"Turkish"
+Tschüs:"bye"
+Telefon:"
+Telephone
+~
+"
+treffen:"
+to meet
+Er könnte dem Treffen nicht zustimmen. - He may not agree to meet.
+"U:"uh"
+Uhr:"
+Clock
+-
+Starten Sie die Uhr. - Start the clock.
+"
+Uns:"Our"
+Ungarisch:"Hungarian"
+und:"and"
+Um:"at"
+V:"fow"
+Voll:"
+Full
+Das Glas ist voll, Liebe! - The glass is full, dear!
+"
+Viel:"
+much
+Nicht viel, Mann, ich arbeite mit Heath. - Not much, man, I work with Heath.
+"
+Von :"
+From
+Die große Bertha von der Staatsanwaltschaft? -  Big Bertha from the D.A.'s office?
+"
+vor:"
+before
+Sie haben sich vor Ava mit Mariga getroffen. - You met with Mariga before Ava did.
+"
+vorstellen:"
+to introduce
+Möchte sich jemand vorstellen?
+"
+W:"weh"
+Wort:"Words
+~
+Wörter(pl)
+"
+Wein:"wine
++
+"
+Wir:"We"
+Wohnzimmer:"
+living room
+~
+"
+Wohn:"living"
+wie:"how"
+Wohnen:"to Live"
+warten:"to wait"
+Walzer:"waltz (dance in Titanic)"
+Würstchen:"sausage"
+Würstel:"sausage"
+wer:"who"
+wie:"how"
+wie gehts:"how is it going"
+welche:"which"
+welches:"which"
+wo:"where"
+woher:"from where"
+Webseite:"
+website
+-
+"
+wissen:"to know"
+X:"iks"
+Xylophon:"
+iksilophone
+~
+"
+Y:"yupsilon"
+Yoga:"Yoga
+~
+"
+Z:"tset"
+Zeit:"
+time
+-
+Nach kurzer Zeit musste Pablo seine Autos durch Lastwagen ersetzen. - And in no time, Pablo had to replace his cars with trucks.
+"
+Zu:"to"
+Zimmer:"
+room
+~
+"
+zuordnen:"
+to assign
+Können sie mich nicht etwas besserem zuordnen? -Can't you assign me something good?
+"
+zeigen:"
+show
+Zeigen Sie mir Ihre Prothesencreme. - Show me your denture cream.
+"
+zusammen:"
+together
+Wir waren zusammen am Theater. -We worked in a few theatres together.
+"
+Zeitung:"
+News paper
+Lies die Zeitung. - Read the paper.
+"
+Zahl:"
+number
+Wählen Sie eine Zahl! -Pick a number! 
+"
+
