@@ -15,4 +15,7 @@ vor:"
 before
 Sie haben sich vor Ava mit Mariga getroffen. - You met with Mariga before Ava did.
 "
-vorstellen:"to introduce"
+vorstellen:"
+to introduce
+Möchte sich jemand vorstellen?
+"
