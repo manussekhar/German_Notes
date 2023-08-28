@@ -31,7 +31,10 @@ Middle
 -
 Hier in der Mitte. - Here in the middle.
 "
-Melden :"to report"
+Melden :"
+to report
+Ich sollte Sie melden. - I ought to report you.
+"
 machen :"to make"
 mein:"my"
 
