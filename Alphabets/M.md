@@ -39,5 +39,8 @@ machen :"
 to make
 Chekov wollte mich zum Chief machen. - Mr Chekov was going to make me a chief.
 "
-mein:"my"
+mein:"
+my
+Michael Bugulari, mein Anwalt. - Michael Bugulari, my attorney.
+"
 
