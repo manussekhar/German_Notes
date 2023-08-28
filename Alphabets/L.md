@@ -1,5 +1,5 @@
 L :"el"
-Löwe :Lion
+Löwe :"Lion
 +
 "
 liegen :"
