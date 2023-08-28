@@ -22,6 +22,9 @@ Name
 -
 Sein Name ist Elliot Kupferburg. - His name is Elliot Kupferburg.
 "
-notieren:"to note"
+notieren:"
+to note
+Notieren Sie, Mitchell. - Make a note of that, Mitchell.
+"
 Neffe:"Nephew"
 Nehmen: to take"
