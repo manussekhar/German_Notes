@@ -13,7 +13,10 @@ Fun
 +
 Angeln kann Spaß machen. - Lake fishing can be fun.
 "
-stehen:"Steyn = stand"
+stehen:"
+stand
+Und bitte immer gerade stehen. - Stand up straight.
+"
 schon:"Already"
 schön:"beautiful"
 so weiter:"so on"
