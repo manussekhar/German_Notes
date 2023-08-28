@@ -21,7 +21,10 @@ schon:"
 Already
 Ich bezahle schon Chessani. - I'm already paying Chessani.
 "
-schön:"beautiful"
+schön:"
+beautiful
+Oh, schön? - Oh, beautiful?
+"
 so weiter:"so on"
 Sagen:"to say"
 Springen:"to jump"
