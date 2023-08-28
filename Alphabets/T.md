@@ -11,5 +11,11 @@ Ich mag den Teppich.
 "
 Türkisch:"Turkish"
 Tschüs:"bye"
-Telefon:"Telephone ~"
-treffen:"to meet"
+Telefon:"
+Telephone
+~
+"
+treffen:"
+to meet
+Er könnte dem Treffen nicht zustimmen. - He may not agree to meet.
+"
