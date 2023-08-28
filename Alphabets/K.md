@@ -1,13 +1,16 @@
-K ; kah
-Katze ; Katze - Female Cat {-}
-Kuli ; Pen +
-Kommen ; to come
-Kaufen ; to buy
-Kommen ; to come
-Kranke ; sick person
-kennen ; to know
-Kollegin ; Colleague -
-knochen ; bone +
-klar;clear
-kennen learnen; to get to know
-
+K :"kah"
+Katze :"Female Cat"
+Kuli :"
+Pen
++
+Hier ist lhr Kuli. - Here's your pen.
+"
+Kommen :" to come"
+Kaufen :" to buy"
+Kommen :" to come"
+Kranke :" sick person"
+kennen :" to know"
+Kollegin :" Colleague -"
+knochen :" bone +"
+klar:"clear"
+kennen learnen:" to get to know"
