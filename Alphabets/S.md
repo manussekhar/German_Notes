@@ -45,4 +45,7 @@ sie:"
 she
 Sie war auf der Suche nach Desmond. - She was looking fodesmond.
 "
-schreiben; to write"
+schreiben:"
+to write
+Haben Sie es schreiben? - Did you write it?
+"
