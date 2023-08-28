@@ -11,5 +11,8 @@ Von :"
 From
 Die große Bertha von der Staatsanwaltschaft? -  Big Bertha from the D.A.'s office?
 "
-vor:"before"
+vor:"
+before
+Sie haben sich vor Ava mit Mariga getroffen. - You met with Mariga before Ava did.
+"
 vorstellen:"to introduce"
