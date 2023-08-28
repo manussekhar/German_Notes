@@ -26,8 +26,8 @@ notieren:"
 to note
 Notieren Sie, Mitchell. - Make a note of that, Mitchell.
 "
-Neffe:"Nephew"
+Neffe:Nephew
 Nehmen: "
 to take
-Könnte ich Rachel nehmen? -Could I take Rachel?
+Könnte ich Rachel nehmen? - Could I take Rachel?
 "
