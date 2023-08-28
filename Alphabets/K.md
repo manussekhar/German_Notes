@@ -5,9 +5,8 @@ Pen
 +
 Hier ist lhr Kuli. - Here's your pen.
 "
-Kommen :" to come"
+Kommen :"to come"
 Kaufen :" to buy"
-Kommen :" to come"
 Kranke :" sick person"
 kennen :" to know"
 Kollegin :" Colleague -"
