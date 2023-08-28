@@ -27,4 +27,7 @@ to note
 Notieren Sie, Mitchell. - Make a note of that, Mitchell.
 "
 Neffe:"Nephew"
-Nehmen: to take"
+Nehmen: "
+to take
+Könnte ich Rachel nehmen? -Could I take Rachel?
+"
