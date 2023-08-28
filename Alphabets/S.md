@@ -17,7 +17,10 @@ stehen:"
 stand
 Und bitte immer gerade stehen. - Stand up straight.
 "
-schon:"Already"
+schon:"
+Already
+Ich bezahle schon Chessani. - I'm already paying Chessani.
+"
 schön:"beautiful"
 so weiter:"so on"
 Sagen:"to say"
