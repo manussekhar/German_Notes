@@ -13,7 +13,10 @@ neben:"
 Next to
 Setz dich neben mich. - Sit next to me.
 "
-nach:"after"
+nach:"
+after
+Nach dem Sturz im Klo... zeichnete ich das hier. - After I fell off my toilet I drew this.
+"
 Name:"Name -"
 notieren:"to note"
 Neffe:"Nephew"
