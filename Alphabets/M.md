@@ -22,7 +22,10 @@ Mich:"
 Me
 Sie wagen es, mich 'Hapooda' zu nennen? -  You dare to call me 'hapooda'?
 "
-Mit:"With"
+Mit:"
+With
+Sinric, du kommst mit uns. - Sinric, you're coming with us.
+"
 Mitte:"Middle -"
 Melden :"to report"
 machen :"to make"
