@@ -1,2 +1,5 @@
-X ; iks
-Xylophon ; iksilophone  ~
+X:"iks"
+Xylophon:"
+iksilophone
+~
+"
