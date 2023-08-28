@@ -10,5 +10,5 @@ laut:"loud"
 lieben:"to love"
 leben:"
 life
-Das Leben ist schwer.
+Das Leben ist schwer - Living's hard..
 "
