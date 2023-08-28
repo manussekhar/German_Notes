@@ -37,6 +37,9 @@ Wir springen alle. - We all jump.
 sammlen:"to collect"
 sein:"to be"
 Sie:"you (formal)"
-sprechen:"to speak"
+sprechen:"
+to speak
+Lasst uns offen sprechen. - Let us speak truth here.
+"
 sie:"she"
 schreiben; to write"
