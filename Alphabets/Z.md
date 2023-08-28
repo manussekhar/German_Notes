@@ -17,7 +17,10 @@ zeigen:"
 show
 Zeigen Sie mir Ihre Prothesencreme. - Show me your denture cream.
 "
-zusammen:"together"
+zusammen:"
+together
+Wir waren zusammen am Theater. -We worked in a few theatres together.
+"
 Zeitung; News paper"
 Zahl;number"
 "
