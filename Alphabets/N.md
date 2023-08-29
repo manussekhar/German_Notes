@@ -31,3 +31,7 @@ Nehmen:"
 to take
 Könnte ich Rachel nehmen? - Could I take Rachel?
 "
+noch einmal:"
+once more
+Nicht noch einmal. - Not again.
+"
