@@ -23,3 +23,4 @@ Tabelle:"
 table
 -
 "
+Türkei:"Turkey"
