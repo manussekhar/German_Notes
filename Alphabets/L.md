@@ -13,3 +13,7 @@ leben:"
 life
 Das Leben ist schwer - Living's hard..
 "
+langsam:"
+slow
+Er war nur langsam. - He was slow.
+"
