@@ -8,3 +8,7 @@ Uns:"Our"
 Ungarisch:"Hungarian"
 und:"and"
 Um:"at"
+USA:"
+USA
+-
+"
