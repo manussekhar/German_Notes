@@ -22,3 +22,7 @@ Möchte sich jemand vorstellen?
 variieren:"
 Ihre Statue kann variieren. - Your statue may vary.
 "
+verstehen:"
+understand
+Verstehen Sie das, Mellish? - Do you understand that, Mellish?
+"
