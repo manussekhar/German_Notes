@@ -20,3 +20,7 @@ Tabelle:"
 table
 -
 "
+USA:"
+USA
+-
+"
