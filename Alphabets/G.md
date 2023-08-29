@@ -32,3 +32,4 @@ Gegen:"
 against
 Ich werde gegen meinen Willen festgehalten. - I'being held against my will.
 "
+Großbritannien:"Great Britain"
