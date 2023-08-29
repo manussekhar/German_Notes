@@ -19,3 +19,7 @@ treffen:"
 to meet
 Er könnte dem Treffen nicht zustimmen. - He may not agree to meet.
 "
+Tabelle:"
+table
+-
+"
