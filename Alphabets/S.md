@@ -51,3 +51,4 @@ Haben Sie es schreiben? - Did you write it?
 "
 Schweiz:"Switzerland"
 Spanien:"Spain"
+Sprache:"language"
