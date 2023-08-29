@@ -17,4 +17,4 @@ langsam:"
 slow
 Er war nur langsam. - He was slow.
 "
-
+lernen:"to learn"
