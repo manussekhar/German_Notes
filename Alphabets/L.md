@@ -21,3 +21,7 @@ lernen:"
 to learn
 Ich musste lernen. - I had to learn.
 "
+Land, Länder:"
+land
+~
+"
