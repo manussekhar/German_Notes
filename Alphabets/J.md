@@ -8,6 +8,6 @@ Now
 Jetzt zurück zu Tom Hitchinson.- Now back to Tom Hitchingson.
 "
 Jahres :"year"
-Japanisch :" Japanese"
+Japanisch :"Japanese"
 Japan:"Japan"
 das Land, Länder:"land"
