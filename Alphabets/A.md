@@ -40,3 +40,4 @@ Ich hatte ein Affe. - I had a monkey.
 "
 Alphabet:"Alphabet ~"
 anrufen:"to call - Sie anrufen. - Calling her"
+Arabisch:"Arabic"
