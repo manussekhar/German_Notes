@@ -49,3 +49,4 @@ schreiben:"
 to write
 Haben Sie es schreiben? - Did you write it?
 "
+Schweiz:"Switzerland"
