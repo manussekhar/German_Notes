@@ -15,4 +15,5 @@ Travel guide
 +
 "
 raten, rät:"rat"
+Rätoromanisch:"Romansh"
 
