@@ -30,3 +30,6 @@ website
 -
 "
 wissen:"to know"
+Wie bitte:"
+Come again?
+"
