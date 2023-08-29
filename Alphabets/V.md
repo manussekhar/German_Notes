@@ -19,3 +19,6 @@ vorstellen:"
 to introduce
 Möchte sich jemand vorstellen?
 "
+variieren:"
+Ihre Statue kann variieren. - Your statue may vary.
+"
