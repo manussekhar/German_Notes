@@ -25,3 +25,4 @@ Land, Länder:"
 land
 ~
 "
+Leute:"people"
