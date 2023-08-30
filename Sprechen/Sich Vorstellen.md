@@ -1,5 +1,5 @@
 Introduce yourself
-1.  Name: Ich heiße 
+1.  Name: Ich heiße Manu Somase
 2. Age:
 3. Profession:
 4. Comes from:
