@@ -1,5 +1,5 @@
 Introduce yourself
-1.  Name: Ich hei·
+1.  Name: Ich heiße
 2. Age:
 3. Profession:
 4. Comes from:
