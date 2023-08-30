@@ -52,3 +52,7 @@ Haben Sie es schreiben? - Did you write it?
 Schweiz:"Switzerland"
 Spanien:"Spain"
 Sprache:"language"
+Schweden:"
+Sweden
+So wie die stolzen Schweden. -  As would the proud people of Sweden.
+"
