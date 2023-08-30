@@ -56,3 +56,4 @@ Schweden:"
 Sweden
 So wie die stolzen Schweden. -  As would the proud people of Sweden.
 "
+Schwedisch:"Swedish"
