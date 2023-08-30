@@ -65,3 +65,8 @@ Stadt:"
 city
 -
 "
+so:"
+this
+Reist du auch so gern? - Do you also like traveling this
+much?
+"
