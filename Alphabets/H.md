@@ -36,3 +36,6 @@ Haben:"
 to have
 Kann Ich meinen später haben und vielleicht meinen Pudding jetzt haben und das später? - Can I have mine later and maybe have pudding now and have this later?
 "
+Hobby:"
+hobby
+~"
