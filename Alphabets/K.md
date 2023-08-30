@@ -28,3 +28,4 @@ movie theater
 ~
 "
 kochen:"cook"
+Kurs:"course"
