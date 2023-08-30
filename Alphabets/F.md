@@ -49,3 +49,7 @@ Hör mal, ich bezahle keine 70 Smidgens für einen kaputten Defrakulator. - Look
 "
 Frankreich:"France"
 fotografieren:"to photograph"
+Fotoalbum:"
+photo album
+~
+"
