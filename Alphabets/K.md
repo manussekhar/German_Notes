@@ -27,3 +27,4 @@ Kino:"
 movie theater
 ~
 "
+kochen:"cook"
