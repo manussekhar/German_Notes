@@ -48,3 +48,4 @@ For
 Hör mal, ich bezahle keine 70 Smidgens für einen kaputten Defrakulator. - Look, I'm not paying 70 smidgens for a broken defraculator.
 "
 Frankreich:"France"
+fotografieren:"to photograph"
