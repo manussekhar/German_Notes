@@ -1,4 +1,0 @@
-Pronunciation - oyy
-Eröffnung - Erryoffnung - Opening
-Shön - Shyoon - beautiful
-
