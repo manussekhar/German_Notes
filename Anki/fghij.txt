@@ -46,7 +46,22 @@ Mein erstes Fahrrad! - My first bike!
 Für:"
 For
 Hör mal, ich bezahle keine 70 Smidgens für einen kaputten Defrakulator. - Look, I'm not paying 70 smidgens for a broken defraculator.
-"G:"Gay"
+"
+Frankreich:"France"
+fotografieren:"to photograph"
+Fotoalbum:"
+photo album
+~
+"
+Fußball:"
+soccer ball
++
+"
+Foto:"
+photo
+~
+"
+G:"Gay"
 Geld :"
 Money 
 ~
@@ -79,6 +94,14 @@ Guten Tag :" good day"
 Gegen:"
 against
 Ich werde gegen meinen Willen festgehalten. - I'being held against my will.
+"
+Großbritannien:"Great Britain"
+Griechenland:"Greece"
+Griechisch:"Greek"
+gehen:"to go"
+gern:"
+like to
+Hörst du gern Musik? - Do you like to listen to music?
 "
 H:"haa"
 Haus :"
@@ -117,7 +140,10 @@ handynumber:"cellphone number
 Haben:"
 to have
 Kann Ich meinen später haben und vielleicht meinen Pudding jetzt haben und das später? - Can I have mine later and maybe have pudding now and have this later?
-"I:"ee"
+"
+Hobby:"
+hobby
+~"I:"ee"
 Insel :"Island
 -
 Auch eine Insel. - Also an island.
@@ -128,8 +154,12 @@ Italienisch :" Italian"
 ich :" I"
 ihnen :"you"
 in :" in"
-interview :"interview ~
+interview :"interview
+~
 "
+Irland:"Ireland"
+
+
 J:"yot"
 Jacke :"
 Jacket
@@ -140,5 +170,7 @@ Now
 Jetzt zurück zu Tom Hitchinson.- Now back to Tom Hitchingson.
 "
 Jahres :"year"
-Japanisch :" Japanese"
-
+Japanisch :"Japanese"
+Japan:"Japan"
+joggen:"to jog"
+ja:"Yes"

@@ -16,7 +16,10 @@ partner
 -
 "
 Präsident:"President"
-K:"kuh"
+Polen:"Poland"
+Polnish:"Polish"
+Portugal:"Portugal"
+Portugiesisch:"Portugese"K:"kuh"
 Qualle:"Jellyfish
 -
 Musste eine Qualle essen. - Had to eat a jellyfish.
@@ -37,7 +40,12 @@ Travel guide
 +
 "
 raten, rät:"rat"
-
+Rätoromanisch:"Romansh"
+Russland:"Russia"
+reisen:"
+to travel
+Du kannst in der Zeit reisen. - You can travel in time.
+"
 S:"ess"
 Sehr:"
 Very
@@ -89,6 +97,28 @@ schreiben:"
 to write
 Haben Sie es schreiben? - Did you write it?
 "
+Schweiz:"Switzerland"
+Spanien:"Spain"
+Sprache:"language"
+Schweden:"
+Sweden
+So wie die stolzen Schweden. -  As would the proud people of Sweden.
+"
+Schwedisch:"Swedish"
+Syrien:"Syria"
+schwimmen:"
+to swim
+"
+Stadt:"
+city
+-
+"
+so:"
+this
+Reist du auch so gern? - Do you also like traveling this
+much?
+"
+spielen:"to play"
 T:"teh"
 Tisch:"
 Table
@@ -109,7 +139,15 @@ Telephone
 treffen:"
 to meet
 Er könnte dem Treffen nicht zustimmen. - He may not agree to meet.
-"U:"uh"
+"
+Tabelle:"
+table
+-
+"
+Türkei:"Turkey"
+Thai:"Thai"
+Thailand:"Thailand"
+tanzen:"to dance"U:"uh"
 Uhr:"
 Clock
 -
@@ -119,7 +157,11 @@ Uns:"Our"
 Ungarisch:"Hungarian"
 und:"and"
 Um:"at"
-V:"fow"
+USA:"
+USA
+-
+"
+Ukraine:"Ukraine"V:"fow"
 Voll:"
 Full
 Das Glas ist voll, Liebe! - The glass is full, dear!
@@ -140,7 +182,13 @@ vorstellen:"
 to introduce
 Möchte sich jemand vorstellen?
 "
-W:"weh"
+variieren:"
+Ihre Statue kann variieren. - Your statue may vary.
+"
+verstehen:"
+understand
+Verstehen Sie das, Mellish? - Do you understand that, Mellish?
+"W:"weh"
 Wort:"Words
 ~
 Wörter(pl)
@@ -172,12 +220,19 @@ website
 -
 "
 wissen:"to know"
+Wie bitte:"
+Come again?
+"
+was:"What"
 X:"iks"
 Xylophon:"
 iksilophone
 ~
 "
-Y:"yupsilon"
+Wochenende:"
+weekend
+~
+"Y:"yupsilon"
 Yoga:"Yoga
 ~
 "

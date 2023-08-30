@@ -22,7 +22,13 @@ clear
 Vollkommen klar. - Perfectly clear.
 "
 kennen learnen:"to get to know"
-L :"el"
+Kanada:"Canada"
+Kino:"
+movie theater
+~
+"
+kochen:"cook"
+Kurs:"course"L :"el"
 Löwe :"
 Lion
 +
@@ -37,7 +43,25 @@ leben:"
 life
 Das Leben ist schwer - Living's hard..
 "
-M:"em"
+langsam:"
+slow
+Er war nur langsam. - He was slow.
+"
+lernen:"
+to learn
+Ich musste lernen. - I had to learn.
+"
+Land, Länder:"
+land
+~
+"
+Leute:"
+people
+-
+Spartacus sieht es nicht gerne, wenn seine Leute Geld besitzen. - Spartacus does not favor his people holding coin.
+"
+lesen:"to read"
+lustig:"Funny"M:"em"
 Maus:"
 Mouse
 -
@@ -82,7 +106,12 @@ mein:"
 my
 Michael Bugulari, mein Anwalt. - Michael Bugulari, my attorney.
 "
-
+Maori:"Maori"
+Mexiko:"Mexico"
+Musik:"
+Music
+-
+"
 N:"en"
 Nacht:"
 Night
@@ -116,6 +145,12 @@ Nehmen:"
 to take
 Könnte ich Rachel nehmen? - Could I take Rachel?
 "
+noch einmal:"
+once more
+Nicht noch einmal. - Not again.
+"
+Neuseeland:"New Zealand"
+nein:"No"
 O:"oh"
 Orange:"
 Orange color
@@ -133,3 +168,5 @@ Ohne:"
 without
 Es fühlt sich,... es fühlt sich so groß an, ohne ihn. -It feels, uh... feels big without him.
 "
+Österreich:"Austria"
+

@@ -40,7 +40,11 @@ Ich hatte ein Affe. - I had a monkey.
 "
 Alphabet:"Alphabet ~"
 anrufen:"to call - Sie anrufen. - Calling her"
-B:"beh"
+Arabisch:"Arabic"
+ankreuzen:"
+tick
+Es gibt 12 Fragen und 12 Kästchen zum Ankreuzen. - There are 12 questions and 12 boxes to tick.
+"B:"beh"
 Buch :"
 Book
 ~
@@ -112,13 +116,15 @@ Bis:"
 still / upto
 Es ist bis zu Ihnen. - It's up to you.
 "
-C:tseh
+beliebt:"popular"C:tseh
 Chef :"
 Boss
 +
 Mein Chef. - My boss.
 "
-
+China:"China"
+Chinesisch:"Chinese"
+chatten:"to chat"
 D:"deh"
 Deutsch :"German"
 Deutschland :" Germany [No article for places]"
