@@ -26,3 +26,4 @@ table
 Türkei:"Turkey"
 Thai:"Thai"
 Thailand:"Thailand"
+tanzen:"to dance"
