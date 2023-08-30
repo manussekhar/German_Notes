@@ -33,4 +33,4 @@ wissen:"to know"
 Wie bitte:"
 Come again?
 "
-was:"WHat"
+was:"What"
