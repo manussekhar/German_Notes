@@ -5,4 +5,5 @@ Introduce yourself
 4. Comes from:
 5. Lives in:
 6. languages:
-7. hobbies
+7. hobbies:
+8. 
