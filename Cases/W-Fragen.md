@@ -14,6 +14,6 @@ warum;why
 woher;From where
 Wohin;to where
 
-What do you eat -> (casual + formal) -> Was isst du
+What do you eat -> (casual + formal) -> Was isst du / Was essen Sie()
 Where do you live ->
 What is your favorite film ->
