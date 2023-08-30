@@ -36,3 +36,7 @@ Großbritannien:"Great Britain"
 Griechenland:"Greece"
 Griechisch:"Greek"
 gehen:"to go"
+gern:"
+like to
+Hörst du gern Musik? - Do you like to listen to music?
+"
