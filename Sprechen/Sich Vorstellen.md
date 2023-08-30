@@ -1,7 +1,7 @@
 Introduce yourself
 1.  Name: Ich heiße Manu Somasekhar
 2. Age: Ich bin vier­und­dreißig jahre alt
-3. Profession:
+3. Profession: 
 4. Comes from:
 5. Lives in:
 6. languages:
