@@ -70,3 +70,4 @@ Bis:"
 still / upto
 Es ist bis zu Ihnen. - It's up to you.
 "
+beliebt:"popular"
