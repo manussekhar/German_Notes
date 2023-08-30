@@ -27,5 +27,6 @@ land
 "
 Leute:"
 people
+-
 Spartacus sieht es nicht gerne, wenn seine Leute Geld besitzen. - Spartacus does not favor his people holding coin.
 "
