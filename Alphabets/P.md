@@ -18,3 +18,4 @@ partner
 Präsident:"President"
 Polen:"Poland"
 Polnish:"Polish"
+Portugal:"Portugal"
