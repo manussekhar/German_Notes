@@ -61,3 +61,7 @@ Syrien:"Syria"
 schwimmen:"
 to swim
 "
+Stadt:"
+city
+-
+"
