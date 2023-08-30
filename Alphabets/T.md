@@ -24,3 +24,4 @@ table
 -
 "
 Türkei:"Turkey"
+Thai:"Thai"
