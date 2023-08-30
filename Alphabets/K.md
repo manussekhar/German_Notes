@@ -22,3 +22,4 @@ clear
 Vollkommen klar. - Perfectly clear.
 "
 kennen learnen:"to get to know"
+Kanada:"Canada"
