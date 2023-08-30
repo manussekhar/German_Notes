@@ -17,4 +17,7 @@ Travel guide
 raten, rät:"rat"
 Rätoromanisch:"Romansh"
 Russland:"Russia"
-
+reisen:"
+to travel
+Du kannst in der Zeit reisen. - You can travel in time.
+"
