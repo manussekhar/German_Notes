@@ -12,6 +12,4 @@ USA:"
 USA
 -
 "
-Ukraine:"
-Ukraine
-"
+Ukraine:"Ukraine"
