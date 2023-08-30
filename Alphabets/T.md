@@ -25,3 +25,4 @@ table
 "
 Türkei:"Turkey"
 Thai:"Thai"
+Thailand:"Thailand"
