@@ -41,4 +41,7 @@ Ich hatte ein Affe. - I had a monkey.
 Alphabet:"Alphabet ~"
 anrufen:"to call - Sie anrufen. - Calling her"
 Arabisch:"Arabic"
-ankreuzen:"tick"
+ankreuzen:"
+tick
+Es gibt 12 Fragen und 12 Kästchen zum Ankreuzen. - There are 12 questions and 12 boxes to tick.
+"
