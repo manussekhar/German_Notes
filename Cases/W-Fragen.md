@@ -2,10 +2,6 @@ W - element + V + Subject + object
 or
 W- elemet + S+O+V ????
 
-
-
-
-
 Was;what
 Wie;how
 Wo;Where
