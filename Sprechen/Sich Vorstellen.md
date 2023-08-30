@@ -4,6 +4,6 @@ Introduce yourself
 3. Profession: Ich arbeite als Softwareentwickler
 4. Comes from: Ich komme aus Kerala
 5. Lives in: Ich wohne in Pathanamthitta
-6. languages: Ich spreche Enli
+6. languages: Ich spreche Enl
 7. hobbies:
 8. Conclusion
