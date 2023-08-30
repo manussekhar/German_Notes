@@ -6,4 +6,4 @@ Introduce yourself
 5. Lives in:
 6. languages:
 7. hobbies:
-8. Con
+8. Conclusion
