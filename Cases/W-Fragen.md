@@ -15,5 +15,5 @@ woher;From where
 Wohin;to where
 
 What do you eat -> (casual + formal) -> Was isst du / Was essen Sie(????)
-Where do you live ->
+Where do you live -> Wo
 What is your favorite film ->
