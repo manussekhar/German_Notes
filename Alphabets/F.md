@@ -57,3 +57,7 @@ Fußball:"
 soccer ball
 +
 "
+Foto:"
+photo
+~
+"
