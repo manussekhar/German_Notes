@@ -53,3 +53,7 @@ Fotoalbum:"
 photo album
 ~
 "
+Fußball:"
+soccer ball
++
+"
