@@ -11,4 +11,4 @@ Jahres :"year"
 Japanisch :"Japanese"
 Japan:"Japan"
 joggen:"to jog"
-
+ja:"Yes"
