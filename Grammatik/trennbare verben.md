@@ -12,5 +12,5 @@ I come along with you - Ich komme dich mit
 Aufstehen - getup
 Ich stehe um 7 uhr auf
 Du stehst um 7 uhr auf
-Aufheuren - to stop
+Aufhören - to stop
 
