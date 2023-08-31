@@ -9,4 +9,4 @@ du trinkst wasser bitte -> **trink** wasser bitte !
 ihr trinkt wasser bitte -> **trinkt** wasser bitte !
 Sie trinken wasser bitte -> trinken Sie wasser bitte !
 
-You have pati
+You have patience
