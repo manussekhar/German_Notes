@@ -1,1 +1,1 @@
-separab
+separable verb
