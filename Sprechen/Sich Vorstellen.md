@@ -8,5 +8,5 @@ Introduce yourself
 7. hobbies: Meine Hobbys sind Lesen und Kochen.
 8. Conclusion:  Das ist alles über mich. Vielen danke.
 
-Was ist ihre Name ? Meine name ist Manu Somasekhar
+Was ist ihre Name ? Meine name ist Manu Somasekhar / Ich
 
