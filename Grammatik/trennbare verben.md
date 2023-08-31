@@ -10,6 +10,6 @@ Einladen - to invite
 I come along with you - Ich komme dich mit
 
 Auffstehen - getup
-Ich stehe um 7 uhr auff
-Du stehst um 7 uhr auff
+Ich stehe um 7 uhr auf
+Du stehst um 7 uhr auf
 
