@@ -6,3 +6,4 @@ Ich möchte ein Buch lesen.
 Bitte geben sie mir einem Buch.
 
 Ja gerne / Nein
+
