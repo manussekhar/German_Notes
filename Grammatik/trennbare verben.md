@@ -18,6 +18,7 @@ Einladen - to invite
 abholen - to pickup
 anfängen - to start
 mitbringen - to bring along
-mitkommen - come along
+mitkommen - to come along
+
 
 
