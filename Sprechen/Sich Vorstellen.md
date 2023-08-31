@@ -21,8 +21,8 @@ Woher kommst du ? Ich komme aus Kerala
 Woher kommt ihr? Ich komme aus Kerala
 wo wohnst du ? Ich wohne in Pathanamthitta
 wo wohne ihr ? Ich wohne in Pathanamthitta
-welche Sprache sprichst du ?
-Welche Sprache sprechen ihr ?
+welche Sprache sprichst du ? Ich spreche Malayalam, Englisch und ein bisschen Deutch.
+Welche Sprache sprechen ihr ? Ich spreche Malayalam, Englisch und ein bisschen Deutch.
 was sind deine Hobbys ?
 was sind ihre Hobbys?
 
