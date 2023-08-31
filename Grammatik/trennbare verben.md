@@ -32,7 +32,7 @@ Wann sthen sie auf ?
 
 *Ja / Nein + Trenbare*
 Suffix + S + O + prefix
-
+Do you
 
 
 
