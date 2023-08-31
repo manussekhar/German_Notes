@@ -11,3 +11,5 @@ I come along with you - Ich komme dich mit
 
 Aufstehen - getup
 Ich stehe um 7 uhr auf
+
+
