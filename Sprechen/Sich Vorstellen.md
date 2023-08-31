@@ -13,6 +13,7 @@ Wie heißen sie ? Ich heiße Manu Somasekhar
 Was ist deine Name ?
 wer bist du ?
 wer ihre Sie?
+Wie alt bist du ?
 
 
 
