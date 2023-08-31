@@ -17,6 +17,6 @@ Aufhören - to stop
 Einladen - to invite
 abholen - to pickup
 anfangen - to start
-mitbringen - to bri
+mitbringen - to bring along
 
 
