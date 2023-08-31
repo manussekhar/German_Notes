@@ -28,7 +28,7 @@ anrufen - to call
 W-Element + suffix + subject + object + prefix
 When do you wake up ?
 Wann stahest du auf ?
-Wann sthen sie
+Wann sthen sie auf 
 
 
 
