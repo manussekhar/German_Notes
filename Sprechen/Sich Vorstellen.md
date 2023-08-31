@@ -17,8 +17,8 @@ Wie alt bist du ? Ich bin vier­und­dreißig jahre alt
 Wie alt ihre Sie? Ich bin vier­und­dreißig jahre alt
 Was ist Ihr Beruf? Ich arbeite als Softwareingenieur.
 Was ist dein Beruf? Ich arbeite als Softwareingenieur.
-Woher kommst du ?
-Woher kommt ihr?
+Woher kommst du ? Ich komme aus Kerala
+Woher kommt ihr? Ich komme aus Kerala
 wo wohnst du ? 
 welche Sprache sprichst du ?
 Welche Sprache sprechen ihr ?
