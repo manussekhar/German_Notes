@@ -1,2 +1,2 @@
 separable verbs
-Mitkommen
+Mitkommen - come al
