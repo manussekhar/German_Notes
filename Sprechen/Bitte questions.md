@@ -3,6 +3,6 @@ bitte geben sie mir + topic
 
 Book 
 Ich möchte ein Buch lesen.
-Bitte geben mir einem Buch.
+Bitte geben sie mir einem Buch.
 
 Ja gerne 
