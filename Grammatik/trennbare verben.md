@@ -31,7 +31,7 @@ Wann stahest du auf ?
 Wann sthen sie auf ?
 
 *Ja / Nein + Trenbare*
-Suffix
+Suffix + 
 
 
 
