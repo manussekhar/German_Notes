@@ -26,7 +26,8 @@ anrufen - to call
 *W-Frage + Trennbare Verben*
 
 W-Element + suffix + subject + object + prefix
-When do you wake up
+When do you wake up ?
+
 
 
 
