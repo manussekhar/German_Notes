@@ -5,4 +5,4 @@ aufordenum - order
 
 du, ihr, Sie
 
-du trikst wasser
+du trikst wasser bitte
