@@ -5,4 +5,4 @@ aufordenum - order
 
 du, ihr, Sie
 
-You please drinkdu trikst wasser bitte
+You please drink water -> du trikst wasser bitte
