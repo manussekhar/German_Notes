@@ -44,7 +44,7 @@ Stehen Sie um 7 uhr auf ?
 W-Frage + MV + S + O + TV
 When do you want to wake up ?
 Wann willst du aufstehen ?
-Wann woll
+Wann wollen Sie
 
 
 
