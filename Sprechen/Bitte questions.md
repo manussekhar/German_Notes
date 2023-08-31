@@ -1,2 +1,2 @@
 Ich möchte + topic + verb
-bitte geben sie
+bitte geben sie mir 
