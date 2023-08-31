@@ -58,7 +58,7 @@ Wollen Sie auf stehen
 S + MV + O + TV
 
 You should pick me at 16 uhr
-Sollst 
+Sollst du 
 
 
 
