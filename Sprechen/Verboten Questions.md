@@ -1,3 +1,3 @@
-Smokking is
+Smokking is prohibi
 Bitte sehen sie das schild ? 
 An hier darf man nicht rauchen.
