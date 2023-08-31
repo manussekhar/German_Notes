@@ -12,7 +12,7 @@ Was ist ihre Name ? Meine name ist Manu Somasekhar
 Wie heißen sie ? Ich heiße Manu Somasekhar
 Was ist deine Name ? Meine name ist Manu Somasekhar 
 wer bist du ? Ich heiße Manu Somasekhar
-wer ihre Sie?
+wer ihre Sie? Ich heiße Manu Somasekhar
 Wie alt bist du ?
 Wie alt ihre Sie?
 Was ist Ihr Beruf?
