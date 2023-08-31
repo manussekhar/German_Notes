@@ -19,7 +19,7 @@ Was ist Ihr Beruf? Ich arbeite als Softwareingenieur.
 Was ist dein Beruf? Ich arbeite als Softwareingenieur.
 Woher kommst du ? Ich komme aus Kerala
 Woher kommt ihr? Ich komme aus Kerala
-wo wohnst du ? 
+wo wohnst du ? Ich wohne in Pathanamthitta
 welche Sprache sprichst du ?
 Welche Sprache sprechen ihr ?
 was sind deine Hobbys ?
