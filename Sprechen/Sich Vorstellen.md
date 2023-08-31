@@ -13,8 +13,8 @@ Wie heißen sie ? Ich heiße Manu Somasekhar
 Was ist deine Name ? Meine name ist Manu Somasekhar 
 wer bist du ? Ich heiße Manu Somasekhar
 wer ihre Sie? Ich heiße Manu Somasekhar
-Wie alt bist du ?
-Wie alt ihre Sie?
+Wie alt bist du ? Ich bin vier­und­dreißig jahre alt
+Wie alt ihre Sie? Ich bin vier­und­dreißig jahre alt
 Was ist Ihr Beruf?
 Was ist dein Beruf?
 Woher kommst du ?
