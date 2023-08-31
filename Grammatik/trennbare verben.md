@@ -34,7 +34,7 @@ Wann sthen sie auf ?
 Suffix + S + O + prefix
 Do you wake up at 7 o clock
 Stehest du um 7 uhr auf ?
-Stehen Sie um 7 u
+Stehen Sie um 7 uhr auf
 
 
 
