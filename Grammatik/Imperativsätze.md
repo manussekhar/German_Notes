@@ -19,4 +19,4 @@ du -> Sei
 ihr -> Seit
 Sie -> Seien
 
-you be happy Fro
+you be happy Froh
