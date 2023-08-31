@@ -14,3 +14,4 @@ Ich stehe um 7 uhr auf
 Du stehst um 7 uhr auf
 Aufhören - to stop
 
+
