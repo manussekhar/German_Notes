@@ -1,2 +1,3 @@
 separable verbs
-Mitkommen - come al
+Mitkommen - come along
+
