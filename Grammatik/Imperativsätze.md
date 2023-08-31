@@ -14,5 +14,5 @@ You have patience (geduld)
 du hast geduld
 
 
-
+Sein - 
 
