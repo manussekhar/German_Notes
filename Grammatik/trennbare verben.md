@@ -16,7 +16,7 @@ Du stehst um 7 uhr auf
 Aufhören - to stop
 Einladen - to invite
 abholen - to pickup
-anfangen - to start
+anfängen - to start
 mitbringen - to bring along
 
 
