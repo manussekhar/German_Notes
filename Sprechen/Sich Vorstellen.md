@@ -19,7 +19,7 @@ Was ist Ihr Beruf?
 Was ist dein Beruf?
 Woher kommst du ?
 Woher kommt ihr?
-
+wo wohnst du ? 
 
 
 
