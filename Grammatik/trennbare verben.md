@@ -57,7 +57,7 @@ Wollen Sie auf stehen
 
 S + MV + O + TV
 
-You should pick me at
+You should pick me at 1
 
 
 
