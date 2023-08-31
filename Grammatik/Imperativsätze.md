@@ -15,5 +15,5 @@ du hast geduld
 
 
 Sein - to be
-du - 
+du -> Sei
 
