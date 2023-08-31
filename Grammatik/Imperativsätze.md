@@ -5,4 +5,4 @@ aufordenum - order
 
 du, ihr, Sie
 
-du trinkst wasser bitte -> **trik** wasser bitte !
+du trinkst wasser bitte -> **trink** wasser bitte !
