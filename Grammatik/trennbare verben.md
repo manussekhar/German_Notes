@@ -32,7 +32,7 @@ Wann sthen sie auf ?
 
 *Ja / Nein + Trenbare*
 Suffix + S + O + prefix
-Do you wake up at 7 o clock
+Do you wake up at 7 o clock ?
 Stehest du um 7 uhr auf ?
 Stehen Sie um 7 uhr auf ?
 
