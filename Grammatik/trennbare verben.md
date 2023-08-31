@@ -11,5 +11,5 @@ I come along with you - Ich komme dich mit
 
 Auffstehen - getup
 Ich stehe um 7 uhr auff
-Du stehst
+Du stehst um 
 
