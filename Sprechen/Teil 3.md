@@ -1,1 +1,1 @@
-[[Bitte Fragen]] oder [[Ja]]
+[[Bitte Fragen]] oder [[Ja oder Nein Frage]]
