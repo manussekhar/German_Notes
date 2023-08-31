@@ -2,4 +2,4 @@ Ich möchte + topic + verb
 bitte geben sie mir + topic
 
 Book 
-Ich möchte ein Buck lesen
+Ich möchte ein Buch lesen.
