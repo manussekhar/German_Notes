@@ -30,7 +30,7 @@ When do you wake up ?
 Wann stahest du auf ?
 Wann sthen sie auf ?
 
-
+*Ja*
 
 
 
