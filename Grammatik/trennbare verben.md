@@ -9,7 +9,7 @@ Prefix goes to the end suffix goes to second position with proper conjugation.
 
 I come along with you - Ich komme dich mit
 
-Aufstehen - getup
-Ich stehe um 7 uhr auf
+Auffstehen - getup
+Ich stehe um 7 uhr auff
 
 
