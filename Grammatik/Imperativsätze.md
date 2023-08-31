@@ -10,3 +10,4 @@ ihr trinkt wasser bitte -> **trinkt** wasser bitte !
 Sie trinken wasser bitte -> trinken Sie wasser bitte !
 
 You have patience
+
