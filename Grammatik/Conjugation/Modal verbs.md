@@ -5,6 +5,7 @@ sollen = should
 mögen = like
 müssen = must
 wollen = want
+m
 dürfen = may / allowed to
 
 
