@@ -3,4 +3,4 @@ bitte geben sie mir + topic
 
 Book 
 Ich möchte ein Buch lesen.
-Bitte geben m
+Bitte geben mir 
