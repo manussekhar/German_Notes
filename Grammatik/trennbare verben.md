@@ -21,6 +21,6 @@ mitbringen - to bring along
 mitkommen - to come along
 abfaren - to leave
 einsammeln - to collect
-anrufen
+anrufen - to cal
 
 
