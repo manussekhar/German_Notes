@@ -19,6 +19,7 @@ abholen - to pickup
 anfängen - to start
 mitbringen - to bring along
 mitkommen - to come along
-abfaren - to
+abfaren - to leave
+
 
 
