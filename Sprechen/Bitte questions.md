@@ -1,2 +1,2 @@
 Ich möchte + topic + verb
-bitte gen
+bitte geben si
