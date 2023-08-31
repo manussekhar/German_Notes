@@ -1,3 +1,3 @@
 V + S + O  ?
 
-Do you have children - 
+Do you have children - haben sie
