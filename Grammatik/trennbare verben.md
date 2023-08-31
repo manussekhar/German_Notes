@@ -5,6 +5,6 @@ Einladen - to invite
 
 Prefix - Mit
 Suffix - Kommen
-Prefix goes to the end
+Prefix goes to the end suffix
 
 I come along with you - Ich komme dich mit
