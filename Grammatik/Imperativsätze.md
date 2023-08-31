@@ -21,3 +21,5 @@ Sie -> Seien
 
 you be happy Frah - Sei glücklich, Farah
 you please come - Sei
+Y
+
