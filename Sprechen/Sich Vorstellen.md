@@ -15,8 +15,8 @@ wer bist du ? Ich heiße Manu Somasekhar
 wer ihre Sie? Ich heiße Manu Somasekhar
 Wie alt bist du ? Ich bin vier­und­dreißig jahre alt
 Wie alt ihre Sie? Ich bin vier­und­dreißig jahre alt
-Was ist Ihr Beruf?
-Was ist dein Beruf?
+Was ist Ihr Beruf? Ich arbeite als Softwareingenieur.
+Was ist dein Beruf? Ich arbeite als Softwareingenieur.
 Woher kommst du ?
 Woher kommt ihr?
 wo wohnst du ? 
