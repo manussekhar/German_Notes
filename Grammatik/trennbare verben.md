@@ -33,7 +33,7 @@ Wann sthen sie auf ?
 *Ja / Nein + Trenbare*
 Suffix + S + O + prefix
 Do you wake up at 7 o clock
-Wohnst du stehest
+Wohnst du stehest 
 
 
 
