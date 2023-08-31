@@ -16,6 +16,6 @@ Du stehst um 7 uhr auf
 Aufhören - to stop
 Einladen - to invite
 abholen - to pickup
-
+anfa
 
 
