@@ -6,5 +6,5 @@ aufordenum - order
 du, ihr, Sie
 
 du trinkst wasser bitte -> **trink** wasser bitte !
-ihr trinkt wasser bitte -> **trinkt** wasser bitter !
+ihr trinkt wasser bitte -> **trinkt** wasser bitte !
 Sie trinken wasser bitte -> trinken Sie wasser bitte !
