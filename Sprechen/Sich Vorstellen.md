@@ -21,7 +21,7 @@ Woher kommst du ?
 Woher kommt ihr?
 wo wohnst du ? 
 welche Sprache sprichst du ?
-
+Welche Sprache sprechen ihr ?
 
 
 
