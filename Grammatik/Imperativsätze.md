@@ -5,4 +5,4 @@ aufordenum - order
 
 du, ihr, Sie
 
-du trike
+du trikst wasser
