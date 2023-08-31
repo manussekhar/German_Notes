@@ -6,4 +6,4 @@ aufordenum - order
 du, ihr, Sie
 
 du trinkst wasser bitte -> **trink** wasser bitte !
-ihr trinkt wass
+ihr trinkt wasser bitte
