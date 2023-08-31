@@ -14,7 +14,7 @@ Was ist deine Name ?
 wer bist du ?
 wer ihre Sie?
 Wie alt bist du ?
-Wie alt 
+Wie alt ihre Sie
 
 
 
