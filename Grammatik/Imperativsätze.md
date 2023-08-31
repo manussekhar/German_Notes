@@ -1,3 +1,3 @@
 rat - advice
 bitte - request
-befehl
+befehl - commandf
