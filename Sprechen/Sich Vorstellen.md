@@ -10,6 +10,6 @@ Introduce yourself
 
 Was ist ihre Name ? Meine name ist Manu Somasekhar 
 Wie heißen sie ? Ich heiße Manu Somasekhar
-Was ist de Name ?
+Was ist deine Name ?
 
 
