@@ -11,4 +11,4 @@ Sie trinken wasser bitte -> trinken Sie wasser bitte !
 
 You have patience (geduld)
 
-du habst 
+du hast 
