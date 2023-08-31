@@ -25,7 +25,8 @@ anrufen - to call
 
 *W-Frage + Trennbare Verben*
 
-W-Element + suffix + subject + object + prefi
+W-Element + suffix + subject + object + prefix
+
 
 
 
