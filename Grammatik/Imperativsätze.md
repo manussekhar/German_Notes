@@ -19,5 +19,5 @@ du -> Sei
 ihr -> Seit
 Sie -> Seien
 
-you be happy Froh,
+you be happy Frah,
 you please come
