@@ -31,6 +31,7 @@ W-Element + suffix + subject + object + prefix
 When do you wake up ?
 Wann stahest du auf ?
 Wann sthen sie auf ?
+[[Ja oder Nein Frage]]
 
 *Ja / Nein + Trenbare*
 Suffix + S + O + prefix
