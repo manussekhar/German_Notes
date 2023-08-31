@@ -20,4 +20,4 @@ ihr -> Seit
 Sie -> Seien
 
 you be happy Froh,
-you please 
+you please come
