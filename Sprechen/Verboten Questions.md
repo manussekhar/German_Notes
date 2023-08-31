@@ -1,2 +1,2 @@
 Bitte sehen sie das schild ? 
-An hier darf 
+An hier darf man
