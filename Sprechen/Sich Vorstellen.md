@@ -22,7 +22,8 @@ Woher kommt ihr?
 wo wohnst du ? 
 welche Sprache sprichst du ?
 Welche Sprache sprechen ihr ?
-was sind deine Hobbys 
+was sind deine Hobbys ?
+
 
 
 
