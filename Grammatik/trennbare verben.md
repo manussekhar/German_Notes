@@ -27,7 +27,7 @@ anrufen - to call
 
 W-Element + suffix + subject + object + prefix
 When do you wake up ?
-Whan stahe
+Whan stahest 
 
 
 
