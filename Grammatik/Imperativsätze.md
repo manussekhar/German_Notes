@@ -19,3 +19,4 @@ du -> Sei
 ihr -> Seit
 Sie -> Seien
 
+you
