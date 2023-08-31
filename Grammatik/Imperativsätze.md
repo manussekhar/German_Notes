@@ -3,3 +3,4 @@ bitte - request
 befehl - command
 aufordenum - order
 
+du
