@@ -48,7 +48,7 @@ Wann wollen Sie aufstehen ?
 
 *[[Ja oder Nein Frage]] + [[Modal verbs]] + TV*
 
-MV + S + O 
+MV + S + O + TV
 
 Willst do auf stehen ?
 Wollen Sie auf stehen
