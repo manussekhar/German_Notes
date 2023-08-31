@@ -20,6 +20,7 @@ anfängen - to start
 mitbringen - to bring along
 mitkommen - to come along
 abfaren - to leave
-einsammeln - to
+einsammeln - to collect
+
 
 
