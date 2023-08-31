@@ -58,7 +58,7 @@ Wollen Sie auf stehen
 S + MV + O + TV
 
 You should pick me at 16 uhr
-Du sollst um 16 uhr abholen
+Du sollst misch um 16 uhr abholen
 Sie sollen um 16 uhr abholen
 
 
