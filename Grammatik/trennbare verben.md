@@ -42,7 +42,7 @@ Stehen Sie um 7 uhr auf ?
 *[[Modal verbs]] + Trennbare*
 
 W-Frage + MV + S + O + TV
-When do you want to wake
+When do you want to wake up ?
 
 
 
