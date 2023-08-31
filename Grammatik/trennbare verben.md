@@ -40,7 +40,7 @@ Stehest du um 7 uhr auf ?
 Stehen Sie um 7 uhr auf ?
 
 *[[Modal verbs]] + Trennbare*
-
+if W-
 
 
 
