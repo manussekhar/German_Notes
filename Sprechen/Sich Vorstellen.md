@@ -23,8 +23,8 @@ wo wohnst du ? Ich wohne in Pathanamthitta
 wo wohne ihr ? Ich wohne in Pathanamthitta
 welche Sprache sprichst du ? Ich spreche Malayalam, Englisch und ein bisschen Deutch.
 Welche Sprache sprechen ihr ? Ich spreche Malayalam, Englisch und ein bisschen Deutch.
-was sind deine Hobbys ?
-was sind ihre Hobbys?
+was sind deine Hobbys ? Meine Hobbys sind Lesen und Kochen.
+was sind ihre Hobbys? Meine Hobbys sind Lesen und Kochen.
 
 
 
