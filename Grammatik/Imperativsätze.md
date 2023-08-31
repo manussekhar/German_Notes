@@ -4,3 +4,5 @@ befehl - command
 aufordenum - order
 
 du, ihr, Sie
+
+du
