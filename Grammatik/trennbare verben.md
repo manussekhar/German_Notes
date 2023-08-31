@@ -59,7 +59,7 @@ S + MV + O + TV
 
 You should pick me at 16 uhr
 Du sollst um 16 uhr abholen
-Sie sollen 16 uhr
+Sie sollen um 16 uhr
 
 
 
