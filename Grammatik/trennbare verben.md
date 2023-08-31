@@ -1,4 +1,4 @@
 separable verbs
 Mitkommen - come along
 
-Einladen
+Einladen - to invi
