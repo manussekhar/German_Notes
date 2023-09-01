@@ -29,7 +29,7 @@ Woher kommen Sie ? Ich komme aus Kerala
 Wo wohnst du ? Ich wohne in Pathanamthitta
 Wo wohnen Sie ? Ich wohne in Pathanamthitta
 Welche Sprache sprichst du ? Ich spreche Malayalam, Englisch und ein bisschen Deutch.
-Welche Sprache sprechen ihr ? Ich spreche Malayalam, Englisch und ein bisschen Deutch.
+Welche Sprache sprechen Sie ? Ich spreche Malayalam, Englisch und ein bisschen Deutch.
 was sind deine Hobbys ? Meine Hobbys sind Lesen und Kochen.
 was sind ihre Hobbys? Meine Hobbys sind Lesen und Kochen.
 
