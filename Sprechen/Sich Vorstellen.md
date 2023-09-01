@@ -11,7 +11,7 @@ Stell dich bitte vor - Please Introduce yourself
 Was ist ihre Name ? Meine name ist Manu Somasekhar 
 Was ist deine Name ? Meine name ist Manu Somasekhar 
 Wie heißen Sie ? Ich heiße Manu Somasekhar
-wer bist du ? Ich heiße Manu Somasekhar
+Wer bist du ? Ich heiße Manu Somasekhar
 Wer sind Sie? Ich heiße Manu Somasekhar
 Wie alt bist du ? Ich bin vier­und­dreißig jahre alt
 Wie alt ihre Sie? Ich bin vier­und­dreißig jahre alt
