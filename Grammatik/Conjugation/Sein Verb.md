@@ -8,4 +8,4 @@ _Wo ist das Buch?_ - Where is the book?
 
 
 *Wo sind die Bücher* - Where are the books ?
-*Das sind die Bücher* - Those are the books
+*Das sind die Bücher* - Here are the books
