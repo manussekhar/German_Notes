@@ -18,3 +18,8 @@ bist
 Er
 - _Er ist Arzt._ - He is a doctor.
 - _Er ist mein Bruder._ - He is my brother.
+Wir
+- _Wir sind Freunde._ - We are friends.
+- _Wir sind Studenten._ - We are students.
+- _Wir sind Familie._ - We are family.
+- 
