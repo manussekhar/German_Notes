@@ -7,4 +7,4 @@ sind is the plural usage
 _Wo ist das Buch?_ - Where is the book?
 
 *Wo sind die Bücher* - Where are the books ?
-**- Those are the books
+*Das sind die Bücher* - Those are the books
