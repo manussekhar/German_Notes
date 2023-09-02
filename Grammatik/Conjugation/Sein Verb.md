@@ -29,4 +29,3 @@ Sie
 - _Sie sind Lehrer._ - They are teachers.
 - _Sie sind meine Kollegen._ - They are my colleagues.
 - _Sie sind nette Leute._ - They are nice people.
-- 
