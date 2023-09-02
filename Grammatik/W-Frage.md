@@ -13,7 +13,7 @@ wie oft;how often
 warum;why
 woher;From where
 Wohin;to where
-Wann:
+Wann: when
 
 
 Was ist ihre Name ? Meine name ist Manu Somasekhar 
