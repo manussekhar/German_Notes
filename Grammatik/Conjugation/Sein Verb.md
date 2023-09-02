@@ -25,3 +25,8 @@ Wir
 Ihr
 - _Ihr seid meine besten Freunde._ - You all are my best friends.
 - _Ihr seid sehr nett._ - You guys are very nice.
+Sie
+- _Sie sind Lehrer._ - They are teachers.
+- _Sie sind meine Kollegen._ - They are my colleagues.
+- _Sie sind nette Leute._ - They are nice people.
+- 
