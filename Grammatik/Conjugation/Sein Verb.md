@@ -2,4 +2,4 @@
 |-------|---|--|---------|---|----|--------|
 |Sein |bin|bist|ist|sind|seid|sind|
 
-sind is the pl
+sind is the plural
