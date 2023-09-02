@@ -15,3 +15,6 @@ _Ich bin glücklich._ - I am happy.
 bist
 - _Du bist mein bester Freund._ - You are my best friend.
 - _Du bist sehr nett._ - You are very nice.
+Er
+- _Er ist Arzt._ - He is a doctor.
+- _Er ist mein Bruder._ - He is my brother.
