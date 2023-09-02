@@ -22,4 +22,3 @@ Wir
 - _Wir sind Freunde._ - We are friends.
 - _Wir sind Studenten._ - We are students.
 - _Wir sind Familie._ - We are family.
-- 
