@@ -23,3 +23,5 @@ Wir
 - _Wir sind Studenten._ - We are students.
 - _Wir sind Familie._ - We are family.
 Ihr
+- _Ihr seid meine besten Freunde._ - You all are my best friends.
+- _Ihr seid sehr nett._ - You guys are very nice.
