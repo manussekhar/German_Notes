@@ -2,4 +2,5 @@
 |-------|---|--|---------|---|----|--------|
 |Sein |bin|bist|ist|sind|seid|sind|
 
-sind is the plural
+sind is the plural usage
+
