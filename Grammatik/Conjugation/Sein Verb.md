@@ -2,3 +2,4 @@
 |-------|---|--|---------|---|----|--------|
 |Sein |bin|bist|ist|sind|seid|sind|
 
+sind
