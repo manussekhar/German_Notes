@@ -5,4 +5,4 @@
 sind is the plural usage
 
 _Wo ist das Buch?_ - Where is the book?
-*Wo sind die Bücher* - Where are 
+*Wo sind die Bücher* - Where are the books
