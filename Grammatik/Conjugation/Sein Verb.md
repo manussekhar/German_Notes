@@ -24,3 +24,11 @@ Sie
 - _Sie sind Lehrer._ - They are teachers.
 - _Sie sind meine Kollegen._ - They are my colleagues.
 - _Sie sind nette Leute._ - They are nice people.
+
+
+sind is the plural usage of ist
+
+_Wo ist das Buch?_ - Where is the book?
+*Hier ist das Buch* - Here is the book
+*Wo sind die Bücher* - Where are the books ?
+*Hier sind die Bücher* - Here are the books
