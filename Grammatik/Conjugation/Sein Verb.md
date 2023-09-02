@@ -2,7 +2,7 @@
 |-------|---|--|---------|---|----|--------|
 |Sein |bin|bist|ist|sind|seid|sind|
 
-sind is the plural usage
+sind is the plural usage of 
 
 _Wo ist das Buch?_ - Where is the book?
 *Hier ist das Buch* - Here is the book
