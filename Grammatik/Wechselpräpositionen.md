@@ -14,7 +14,7 @@ prepositions that can be used with either the accusative or dative case, dependi
     - Accusative: Sie geht in den Park. (She goes into the park.)
     - Dative: Sie ist im Park. (She is in the park.) (im = in + dem)
 5. **neben** (next to, beside):
-    - Accusative: Das Telefon liegt neben das Buch. (The phone is next to the book.)
+    - Accusative: Er stellt das Buch neben den Computer. (The phone is next to the book.)
     - Dative: Das Telefon liegt neben dem Buch. (The phone is next to the book.)
 6. **über** (over, above):
     - Accusative: Das Flugzeug fliegt über den Wolken. (The airplane is flying over the clouds.)
