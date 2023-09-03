@@ -18,6 +18,7 @@ prepositions that can be used with either the accusative or dative case, dependi
     - Dative: Das Telefon liegt neben dem Buch. (The phone is next to the book.)
 6. **über** (over, above):
     - Accusative: Das Flugzeug fliegt über den Wolken. (The airplane is flying over the clouds.) über points to Flugzeug
+
     - Dative: Die Vögel fliegen über dem Wald. (The birds are flying over the forest.) über points to Wald
 7. **unter** (under, below):
     - Accusative: Die Katze versteckt sich unter die Decke. (The cat is hiding under the blanket.)
