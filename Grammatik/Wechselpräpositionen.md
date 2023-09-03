@@ -2,11 +2,9 @@
 prepositions that can be used with either the accusative or dative case, depending on the context.
 
 1. **an** (at, on, to):
-    
     - Accusative: Ich hänge das Bild an die Wand. (I hang the picture on the wall.)
     - Dative: Das Bild hängt an der Wand. (The picture hangs on the wall.)
 2. **auf** (on, onto, upon):
-    
     - Accusative: Ich lege das Buch auf den Tisch. (I put the book on the table.)
     - Dative: Das Buch liegt auf dem Tisch. (The book is on the table.)
 3. **hinter** (behind):
