@@ -31,5 +31,5 @@ In German, when certain prepositions, like "über" (over), are used to indicate 
     - Accusative: Er stellt sich vor die Tür. (He stands in front of the door.)
     - Dative: Er steht vor der Tür. (He is standing in front of the door.)
 9. **zwischen** (between):
-    - Accusative: Das Kind sitzt zwischen die Eltern. (The child is sitting between the parents.)
+    - Accusative: Er geht zwischen die Bäume." (He walks between the trees.)
     - Dative: Das Kind sitzt zwischen den Eltern. (The child is sitting between the parents.)
