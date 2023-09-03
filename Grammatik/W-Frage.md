@@ -45,3 +45,16 @@ What are you called -> Wie heißt du
 
 
 *Wo vs Wohin*
+1. **Wo:** This word is used to ask about a static or stationary location. It is equivalent to the English question word "where."
+    
+    - "Wo ist das Buch?" (Where is the book?)
+    - "Wo wohnst du?" (Where do you live?)
+    
+    In these examples, you are asking about the current or permanent location of something or someone.
+    
+2. **Wohin:** This word is used to ask about a destination or a place to which someone or something is going. It is equivalent to the English question word "where to."
+    
+    - "Wohin gehst du?" (Where are you going?)
+    - "Wohin fliegt das Flugzeug?" (Where is the airplane flying to?)
+    
+    In these examples, you are asking about the intended or future location or direction of movement.
