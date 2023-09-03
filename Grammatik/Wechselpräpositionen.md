@@ -8,7 +8,7 @@ prepositions that can be used with either the accusative or dative case, dependi
     - Accusative: Ich lege das Buch auf den Tisch. (I put the book on the table.)
     - Dative: Das Buch liegt auf dem Tisch. (The book is on the table.)
 3. **hinter** (behind):
-    - Accusative: Das Auto steht hinter das Haus. (The car is parked behind the house.)
+    - Accusative: "Der Hund läuft hinter den Ball."(The car is parked behind the house.)
     - Dative: Das Auto steht hinter dem Haus. (The car is parked behind the house.)
 4. **in** (in, into):
     - Accusative: Sie geht in den Park. (She goes into the park.)
