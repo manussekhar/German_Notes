@@ -61,4 +61,3 @@ What are you called -> Wie heißt du
     - "Wohin fliegt das Flugzeug?" (Where is the airplane flying to?)
     
     In these examples, you are asking about the intended or future location or direction of movement.
-Woh answer should be in akkusative
