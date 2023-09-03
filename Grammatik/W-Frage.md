@@ -53,7 +53,7 @@ What are you called -> Wie heißt du
     
     In these examples, you are asking about the current or permanent location of something or someone.
 
-Woh answer should be in dativ
+Woh answer should be in dative
     
 2. **Wohin:** This word is used to ask about a destination or a place to which someone or something is going. It is equivalent to the English question word "where to."
     
