@@ -23,10 +23,8 @@ prepositions that can be used with either the accusative or dative case, dependi
     - Accusative: Die Katze versteckt sich unter die Decke. (The cat is hiding under the blanket.)
     - Dative: Die Katze liegt unter der Decke. (The cat is lying under the blanket.)
 8. **vor** (in front of, before):
-    
     - Accusative: Er stellt sich vor die Tür. (He stands in front of the door.)
     - Dative: Er steht vor der Tür. (He is standing in front of the door.)
 9. **zwischen** (between):
-    
     - Accusative: Das Kind sitzt zwischen die Eltern. (The child is sitting between the parents.)
     - Dative: Das Kind sitzt zwischen den Eltern. (The child is sitting between the parents.)
