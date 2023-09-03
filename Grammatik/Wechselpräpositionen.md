@@ -1,5 +1,6 @@
 "two-way prepositions"
 prepositions that can be used with either the accusative or dative case, depending on the context.
+
 1. **an** (at, on, to):
     
     - Accusative: Ich hänge das Bild an die Wand. (I hang the picture on the wall.)
