@@ -29,7 +29,7 @@ In German, when certain prepositions, like "über" (over), are used to indicate 
     - Dative: Die Katze liegt unter der Decke. (The cat is lying under the blanket.)
 8. **vor** (in front of, before):
     - Accusative: "Er läuft vor das Haus." (He runs in front of the house.) - Accusative case because it indicates movement towards the front of the house.
-    - Dative: Er steht vor der Tür. (He is standing in front of the door.)
+    - Dative: "Er sitzt vor der Tür." (He is sitting in front of the door.) - Dative case for location.
 9. **zwischen** (between):
     - Accusative: Er geht zwischen die Bäume." (He walks between the trees.)
     - Dative: Das Kind sitzt zwischen den Eltern. (The child is sitting between the parents.)
