@@ -9,7 +9,7 @@ prepositions that can be used with either the accusative or dative case, dependi
     - Dative: Das Buch liegt auf dem Tisch. (The book is on the table.)
 3. **hinter** (behind):
     - Accusative: Der Hund läuft hinter den Ball.(The dog is running behind the ball.)
-    - Dative: Der Hund versteckt sich hinter dem Sofa. (The car is parked behind the house.)
+    - Dative: Der Hund versteckt sich hinter dem Sofa. (The dog is hiding behind the sofa.)
 4. **in** (in, into):
     - Accusative: Sie geht in den Park. (She goes into the park.)
     - Dative: Sie ist im Park. (She is in the park.)
