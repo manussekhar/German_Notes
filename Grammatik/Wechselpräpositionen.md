@@ -12,7 +12,7 @@ prepositions that can be used with either the accusative or dative case, dependi
     - Dative: Der Hund versteckt sich hinter dem Sofa. (The dog is hiding behind the sofa.)
 4. **in** (in, into):
     - Accusative: Sie geht in den Park. (She goes into the park.)
-    - Dative: Sie ist im Park. (She is in the park.) (i)
+    - Dative: Sie ist im Park. (She is in the park.) (im = in )
 5. **neben** (next to, beside):
     - Accusative: Das Telefon liegt neben das Buch. (The phone is next to the book.)
     - Dative: Das Telefon liegt neben dem Buch. (The phone is next to the book.)
