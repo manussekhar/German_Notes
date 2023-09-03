@@ -45,6 +45,7 @@ What are you called -> Wie heißt du
 
 
 *Wo vs Wohin*
+
 1. **Wo:** This word is used to ask about a static or stationary location. It is equivalent to the English question word "where."
     
     - "Wo ist das Buch?" (Where is the book?)
