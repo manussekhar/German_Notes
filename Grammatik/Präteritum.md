@@ -23,4 +23,4 @@ Sie/Sie waren
 Ich sagte
 Du sagtest
 Er/Sie/Es sagte
-Wir 
+Wir S
