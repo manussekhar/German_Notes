@@ -19,3 +19,4 @@ Wir waren
 Ihr wart
 Sie/Sie waren
 
+**Sagen**
