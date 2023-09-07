@@ -31,3 +31,4 @@ Last year I don't have a car. Now I have a car.
 Letßtes Jahr hatte Ich kein Auto. Jetzt habe Ich ein Auto
 
 Last year I was a student. Now I am a teacher.
+Let
