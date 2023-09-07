@@ -1,7 +1,7 @@
 had -> hatten
 was -> waren
 
-For Präteritum Ich and Er/sie/es conjugation will be same 
+For Präteritum Er/sie/es conjugation will be same 
 
 hatten 
 Ich hatte
