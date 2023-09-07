@@ -27,4 +27,4 @@ Wir sagte
 Ihr sagtet
 Sie/sie Sagten
 
-Last year I do
+Last year I don't have
