@@ -8,4 +8,5 @@ Ich hatte
 Du hattest
 Er/Sie/Es hatte
 Wir hatten
+Ihr 
 Sie/Sie hatten
