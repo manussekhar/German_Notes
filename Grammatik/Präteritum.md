@@ -15,4 +15,5 @@ Sie/Sie hatten
 Ich war
 du warst
 er/Sie/Es war
-Wir 
+Wir waren
+S
