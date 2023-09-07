@@ -24,4 +24,4 @@ Ich sagte
 Du sagtest
 Er/Sie/Es sagte
 Wir sagte
-Ihr 
+Ihr sagtet
