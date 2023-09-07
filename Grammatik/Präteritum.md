@@ -12,4 +12,5 @@ Ihr hattet
 Sie/Sie hatten
 
 **waren**
-Ich wa
+Ich war
+du was
