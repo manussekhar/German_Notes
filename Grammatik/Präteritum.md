@@ -13,4 +13,4 @@ Sie/Sie hatten
 
 **waren**
 Ich war
-du was
+du wast
