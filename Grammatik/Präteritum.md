@@ -28,4 +28,4 @@ Ihr sagtet
 Sie/sie Sagten
 
 Last year I don't have a car. Now I don't have a car.
-Letßtes Jahr hatte Ich 
+Letßtes Jahr hatte Ich eir 
