@@ -1,4 +1,4 @@
 had -> hatten
 was -> waren
 
-For Präteritum Ich 
+For Präteritum Ich and Er/
