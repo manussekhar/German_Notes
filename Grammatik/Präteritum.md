@@ -20,3 +20,4 @@ Ihr wart
 Sie/Sie waren
 
 **Sagen**
+Ich
