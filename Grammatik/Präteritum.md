@@ -25,4 +25,4 @@ Du sagtest
 Er/Sie/Es sagte
 Wir sagte
 Ihr sagtet
-Sie/sie 
+Sie/sie Sagten
