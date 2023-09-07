@@ -19,7 +19,7 @@ Wir waren
 Ihr wart
 Sie/Sie waren
 
-**Sagen**
+**Sagten**
 Ich sagte
 Du sagtest
 Er/Sie/Es sagte
