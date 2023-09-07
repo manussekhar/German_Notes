@@ -27,4 +27,4 @@ Wir sagte
 Ihr sagtet
 Sie/sie Sagten
 
-Last ye
+Last year I do
