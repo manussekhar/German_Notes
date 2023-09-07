@@ -1,4 +1,4 @@
 had -> hatten
 was -> waren
 
-For Präter
+For Präteritum 
