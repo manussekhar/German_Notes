@@ -22,4 +22,4 @@ Sie/Sie waren
 **Sagen**
 Ich sagte
 Du sagtest
-Er/Sie/
+Er/Sie/Es sagte
