@@ -21,4 +21,4 @@ Sie/Sie waren
 
 **Sagen**
 Ich sagte
-Du sag
+Du sags
