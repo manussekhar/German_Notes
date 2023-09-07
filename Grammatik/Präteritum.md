@@ -20,4 +20,4 @@ Ihr wart
 Sie/Sie waren
 
 **Sagen**
-Ich sag
+Ich sagte
