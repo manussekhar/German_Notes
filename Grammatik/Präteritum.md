@@ -1,2 +1,2 @@
 had -> hatten
-was -> 
+was -> waren
