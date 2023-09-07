@@ -14,4 +14,5 @@ Sie/Sie hatten
 **waren**
 Ich war
 du warst
-er/Sie/Es wa
+er/Sie/Es war
+Wir 
