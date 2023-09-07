@@ -27,4 +27,4 @@ Wir sagte
 Ihr sagtet
 Sie/sie Sagten
 
-Last year I don't have
+Last year I don't have a car. 
