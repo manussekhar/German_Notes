@@ -26,3 +26,4 @@ Er/Sie/Es sagte
 Wir sagte
 Ihr sagtet
 Sie/sie Sagten
+
