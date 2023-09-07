@@ -1,4 +1,4 @@
 had -> hatten
 was -> waren
 
-For Präteritum Ich and Er/sie/es conjugation will be same as P
+For Präteritum Ich and Er/sie/es conjugation will be same as Pra>
