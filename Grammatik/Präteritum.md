@@ -27,5 +27,5 @@ Wir sagte
 Ihr sagtet
 Sie/sie Sagten
 
-Last year I don't have a car. Now I don't have a car.
+Last year I don't have a car. Now I have a car.
 Letßtes Jahr hatte Ich kein Auto. Jetzt habe Ich 
