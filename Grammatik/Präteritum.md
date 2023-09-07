@@ -10,3 +10,4 @@ Er/Sie/Es hatte
 Wir hatten
 Ihr hattet
 Sie/Sie hatten
+
