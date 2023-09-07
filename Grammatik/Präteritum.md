@@ -27,3 +27,4 @@ Wir sagte
 Ihr sagtet
 Sie/sie Sagten
 
+Last ye
