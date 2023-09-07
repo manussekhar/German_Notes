@@ -16,5 +16,5 @@ Ich war
 du warst
 er/Sie/Es war
 Wir waren
-Ihr 
+Ihr wart
 Sie/Sie waren
