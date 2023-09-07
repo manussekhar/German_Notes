@@ -11,4 +11,4 @@ Wir hatten
 Ihr hattet
 Sie/Sie hatten
 
-waren
+**waren**
