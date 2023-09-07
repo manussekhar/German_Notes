@@ -1,1 +1,1 @@
-had will become hat
+had ->
