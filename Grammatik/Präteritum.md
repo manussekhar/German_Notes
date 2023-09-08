@@ -35,3 +35,4 @@ Letßtes Jahr war Ich ein Student. Jetxt bin Ich ein Lehrer
 
 Gehen - ging
 Kommen - Kam
+Sagen - Sag
