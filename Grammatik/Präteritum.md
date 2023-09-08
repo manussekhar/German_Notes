@@ -41,4 +41,4 @@ du - gingst
 er/Sie/es - ging
 ihr - gingt
 wir - gingen
-Sie/sie - 
+Sie/sie - gingen
