@@ -1,1 +1,1 @@
-Offiziel - 24 
+Offiziel - 24 hrs
