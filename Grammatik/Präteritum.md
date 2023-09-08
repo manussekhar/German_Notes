@@ -33,3 +33,4 @@ Letßtes Jahr hatte Ich kein Auto. Jetzt habe Ich ein Auto
 Last year I was a student. Now I am a teacher.
 Letßtes Jahr war Ich ein Student. Jetxt bin Ich ein Lehrer
 
+Gehen - 
