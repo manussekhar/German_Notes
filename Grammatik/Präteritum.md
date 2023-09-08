@@ -39,5 +39,5 @@ Sehen - Sach
 Ich - ging
 du - gingst
 er/Sie/es - ging
-er - gingt
+ihr - gingt
 wir - 
