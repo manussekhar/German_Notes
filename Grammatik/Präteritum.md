@@ -34,4 +34,4 @@ Last year I was a student. Now I am a teacher.
 Letßtes Jahr war Ich ein Student. Jetxt bin Ich ein Lehrer
 
 Gehen - ging
-Ko
+Kommen - 
