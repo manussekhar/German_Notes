@@ -4,4 +4,4 @@
 16 - es ist vier uhr
 16.45 - es ist sechs uhr FünfundVierzig
 
-Wie 
+Wie sp"
