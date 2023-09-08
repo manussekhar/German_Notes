@@ -38,4 +38,5 @@ Kommen - Kam
 Sehen - Sach
 Ich - ging
 du - gingst
-er/Sie/es - 
+er/Sie/es - ging
+er - 
