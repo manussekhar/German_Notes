@@ -37,4 +37,5 @@ Gehen - ging
 Kommen - Kam
 Sehen - Sach
 Ich - ging
-du - ging
+du - gingst
+er
