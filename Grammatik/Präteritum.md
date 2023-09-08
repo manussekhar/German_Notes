@@ -40,4 +40,4 @@ Ich - ging
 du - gingst
 er/Sie/es - ging
 er - gingt
-w
+wir - 
