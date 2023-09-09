@@ -10,5 +10,5 @@ InOffizel
 7.05 - Fünf nach Sieben
 7.10 - Zehn nach Sieben
 7.15 - Viertel nach Sieben
-7.20 
+7.20 - 
 
