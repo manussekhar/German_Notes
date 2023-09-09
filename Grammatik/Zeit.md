@@ -15,5 +15,5 @@ InOffizel
 7.30 - halb acht
 7.35 - Fünf nach halb acht
 7.40 - Zehn nach halb acht
-7.45 - Viertel 
+7.45 - Viertel Vor a
 
