@@ -18,5 +18,5 @@ InOffizel
 7.45 - Viertel Vor acht
 7.50 - Zehn Vor acht
 7.55 - fünf Vor acht
-8
+8.00
 
