@@ -13,5 +13,5 @@ InOffizel
 7.20 - Zehn Vor halb acht
 7.25 - Fünf Vor halb acht
 7.30 - halb acht
-
+7.35 - 
 
