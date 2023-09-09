@@ -12,5 +12,5 @@ InOffizel
 7.15 - Viertel nach Sieben
 7.20 - Zehn Vor halb acht
 7.25 - Fünf Vor halb acht
-7.30
+7.30 - ha
 
