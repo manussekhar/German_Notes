@@ -17,5 +17,5 @@ InOffizel
 7.40 - Zehn nach halb acht
 7.45 - Viertel Vor acht
 7.50 - Zehn Vor acht
-7.55 - fünf 
+7.55 - fünf Vor ach
 
