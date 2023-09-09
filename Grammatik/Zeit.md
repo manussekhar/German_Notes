@@ -11,5 +11,5 @@ InOffizel
 7.10 - Zehn nach Sieben
 7.15 - Viertel nach Sieben
 7.20 - Zehn Vor halbacht
-7.25 - Fünf
+7.25 - Fünf Vor 
 
