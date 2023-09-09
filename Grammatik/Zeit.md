@@ -7,5 +7,6 @@
 Wie spät es ?
 
 InOffizel
-7.05 - Fünf nach 
+7.05 - Fünf nach Sieben
+
 
