@@ -14,5 +14,5 @@ InOffizel
 7.25 - Fünf Vor halb acht
 7.30 - halb acht
 7.35 - Fünf nach halb acht
-7.40 - 
+7.40 - Z
 
